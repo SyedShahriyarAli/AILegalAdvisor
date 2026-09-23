@@ -1,0 +1,73 @@
+# Nginx: add this app WITHOUT disturbing other applications
+# ============================================================
+# Wildcard DNS (*.eraconnect.net → this server) only delivers packets here.
+# Which app answers is decided by nginx’s server_name. If the browser still shows
+# the “Era” app, nginx is matching a different server block (often default_server
+# or a catch-all) — not this file, or this file is not loaded.
+#
+# Rules (simplified): an exact server_name ailegaladvisor.eraconnect.net wins over
+# server_name *.eraconnect.net for that host. You still must install and reload nginx.
+#
+# The AI Legal Advisor stack runs in Podman/Docker with Caddy on HTTP only,
+# published on host port 8080 (0.0.0.0:8080). Nginx still uses proxy_pass http://127.0.0.1:8080.
+#   CADDY_PUBLISH_PORT=8080
+#
+# Install from repo deploy/ directory (no $REPO needed):
+#   cd /path/to/AILegalAdvisor/deploy && sudo cp nginx-ailegaladvisor.conf.example /etc/nginx/conf.d/00-ailegaladvisor.conf
+#          sudo nginx -t && sudo systemctl reload nginx
+#
+# --- Debug when traffic still hits Era ---
+#   sudo nginx -T 2>/dev/null | grep -E 'server_name|listen 443|default_server' | head -80
+#   curl -sI -H 'Host: ailegaladvisor.eraconnect.net' https://127.0.0.1/
+# Look for another server { } on 443 with default_server or server_name _; that
+# may be catching the request if your ailegal block is missing or has a bad server_name.
+#
+# --- 502 Bad Gateway from nginx (upstream is 127.0.0.1:8080 = Caddy) ---
+# 1) From the server: curl -sS -o /dev/null -w "%{http_code}\n" http://127.0.0.1:8080/health  → expect 200
+# 2) If curl fails: podman ps ; podman logs deploy_caddy_1   (or: podman-compose --env-file ../backend/.env logs caddy)
+# 3) AlmaLinux/RHEL SELinux often blocks nginx → upstream TCP. Fix:
+#      getenforce
+#      sudo setsebool -P httpd_can_network_connect 1
+#    Then: sudo systemctl reload nginx
+
+# SSL: this server’s wildcard cert lives at /etc/letsencrypt/live/eraconnect.net/
+# (SAN includes DNS:*.eraconnect.net — valid for ailegaladvisor.eraconnect.net).
+# If `openssl x509 ...` shows the wildcard only under eraconnect.net-0001, switch
+# ssl_* paths to that directory instead.
+#
+# Verify SAN (optional):
+#   sudo openssl x509 -in /etc/letsencrypt/live/eraconnect.net/fullchain.pem -noout -text | grep -A2 'Subject Alternative Name'
+#
+# List other cert dirs: sudo ls -la /etc/letsencrypt/live/
+# Hostname-only cert (optional): sudo certbot certonly --nginx -d ailegaladvisor.eraconnect.net
+
+server {
+    listen 443 ssl http2;
+    listen [::]:443 ssl http2;
+    server_name ailegaladvisor.eraconnect.net;
+
+    # Wildcard *.eraconnect.net + eraconnect.net (default for this deployment)
+    ssl_certificate     /etc/letsencrypt/live/eraconnect.net/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/eraconnect.net/privkey.pem;
+
+    # Optional: dedicated cert for this subdomain only (uncomment after certbot -d ailegaladvisor.eraconnect.net)
+    # ssl_certificate     /etc/letsencrypt/live/ailegaladvisor.eraconnect.net/fullchain.pem;
+    # ssl_certificate_key /etc/letsencrypt/live/ailegaladvisor.eraconnect.net/privkey.pem;
+
+    location / {
+        proxy_pass http://127.0.0.1:8080;
+        proxy_http_version 1.1;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+        proxy_read_timeout 300s;
+    }
+}
+
+server {
+    listen 80;
+    listen [::]:80;
+    server_name ailegaladvisor.eraconnect.net;
+    return 301 https://$host$request_uri;
+}

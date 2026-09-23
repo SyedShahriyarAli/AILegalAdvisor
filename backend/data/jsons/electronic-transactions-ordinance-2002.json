@@ -1,0 +1,1546 @@
+{
+  "document": {
+    "title": "The Electronic Transactions Ordinance, 2002",
+    "year": 2002,
+    "source_file": "The Electronic Transactions Ordinance, 2002.pdf",
+    "sections": [
+      {
+        "section_number": "1",
+        "title": "Short title, extent and commencement.",
+        "page_number": 4,
+        "part": null,
+        "chapter": "CHAPTER 1 PRELIMINARY",
+        "line_index": 19,
+        "y_position": 432.5,
+        "content": "",
+        "clauses": [
+          {
+            "id": "1",
+            "text": "This Ordinance may be called the\nElectronic Transactions Ordinance, 2002."
+          },
+          {
+            "id": "2",
+            "text": "It extends to the whole of Pakistan."
+          },
+          {
+            "id": "3",
+            "text": "It shall come into force at once."
+          }
+        ]
+      },
+      {
+        "section_number": "2",
+        "title": "Definitions.",
+        "page_number": 4,
+        "part": null,
+        "chapter": "CHAPTER 1 PRELIMINARY",
+        "line_index": 23,
+        "y_position": 517.6,
+        "content": "",
+        "clauses": [
+          {
+            "id": "1",
+            "text": "In this Ordinance, unless there is anything repugnant in the subject or\ncontext,—"
+          },
+          {
+            "id": "a",
+            "text": "“accreditation certificate” means a certificate granted by the Certification\nCouncil to a Certification Service Provider;"
+          },
+          {
+            "id": "b",
+            "text": "“Accredited Certification Service Provider” means a Certification Service\nProvider accredited under this Ordinance to issue certificates for the use of its\ncryptography services;"
+          },
+          {
+            "id": "c",
+            "text": "“addressee” means the person intended by the originator to receive the\nelectronic communication but does not include an intermediary;"
+          },
+          {
+            "id": "d",
+            "text": "“advanced electronic signature” means an electronic signature which is\neither—"
+          },
+          {
+            "id": "i",
+            "text": "unique to the person signing it, capable of identifying such person,\ncreated in a manner or using a means under the sole control of the\nperson using it, and attached to the electronic document to which it\n\nrelates in a manner that any subsequent change in the electronic\ndocument is detectable ; or"
+          },
+          {
+            "id": "ii",
+            "text": "provided by an accredited certification service provider and accredited\nby the Certification Council as being capable of establishing\nauthenticity and integrity of an electronic document;"
+          },
+          {
+            "id": "e",
+            "text": "“appropriate authority” means—"
+          },
+          {
+            "id": "i",
+            "text": "in relation to items contained in the Federal Legislative List of the\nConstitution of the Islamic Republic of Pakistan, 1973, the Federal\nLegislature or Federal Government;"
+          },
+          {
+            "id": "ii",
+            "text": "in relation to items contained in the Concurrent Legislative List of the\nConstitution of the Islamic Republic of Pakistan, 1973, for which a\nFederal law is in force, the Federal Legislative or Federal Government,\nand, in all other cases, respective Provincial Legislature or Provincial\nGovernment;"
+          },
+          {
+            "id": "iii",
+            "text": "in relation to the functions of the Federal Government or respective\nProvincial Governments being discharged by a statutory body, that\nstatutory body, and"
+          },
+          {
+            "id": "iv",
+            "text": "in relation to matters in respect whereof the Supreme Court or the High\nCourts are empowered to make rules for the regulation of their\nproceedings, the Supreme Court or High Court, as the case may be;"
+          },
+          {
+            "id": "f",
+            "text": "“authenticity” means, in relation to an electronic document or electronic\nsignature, the identification of and attribution to a particular person or\ninformation system;"
+          },
+          {
+            "id": "g",
+            "text": "“automated” means without active human intervention;"
+          },
+          {
+            "id": "h",
+            "text": "“certificate” means a certificate issued by a Certification Service Provider for\nthe purpose of confirming the authenticity or integrity or both, of the\ninformation contained therein, of an electronic document or of an electronic\nsignature in respect of which it is issued;"
+          },
+          {
+            "id": "i",
+            "text": "“Certification Council” means the Electronic Certification Accreditation\nCouncil established under Section 18;"
+          },
+          {
+            "id": "j",
+            "text": "“certification practice statement”, means the statement prepared by a\ncertification service provider specifying the practices it employs in relation to\nthe issuance of certificates and matters connected therewith;"
+          },
+          {
+            "id": "k",
+            "text": "“cryptography services” means services in relation to the transformation\nof contents of an electronic document from its original form to one that cannot\nbe understood or decoded by any unauthorized person;"
+          },
+          {
+            "id": "l",
+            "text": "“electronic” includes electrical, digital, magnetic, optical, biometric, electro-\nchemical, wireless or electromagnetic technology;"
+          },
+          {
+            "id": "m",
+            "text": "“electronic document” includes documents, records, information,\ncommunications or transactions in electronic form;"
+          },
+          {
+            "id": "n",
+            "text": "“electronic signature” means any letters, numbers, symbols, images, characters\nor any combination thereof in electronic form, applied to, incorporated in or\nassociated with an electronic document, with the intention of authenticating or\napproving the same, in order to establish authenticity or integrity, or both;"
+          },
+          {
+            "id": "o",
+            "text": "“information” includes text, message, data, voice, sound, database, video,\nsignals, software, computer programs, codes including object code and source\ncode;"
+          },
+          {
+            "id": "p",
+            "text": "“information system” means an electronic system for creating, generating,\nsending, receiving, storing, reproducing, displaying, recording or processing\ninformation;"
+          },
+          {
+            "id": "q",
+            "text": "“integrity” means, in relation to an electronic document, electronic signature\nor advanced electronic signature, the electronic document, electronic signature\nor advanced electronic signature that has not been tampered with, altered or\nmodified since a particular point in time;"
+          },
+          {
+            "id": "r",
+            "text": "“intermediary” means a person acting as a service provider in relation to the\nsending, receiving, storing or processing of the electronic communication or\nthe provision of other services in relation to it;"
+          },
+          {
+            "id": "s",
+            "text": "“network service provider” means a person who owns, possesses, operates,\nmanages or controls a public switched network or provides telecommunication\nservices;"
+          },
+          {
+            "id": "t",
+            "text": "“originator”, means a person by whom, or on whose behalf, electronic\ndocument purports to have been generated or sent prior to receipt or storage, if\nany, but does not include an intermediary;"
+          },
+          {
+            "id": "u",
+            "text": "“person” includes an individual, appropriate authority, trust, waqf, association,\nstatutory body, firm, company including joint venture or consortium, or any\nother entity whether registered or not;"
+          },
+          {
+            "id": "v",
+            "text": "“prescribed” means prescribed by rules made under this Ordinance;"
+          },
+          {
+            "id": "w",
+            "text": "“repository” means an information system for storing and retrieving\ncertificates or other information related thereto established under section 23;"
+          },
+          {
+            "id": "x",
+            "text": "“security procedure” means a procedure which:"
+          },
+          {
+            "id": "i",
+            "text": "is agreed between parties;"
+          },
+          {
+            "id": "ii",
+            "text": "is implemented in the normal course by a business and which is\nreasonably secure and reliable; or"
+          },
+          {
+            "id": "iii",
+            "text": "in relation to a certificate issued by a certification service provider, is\nspecified in its certification practice statement;\nfor establishing the authenticity or integrity, or both, of any electronic\ndocument, which may require the use of algorithms or codes,\nidentifying words and numbers, encryption, answer back or\nacknowledgment procedures, software, hardware or similar security\ndevices;"
+          },
+          {
+            "id": "y",
+            "text": "“subscriber” means a person who subscribes to the services of a certification\nservice provider;"
+          },
+          {
+            "id": "z",
+            "text": "“transaction” means an act or series of acts in relation to creation or\nperformance of rights and obligations; and"
+          },
+          {
+            "id": "aa",
+            "text": "“valid accreditation certificate” means an accreditation certificate which has\nnot been suspended or revoked\nRECOGNITION AND PRESUMPTION"
+          }
+        ]
+      },
+      {
+        "section_number": "3",
+        "title": "Legal recognition of electronic forms.",
+        "page_number": 7,
+        "part": null,
+        "chapter": "CHAPTER 2 RECOGNITION AND PRESUMPTION",
+        "line_index": 8,
+        "y_position": 234.8,
+        "content": "No document, record, information,\ncommunication or transaction shall be denied legal recognition, admissibility, effect, validity, proof\nor enforceability on the ground that it is in electronic form and has not been attested by any witness.",
+        "clauses": []
+      },
+      {
+        "section_number": "4",
+        "title": "Requirement for writing.",
+        "page_number": 7,
+        "part": null,
+        "chapter": "CHAPTER 2 RECOGNITION AND PRESUMPTION",
+        "line_index": 11,
+        "y_position": 287.5,
+        "content": "The requirement under any law for any document, record,\ninformation, communication or transaction to be in written form shall be deemed satisfied where the\ndocument, record, information, communication or transaction is in electronic form, if the same is\naccessible so as to be usable for subsequent reference.",
+        "clauses": []
+      },
+      {
+        "section_number": "5",
+        "title": "Requirement for original form.",
+        "page_number": 7,
+        "part": null,
+        "chapter": "CHAPTER 2 RECOGNITION AND PRESUMPTION",
+        "line_index": 15,
+        "y_position": 352.8,
+        "content": "",
+        "clauses": [
+          {
+            "id": "1",
+            "text": "The requirement under any law for any document,\nrecord, information, communication or transaction to be presented or retained in its original form\nshall be deemed satisfied by presenting or retaining the same if:"
+          },
+          {
+            "id": "a",
+            "text": "there exists a reliable assurance as to the integrity thereof from the time when\nit was first generated in its final form ; and"
+          },
+          {
+            "id": "b",
+            "text": "it is required that the presentation, thereof is capable of being displayed in a\nlegible form."
+          },
+          {
+            "id": "2",
+            "text": "For the purposes of clause"
+          },
+          {
+            "id": "a",
+            "text": "of sub-section"
+          },
+          {
+            "id": "1",
+            "text": ";"
+          },
+          {
+            "id": "a",
+            "text": "the criterion for assessing the integrity of the document, record, information,\ncommunication or transaction is whether the same has remained complete and\nunaltered, apart from the addition of any endorsement or any change which\narises in the normal course of communication, storage or display; and"
+          },
+          {
+            "id": "b",
+            "text": "the standard for reliability of the assurance shall be assessed having regard to\nthe purpose for which the document, record, information, communication or\ntransaction was generated and all other relevant circumstances."
+          }
+        ]
+      },
+      {
+        "section_number": "6",
+        "title": "Requirement for retention.",
+        "page_number": 7,
+        "part": null,
+        "chapter": "CHAPTER 2 RECOGNITION AND PRESUMPTION",
+        "line_index": 30,
+        "y_position": 619.7,
+        "content": "The requirement under any law that certain document,\nrecord, information, communication or transaction be retained shall be deemed satisfied by retaining\nit in electronic form if:",
+        "clauses": [
+          {
+            "id": "a",
+            "text": "the contents of the document, record, information, communication or\ntransaction remain accessible so as to be usable for subsequent reference;"
+          },
+          {
+            "id": "b",
+            "text": "the contents and form of the document, record, information, communication\nor transaction are as originally generated, sent or received, or can be\ndemonstrated to represent accurately the contents and form in which it was\noriginally generated, sent or received; and"
+          },
+          {
+            "id": "c",
+            "text": "such document, record, information, communication or transaction, if any, as\nenables the identification of the origin and destination of document, record,\ninformation, communication or transaction and the date and time when it was\ngenerated, sent or received, is retained."
+          }
+        ]
+      },
+      {
+        "section_number": "7",
+        "title": "Legal recognition of electronic signatures.",
+        "page_number": 8,
+        "part": null,
+        "chapter": "CHAPTER 2 RECOGNITION AND PRESUMPTION",
+        "line_index": 4,
+        "y_position": 138.9,
+        "content": "The requirement under any law for\naffixation of signatures shall be deemed satisfied where electronic signatures or advanced electronic\nsignature are applied.",
+        "clauses": []
+      },
+      {
+        "section_number": "8",
+        "title": "Proof of electronic signature.",
+        "page_number": 8,
+        "part": null,
+        "chapter": "CHAPTER 2 RECOGNITION AND PRESUMPTION",
+        "line_index": 7,
+        "y_position": 190.4,
+        "content": "An electronic signature may be proved in any manner, in\norder to verify that the electronic document is of the person that has executed it with the intention\nand for the purpose of verifying its authenticity or integrity or both.",
+        "clauses": []
+      },
+      {
+        "section_number": "9",
+        "title": "Presumption relating to advanced electronic signature.",
+        "page_number": 8,
+        "part": null,
+        "chapter": "CHAPTER 2 RECOGNITION AND PRESUMPTION",
+        "line_index": 10,
+        "y_position": 241.8,
+        "content": "In any proceedings, involving\nan advanced electronic signature, it shall be presumed unless evidence to contrary is adduced, that:",
+        "clauses": [
+          {
+            "id": "a",
+            "text": "the electronic document affixed with an advanced electronic signature, as is\nthe subject-matter of or identified in a valid accreditation certificate is\nauthentic and has integrity; or"
+          },
+          {
+            "id": "b",
+            "text": "the advanced electronic signature is the signature of the person to whom\nit correlates, the advanced electronic signature was affixed by that person with\nthe intention of signing or approving the electronic document and the\nelectronic document has not been altered since that point in time."
+          }
+        ]
+      },
+      {
+        "section_number": "10",
+        "title": "Stamp Duty.",
+        "page_number": 8,
+        "part": null,
+        "chapter": "CHAPTER 2 RECOGNITION AND PRESUMPTION",
+        "line_index": 19,
+        "y_position": 396.0,
+        "content": "Notwithstanding anything contained in the Stamp Act, 1899 (II of 1899) ,\nfor a period of two years from the date of commencement of this Ordinance or till the time the\nProvincial Governments devise and implement appropriate measures for payment and recovery of\nstamp duty through electronic means, whichever is later, stamp duty shall not be payable in respect\nof any instrument executed in electronic form.",
+        "clauses": []
+      },
+      {
+        "section_number": "11",
+        "title": "Attestation and notarization.",
+        "page_number": 8,
+        "part": null,
+        "chapter": "CHAPTER 2 RECOGNITION AND PRESUMPTION",
+        "line_index": 24,
+        "y_position": 475.0,
+        "content": "Notwithstanding anything contained in any law for the\ntime being in force, no electronic document shall require attestation and notarization for a period of\ntwo years from the date of commencement of this Ordinance or till the time the appropriate authority\ndevise and implement measures for attestation and notarization of electronic documents, whichever\nis later.",
+        "clauses": []
+      },
+      {
+        "section_number": "12",
+        "title": "Certified copies.",
+        "page_number": 8,
+        "part": null,
+        "chapter": "CHAPTER 2 RECOGNITION AND PRESUMPTION",
+        "line_index": 29,
+        "y_position": 553.9,
+        "content": "Where any law requires or permits the production of certified copies\nof any records, such requirement or permission shall extend to printouts or other forms of display of\nelectronic documents where, in addition to fulfillment of the requirements as may be specified in\nsuch law relating to certification, it is verified in the manner laid down by the appropriate authority.\nELECTRONIC DOCUMENTS",
+        "clauses": []
+      },
+      {
+        "section_number": "13",
+        "title": "Attribution of communications.",
+        "page_number": 8,
+        "part": null,
+        "chapter": "CHAPTER 3 ELECTRONIC DOCUMENTS",
+        "line_index": 35,
+        "y_position": 655.5,
+        "content": "",
+        "clauses": [
+          {
+            "id": "1",
+            "text": "Unless otherwise agreed as between an originator\nand the addressee, an electronic communication shall be deemed to be that of the originator if it was\nsent:"
+          },
+          {
+            "id": "a",
+            "text": "by the originator himself;"
+          },
+          {
+            "id": "b",
+            "text": "by a person who had the authority to act for and on behalf of the originator in\nrespect of that electronic communication ; or"
+          },
+          {
+            "id": "c",
+            "text": "by an automated information system programmed by, or on behalf of\nthe originator."
+          },
+          {
+            "id": "2",
+            "text": "Unless otherwise agreed as between the originator and the addressee, the addressee is to\nregard an electronic communication as being that of the originator, and is entitled to act on that\nassumption if:"
+          },
+          {
+            "id": "a",
+            "text": "the addressee has no reason to suspect the authenticity of the electronic\ncommunication; or"
+          },
+          {
+            "id": "b",
+            "text": "there do not exist any circumstances where the addressee knows, or ought to\nhave known by exercising reasonable care, that the electronic communication\nwas not authentic."
+          }
+        ]
+      },
+      {
+        "section_number": "14",
+        "title": "Acknowledgment of receipt.",
+        "page_number": 9,
+        "part": null,
+        "chapter": "CHAPTER 3 ELECTRONIC DOCUMENTS",
+        "line_index": 10,
+        "y_position": 251.8,
+        "content": "",
+        "clauses": [
+          {
+            "id": "1",
+            "text": "Unless otherwise agreed where the originator has\nstated that the electronic communication is conditional on receipt of acknowledgment, the electronic\ncommunication is treated as though it has never been sent, until the acknowledgment is received."
+          },
+          {
+            "id": "2",
+            "text": "Where the originator has not agreed with the addressee that the acknowledgment be given\nin a particular form or by a particular method, an acknowledgment may be given by:"
+          },
+          {
+            "id": "a",
+            "text": "any communication, automated or otherwise, by the addressee; or"
+          },
+          {
+            "id": "b",
+            "text": "any conduct of the addressee, sufficient to indicate to the originator that\nthe electronic communication is received."
+          }
+        ]
+      },
+      {
+        "section_number": "15",
+        "title": "Time and place of dispatch and receipt of electronic communication.",
+        "page_number": 9,
+        "part": null,
+        "chapter": "CHAPTER 3 ELECTRONIC DOCUMENTS",
+        "line_index": 18,
+        "y_position": 402.1,
+        "content": "",
+        "clauses": [
+          {
+            "id": "1",
+            "text": "Unless\notherwise agreed between the originator and the addressee, the dispatch of an electronic\ncommunication occurs when it enters an information system outside the control of the originator."
+          },
+          {
+            "id": "2",
+            "text": "Unless otherwise agreed between the originator and the addressee, or unless proved\notherwise, the time of receipt of an electronic communication is determined as follows:"
+          },
+          {
+            "id": "a",
+            "text": "if the addressee has designated an information system for the purpose of\nreceiving the electronic communication, receipt occurs:"
+          },
+          {
+            "id": "i",
+            "text": "at the time when the electronic communication enters the designated\ninformation system; or"
+          },
+          {
+            "id": "ii",
+            "text": "if the electronic communication is sent to an information system of the\naddressee that is not the designated information system, at the time\nwhen the electronic communication is retrieved by the addressee;"
+          },
+          {
+            "id": "b",
+            "text": "if the addressee has not designated an information system, receipt occurs when\nthe electronic communication enters and information system of the addressee."
+          },
+          {
+            "id": "3",
+            "text": "Sub-section"
+          },
+          {
+            "id": "2",
+            "text": "applies notwithstanding that the place where the information system\nis located may be different from the place where the electronic communication is deemed to be\nreceived under sub-section"
+          },
+          {
+            "id": "4",
+            "text": "."
+          },
+          {
+            "id": "4",
+            "text": "Unless otherwise agreed between the originator and the addressee, an electronic\ncommunication is deemed to be dispatched at the place where originator ordinarily resides or has his\nplace of business, and is deemed to be received at the place where the addressee ordinarily resides or\nhas his place of business."
+          },
+          {
+            "id": "5",
+            "text": "For the purpose of this section:"
+          },
+          {
+            "id": "a",
+            "text": "if the originator or the addressee has more than one place of business, the\nplace of business is that which has the closest relationship to the underlying\ntransaction or, where there is no underlying transaction, the principal place of\nbusiness;"
+          },
+          {
+            "id": "b",
+            "text": "if the originator or the addressee does not have a place of business, reference is\nto be made to the usual place of residence ; and"
+          },
+          {
+            "id": "c",
+            "text": "“usual place of residence” in relation to a body corporate, means the place\nwhere it is incorporated or otherwise legally constituted."
+          }
+        ]
+      },
+      {
+        "section_number": "16",
+        "title": "Electronic documentation of appropriate authority.",
+        "page_number": 10,
+        "part": null,
+        "chapter": "CHAPTER 3 ELECTRONIC DOCUMENTS",
+        "line_index": 9,
+        "y_position": 238.0,
+        "content": "",
+        "clauses": [
+          {
+            "id": "1",
+            "text": "Nothing contained\nhereinbefore shall confer a right upon any person that any appropriate authority should accept, issue,\ncreate, retain, preserve any document in electronic form or effect monetary transaction in electronic\nform."
+          },
+          {
+            "id": "2",
+            "text": "Any appropriate authority pursuant to any law or procedure:"
+          },
+          {
+            "id": "a",
+            "text": "accepts the filing of document, or requires that documents be created or\nretained;"
+          },
+          {
+            "id": "b",
+            "text": "issues any permit, certificate, licence or approval; or"
+          },
+          {
+            "id": "c",
+            "text": "provides for the method and manner of payment, procurement or transaction\nmay notwithstanding anything contained to the contrary in such law or\nprocedure:"
+          },
+          {
+            "id": "i",
+            "text": "accept the filing of such documents, or creation or retention of such\ndocuments in the form of electronic documents;"
+          },
+          {
+            "id": "ii",
+            "text": "issue such permits, certificate, licence or approval in the form of\nelectronic document; or"
+          },
+          {
+            "id": "iii",
+            "text": "make such payment, procurement or transaction in electronic form."
+          },
+          {
+            "id": "3",
+            "text": "In any case where an appropriate authority decides to perform any of the functions in\nclause"
+          },
+          {
+            "id": "i",
+            "text": ","
+          },
+          {
+            "id": "ii",
+            "text": "and"
+          },
+          {
+            "id": "iii",
+            "text": "of sub-section"
+          },
+          {
+            "id": "2",
+            "text": "may specify:"
+          },
+          {
+            "id": "a",
+            "text": "the manner and format in which such electronic documents shall be filed\ncreated, retained or issued;"
+          },
+          {
+            "id": "b",
+            "text": "when such electronic document has to be signed, the type of electronic\nsignature, advanced electronic signature or a security procedure required;"
+          },
+          {
+            "id": "c",
+            "text": "the manner and format in which such signature shall be affixed to the\nelectronic document, and the identity of or criteria that shall be met by any\ncertification service provider used by the person filing the document;"
+          },
+          {
+            "id": "d",
+            "text": "control process and procedures as appropriate to ensure adequate integrity,\nsecurity and confidentiality of electronic documents, procurement, transactions\nor payments; and"
+          },
+          {
+            "id": "e",
+            "text": "any other required attributes for electronic documents or payments that\nare currently specified for corresponding paper documents.\nCERTIFICATION SERVICE PROVIDERS"
+          }
+        ]
+      },
+      {
+        "section_number": "17",
+        "title": "Certification Service Providers",
+        "page_number": 11,
+        "part": null,
+        "chapter": "CHAPTER 4 CERTIFICATION SERVICE PROVIDERS",
+        "line_index": 4,
+        "y_position": 165.7,
+        "content": "",
+        "clauses": [
+          {
+            "id": "1",
+            "text": "Nothing in this Ordinance shall impede or in any\nway restrict the rights of any certificate service provider to engage in the business of providing\ncertification services without being accredited."
+          },
+          {
+            "id": "2",
+            "text": "No person shall hold himself out as an accredited certification service provider unless he\nholds a valid accreditation certificate issued under section 24 by the Certification Council.\nCERTIFICATION COUNCIL"
+          }
+        ]
+      },
+      {
+        "section_number": "18",
+        "title": "Establishment  of  the  Certification  Council.",
+        "page_number": 11,
+        "part": null,
+        "chapter": "CHAPTER 5 CERTIFICATION COUNCIL",
+        "line_index": 11,
+        "y_position": 297.2,
+        "content": "",
+        "clauses": [
+          {
+            "id": "1",
+            "text": "Within sixty days of the\npromulgation of this Ordinance, the Federal Government shall, by notification in the official Gazette,\nconstitute an Certification Council to be known as Electronic Certification Accreditation Council."
+          },
+          {
+            "id": "2",
+            "text": "The Certification Council shall be a body corporate with perpetual succession and a\ncommon seal, and shall by the said name sue or be sued."
+          },
+          {
+            "id": "3",
+            "text": "The Certification Council shall comprise of five members, with four members from the\nprivate sector. One of the Members shall be designated as the chairman."
+          },
+          {
+            "id": "4",
+            "text": "The members of the Certification Council shall be appointed by the Federal Government\nfor a term of three years and shall be eligible for reappointment once for another term of three years\nafter the expiry of their first term of appointment."
+          },
+          {
+            "id": "5",
+            "text": "No act or proceeding of the Certification Council shall be invalid by reason only of the\nexistence of any vacancy among its members or any defect in its constitution discovered after such\nact or proceeding of the Certification Council."
+          },
+          {
+            "id": "6",
+            "text": "Except for the grant, renewal, revocation or suspension of accreditation, the\nCertification Council may from time to time delegate one or more of its functions and powers to one\nor more of its members."
+          },
+          {
+            "id": "7",
+            "text": "A member of the Certification Council shall not be removed except on the grounds of\nmisconduct."
+          },
+          {
+            "id": "8",
+            "text": "No member, once appointed, shall have any direct financial interest in any concern or\nbusiness relating to cryptography services."
+          },
+          {
+            "id": "9",
+            "text": "Decisions of the Certification Council shall be taken by a majority of the members,\nhowever in case of tie the Chairman shall have a casting vote."
+          },
+          {
+            "id": "10",
+            "text": "Save as provided herein, the terms and conditions of service of the members of the\nCertification Council shall be such as may be prescribed."
+          }
+        ]
+      },
+      {
+        "section_number": "19",
+        "title": "Qualifications of member.",
+        "page_number": 11,
+        "part": null,
+        "chapter": "CHAPTER 5 CERTIFICATION COUNCIL",
+        "line_index": 35,
+        "y_position": 728.5,
+        "content": "Of the five members of the Certification Council:",
+        "clauses": [
+          {
+            "id": "a",
+            "text": "one shall be telecommunications engineer with at least seven years work\nexperience, of which at least one year is in the field of cryptography services;"
+          },
+          {
+            "id": "b",
+            "text": "two shall be professional or academics with at least seven years work\nexperience in the field of information technology;"
+          },
+          {
+            "id": "c",
+            "text": "one shall have an administrative background with at least seven years\nexperience in a private or public organization ; and"
+          },
+          {
+            "id": "d",
+            "text": "one member shall be an advocate with at least seven years experience\nand adequate knowledge of laws relating to information technology and\ntelecommunications."
+          }
+        ]
+      },
+      {
+        "section_number": "20",
+        "title": "Funds of the Certification Council.",
+        "page_number": 12,
+        "part": null,
+        "chapter": "CHAPTER 5 CERTIFICATION COUNCIL",
+        "line_index": 9,
+        "y_position": 238.0,
+        "content": "The funds of the Certification Council shall\ncomprise of:",
+        "clauses": [
+          {
+            "id": "a",
+            "text": "grants from the Federal Government;"
+          },
+          {
+            "id": "b",
+            "text": "fee for grant and renewal of accreditation certificate; and"
+          },
+          {
+            "id": "c",
+            "text": "fee, not exceeding ten Rupees, for every certificate deposited in the\nrepository."
+          },
+          {
+            "id": "d",
+            "text": "fines."
+          }
+        ]
+      },
+      {
+        "section_number": "21",
+        "title": "Functions of the Certification Council.",
+        "page_number": 12,
+        "part": null,
+        "chapter": "CHAPTER 5 CERTIFICATION COUNCIL",
+        "line_index": 16,
+        "y_position": 384.6,
+        "content": "",
+        "clauses": [
+          {
+            "id": "1",
+            "text": "The Certification Council shall perform\nsuch functions as are specified in this Ordinance or may be prescribed."
+          },
+          {
+            "id": "2",
+            "text": "Without prejudice to the generality of the foregoing sub-section, the Certification Council\nshall:"
+          },
+          {
+            "id": "a",
+            "text": "grant and renew accreditation certificates to certification service providers,\ntheir cryptography services and security procedures;"
+          },
+          {
+            "id": "b",
+            "text": "monitor and ensure compliance by accredited certification service providers\nwith the terms of their accreditation and revoke or suspend accreditation in the\nmanner and on the grounds as may be specified in the regulations;"
+          },
+          {
+            "id": "c",
+            "text": "monitor compliance of accredited certification service providers with\nthe provisions of this Ordinance;"
+          },
+          {
+            "id": "d",
+            "text": "establish and manage the repository;"
+          },
+          {
+            "id": "e",
+            "text": "carry out research and studies in relation to cryptography services and to\nobtain public opinion in connection therewith;"
+          },
+          {
+            "id": "f",
+            "text": "recognize or accredit foreign certification service providers;"
+          },
+          {
+            "id": "g",
+            "text": "encourage uniformity of standards and practices;"
+          },
+          {
+            "id": "h",
+            "text": "give advice to any person in relation to any matter covered under this\nOrdinance; and"
+          },
+          {
+            "id": "i",
+            "text": "make recommendations to an appropriate authority in relation to the matters\ncovered under this Ordinance."
+          }
+        ]
+      },
+      {
+        "section_number": "22",
+        "title": "Application of Act XVII of 1996.",
+        "page_number": 13,
+        "part": null,
+        "chapter": "CHAPTER 5 CERTIFICATION COUNCIL",
+        "line_index": 0,
+        "y_position": 73.8,
+        "content": "Notwithstanding anything contained in the Pakistan\nTelecommunication (Re-organisation) Act, 1996 (XVII of 1996) , the Certification Council shall be\nexclusively responsible to grant, renew, suspend or revoke the accreditation to certification service\nproviders, their cryptography services and security procedures:\nProvided that, the foregoing provision shall not affect the applicability or operation of the\nprovisions of the Pakistan Telecommunication (Re-organisation) Act, 1996 (XVII of 1996) to the\ntelecommunication systems or telecommunication services, other than cryptography services,\nprovided by the cryptography service providers.",
+        "clauses": []
+      },
+      {
+        "section_number": "23",
+        "title": "Repository.",
+        "page_number": 13,
+        "part": null,
+        "chapter": "CHAPTER 5 CERTIFICATION COUNCIL",
+        "line_index": 8,
+        "y_position": 204.2,
+        "content": "",
+        "clauses": [
+          {
+            "id": "1",
+            "text": "The Certification Council shall establish and manage a repository for\nall accreditation certificates, certificates issued by accredited certification service providers and for\nsuch other information as may be specified in regulations made by the Certification Council."
+          },
+          {
+            "id": "2",
+            "text": "The Certification Council shall take appropriate measures to ensure the security of all\ninformation contained in the repository."
+          },
+          {
+            "id": "3",
+            "text": "All information contained in the repository shall be open to public inspection."
+          },
+          {
+            "id": "4",
+            "text": "Notice of suspension or revocation of any accreditation or of certificate issued by an\naccredited certification service provider, shall be posted in the repository within the prescribed time."
+          }
+        ]
+      },
+      {
+        "section_number": "24",
+        "title": "Grant of accreditation.",
+        "page_number": 13,
+        "part": null,
+        "chapter": "CHAPTER 5 CERTIFICATION COUNCIL",
+        "line_index": 16,
+        "y_position": 354.6,
+        "content": "",
+        "clauses": [
+          {
+            "id": "1",
+            "text": "The Certification Council may grant accreditation to\ncertification service provider, its cryptography services, electronic signature or advanced electronic\nsignature and security procedures who complies with the criteria for accreditation specified in the\nregulations."
+          },
+          {
+            "id": "2",
+            "text": "The terms and conditions of the accreditation, including those relating to duration of the\naccreditation, renewal, suspension or revocation, shall be specified in the regulations."
+          },
+          {
+            "id": "3",
+            "text": "The fee for grant and renewal of the accreditation shall be as prescribed."
+          },
+          {
+            "id": "4",
+            "text": "The form and manner of proceedings for the consideration of application for grant,\nrenewal, suspension or revocation of accreditation shall be specified in the regulations:\nProvided that, the regulations shall provide for a transparent procedure with due regard to the\nright of hearing."
+          }
+        ]
+      },
+      {
+        "section_number": "25",
+        "title": "Certification practice statement.",
+        "page_number": 13,
+        "part": null,
+        "chapter": "CHAPTER 5 CERTIFICATION COUNCIL",
+        "line_index": 27,
+        "y_position": 556.3,
+        "content": "",
+        "clauses": [
+          {
+            "id": "1",
+            "text": "Each certification service provider, desirous\nof being accredited, shall prepare and have at all times accessible a certification practice statement in\nsuch form and with such details, particulars and contents as may be specified in the regulations made\nby the Certification Council."
+          },
+          {
+            "id": "2",
+            "text": "Without prejudice to the generality of the foregoing, the regulations may provide for:"
+          },
+          {
+            "id": "a",
+            "text": "prompt information to persons likely to be adversely affected by any event\nrelating to the information system of the certification service provider or\ninaccuracy, invalidity or misrepresentation contained in a certificate;"
+          },
+          {
+            "id": "b",
+            "text": "identification of subscribers;"
+          },
+          {
+            "id": "c",
+            "text": "suspension or revocation of certificates;"
+          },
+          {
+            "id": "d",
+            "text": "accuracy of information contained in a valid accreditation certificate;"
+          },
+          {
+            "id": "e",
+            "text": "foreseeability of reliance on valid accreditation certificates; and"
+          },
+          {
+            "id": "f",
+            "text": "deposit of certificates or notification of any suspension or revocation of\nany accreditation certificate or any other fact or circumstance affecting the\ncertificate, in the repository."
+          },
+          {
+            "id": "3",
+            "text": "The certification practice statement shall be submitted to Certification Council for\napproval along with the application for accreditation."
+          },
+          {
+            "id": "4",
+            "text": "Any subsequent change in the approved certification practice statement shall be initiated\nand processed in such manner as may be specified in the regulations made by the Certification\nCouncil, and upon approval by the Certification Council, shall be incorporated in the certification\npractice statement."
+          },
+          {
+            "id": "5",
+            "text": "A copy of the certification practice statement shall be maintained at the office of the\nCertification Council and shall be open to public inspection."
+          },
+          {
+            "id": "6",
+            "text": "Subject to such limitations as may be specified in the regulations made under sub-section"
+          },
+          {
+            "id": "1",
+            "text": ", a certification service provider shall, during the period of validity of an accreditation certificate\npublished for reliance by any person, be deemed to warranting to such person that:"
+          },
+          {
+            "id": "a",
+            "text": "the certification service provider has complied with the requirements of this\nOrdinance, rules and regulations made under this ordinance; and"
+          },
+          {
+            "id": "b",
+            "text": "the information contained in the certificate is accurate."
+          },
+          {
+            "id": "7",
+            "text": "The Certification Council may suspend or revoke the accreditation of a certification\nservice provider for failure to comply with the provisions of this section:\nProvided that, an order for suspension or revocation of accreditation shall be made in the\nmanner specified in regulations made under sub-section"
+          },
+          {
+            "id": "1",
+            "text": "after providing reasonable right of\nhearing."
+          }
+        ]
+      },
+      {
+        "section_number": "26",
+        "title": "Decision of Certification Council.",
+        "page_number": 14,
+        "part": null,
+        "chapter": "CHAPTER 5 CERTIFICATION COUNCIL",
+        "line_index": 23,
+        "y_position": 491.2,
+        "content": "All applications and matters coming before the\nCertification Council shall be decided through a speaking order, as expeditiously as possible but not\nlater than ninety days except in extraordinary circumstances and for reasons to be recorded.",
+        "clauses": []
+      },
+      {
+        "section_number": "27",
+        "title": "Appointment of offices, employees and advisers.",
+        "page_number": 14,
+        "part": null,
+        "chapter": "CHAPTER 5 CERTIFICATION COUNCIL",
+        "line_index": 26,
+        "y_position": 542.5,
+        "content": "The Certification Council may\nappoint such officers, employees and advisers as it may consider necessary for the efficient\nperformance of its functions on such terms and conditions as it may prescribe by the regulations.",
+        "clauses": [
+          {
+            "id": "2",
+            "text": "The Certification Council may establish regional or local offices as may be necessary for\nefficient performance of its functions.\nAMENDMENTS OF CERTAIN LAWS"
+          }
+        ]
+      },
+      {
+        "section_number": "28",
+        "title": "Amendment of Act XVII of 1996.",
+        "page_number": 14,
+        "part": null,
+        "chapter": "CHAPTER 6 AMENDMENTS OF CERTAIN LAWS",
+        "line_index": 33,
+        "y_position": 674.2,
+        "content": "",
+        "clauses": [
+          {
+            "id": "1",
+            "text": "In the Pakistan Telecommunication (Re-\norganisation) Act, 1996 (XVII of 1996) , clause"
+          },
+          {
+            "id": "b",
+            "text": "of sub-section"
+          },
+          {
+            "id": "2",
+            "text": "of section 57 shall be omitted."
+          },
+          {
+            "id": "2",
+            "text": "Any provision in any licence issued by the Pakistan Telecommunication Authority under\nthe aforesaid Act prohibiting the provision or use of cryptography services shall cease to have effect\nsubject to provisions of this Ordinance."
+          }
+        ]
+      },
+      {
+        "section_number": "29",
+        "title": "Amendment of Presidential Order No. X of 1984.",
+        "page_number": 15,
+        "part": null,
+        "chapter": "CHAPTER 6 AMENDMENTS OF CERTAIN LAWS",
+        "line_index": 0,
+        "y_position": 73.8,
+        "content": "For the purposes of this Ordinance,\nthe Qanun-e-Shahadat Order, 1984, (P.O. No. 10 of 1984) shall be read subject to the amendments\nspecified in the Schedule to this Ordinance.",
+        "clauses": []
+      },
+      {
+        "section_number": "30",
+        "title": "Extension to electronic forms.",
+        "page_number": 15,
+        "part": null,
+        "chapter": "CHAPTER 6 AMENDMENTS OF CERTAIN LAWS",
+        "line_index": 3,
+        "y_position": 125.1,
+        "content": "Notwithstanding anything contained in any other law\nfor the time being in force, the expressions “attestation”, “books”, “books of accounts” “certificate”,\n“charts”, “deed”, “document”, “document of title”, “execution”, “instrument”, “ledger”, “map”,\n“original”, “plans”, publish”, “record”, “register”, “seal”, “signature”, “witnessing”, “words”,\n“writing”, or other words assuming paper or other tangible medium in relation thereto, shall, mutatis\nmutandis, extend to electronic forms thereof.\nOTHER LAWS AND JURISDICTION",
+        "clauses": []
+      },
+      {
+        "section_number": "31",
+        "title": "Application to certain laws barred.",
+        "page_number": 15,
+        "part": null,
+        "chapter": "CHAPTER 7 OTHER LAWS AND JURISDICTION",
+        "line_index": 11,
+        "y_position": 260.5,
+        "content": "",
+        "clauses": [
+          {
+            "id": "1",
+            "text": "Subject to sub-section"
+          },
+          {
+            "id": "2",
+            "text": ", nothing in this\nOrdinance shall apply to:"
+          },
+          {
+            "id": "a",
+            "text": "a negotiable instrument as defined in section 13 of the Negotiable Instruments\nAct,1881 (XXVI of 1881) ;"
+          },
+          {
+            "id": "b",
+            "text": "a power-of-attorney under the Powers of Attorney Act, 1881 (VII of 1882) ;"
+          },
+          {
+            "id": "c",
+            "text": "a trust defined to the Trust Act 1882 (II of 1882) , but excluding constructive,\nimplied and resulting trusts;"
+          },
+          {
+            "id": "d",
+            "text": "a will or any form of testamentary disposition under any law for the time being\nin force; and"
+          },
+          {
+            "id": "e",
+            "text": "a contract for sale or conveyance of immovable property or any interest in\nsuch property."
+          },
+          {
+            "id": "2",
+            "text": "The Federal Government after consultation with the provinces may by, notification in the\nofficial Gazette and subject to such conditions and limitations as may be specified therein, declare\nthat the whole or part of this Ordinance shall apply to the whole or part of one or more instruments\nspecified in clauses"
+          },
+          {
+            "id": "a",
+            "text": "to"
+          },
+          {
+            "id": "e",
+            "text": "of sub-Section"
+          },
+          {
+            "id": "1",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "section_number": "32",
+        "title": "Application to acts done outside Pakistan.",
+        "page_number": 15,
+        "part": null,
+        "chapter": "CHAPTER 7 OTHER LAWS AND JURISDICTION",
+        "line_index": 26,
+        "y_position": 537.5,
+        "content": "The provisions of this Ordinance shall\napply notwithstanding the matters being the subject hereof occurring outside Pakistan, in so far as\nthey are directly or indirectly connected to, or have an effect on or bearing in relation to persons,\ninformation systems or events within the territorial jurisdiction of Pakistan.",
+        "clauses": []
+      },
+      {
+        "section_number": "33",
+        "title": "Overriding effect.",
+        "page_number": 15,
+        "part": null,
+        "chapter": "CHAPTER 7 OTHER LAWS AND JURISDICTION",
+        "line_index": 30,
+        "y_position": 602.8,
+        "content": "The provisions of this Ordinance shall apply notwithstanding\nanything to the contrary contained in any other law for the time being in force.\nOFFENCES",
+        "clauses": []
+      },
+      {
+        "section_number": "34",
+        "title": "Provision of false information, etc. by the subscriber.",
+        "page_number": 15,
+        "part": null,
+        "chapter": "CHAPTER 8 OFFENCES",
+        "line_index": 34,
+        "y_position": 682.9,
+        "content": "",
+        "clauses": [
+          {
+            "id": "1",
+            "text": "Any subscriber who:"
+          },
+          {
+            "id": "a",
+            "text": "provides information to a certification service provider knowing such\ninformation to be false or not believing it to be correct to the best of his\nknowledge and belief;"
+          },
+          {
+            "id": "b",
+            "text": "fails to bring promptly to the knowledge of the certification service provider\nany change in circumstances as a consequence whereof any information\ncontained in a certificate accepted by the subscriber or authorized by him for\npublication or reliance by any person, ceases to be accurate or becomes\nmisleading, or"
+          },
+          {
+            "id": "c",
+            "text": "knowingly causes or allows a certificate or his electronic signatures to be used\nin any fraudulent or unlawful manner,\nshall be guilty of an offence under this Ordinance."
+          },
+          {
+            "id": "2",
+            "text": "The offence under sub-section"
+          },
+          {
+            "id": "1",
+            "text": "shall be punishable with imprisonment either\ndescription of a term not exceeding seven years, or with fine which may extend to ten million rupees,\nor with both."
+          }
+        ]
+      },
+      {
+        "section_number": "35",
+        "title": "Issue of false certificate, etc.",
+        "page_number": 16,
+        "part": null,
+        "chapter": "CHAPTER 8 OFFENCES",
+        "line_index": 11,
+        "y_position": 265.6,
+        "content": "",
+        "clauses": [
+          {
+            "id": "1",
+            "text": "Every director, secretary and other responsible\nofficer, by whatever designation called, connected with the management of the affairs of a\ncertification service provider, which:"
+          },
+          {
+            "id": "a",
+            "text": "issues, publishes or acknowledges a certificate containing false or misleading\ninformation;"
+          },
+          {
+            "id": "b",
+            "text": "fails to revoke or suspend a certificate after acquiring knowledge that\nany information contained therein has become false or misleading;"
+          },
+          {
+            "id": "c",
+            "text": "fails to revoke or suspend a certificate in circumstances where it ought\nreasonably to have been known that any information contained in the\ncertificate is false or misleading;"
+          },
+          {
+            "id": "d",
+            "text": "issues a certificate as accredited certification service provider while\nits accreditation is suspended or revoked;\nshall be guilty of any offence under this Ordinance."
+          },
+          {
+            "id": "2",
+            "text": "The offence under sub-section"
+          },
+          {
+            "id": "1",
+            "text": "shall be punishable with imprisonment either\ndescription of a term not exceeding seven years, or with fine which may extend to ten million rupees,\nor with both."
+          },
+          {
+            "id": "3",
+            "text": "The certification service provider or its employees specified in sub-section"
+          },
+          {
+            "id": "1",
+            "text": ", shall\nalso be liable, upon conviction, to pay compensation for any foreseeable damage suffered by any\nperson or subscriber as a direct consequence of any of the events specified in clauses"
+          },
+          {
+            "id": "a",
+            "text": "to"
+          },
+          {
+            "id": "d",
+            "text": "of\nsub-section"
+          },
+          {
+            "id": "1",
+            "text": "."
+          },
+          {
+            "id": "4",
+            "text": "The compensation mentioned in sub-section"
+          },
+          {
+            "id": "3",
+            "text": "shall be recoverable as arrears of land\nrevenue."
+          }
+        ]
+      },
+      {
+        "section_number": "36",
+        "title": "Violation of privacy of information.",
+        "page_number": 16,
+        "part": null,
+        "chapter": "CHAPTER 8 OFFENCES",
+        "line_index": 33,
+        "y_position": 659.2,
+        "content": "Any person who gains or attempts to gain access\nto any information system with or without intent to acquire the information contained therein or to\ngain knowledge of such information, whether or not he is aware of the nature or contents of such\ninformation, when he is not authorised to gain access, as aforesaid, shall be guilty of an offence\nunder this Ordinance punishable with imprisonment of either description of a term not exceeding\nseven years, or fine which may extend to one million rupees, or with both.",
+        "clauses": []
+      },
+      {
+        "section_number": "37",
+        "title": "Damage to information system, etc.",
+        "page_number": 17,
+        "part": null,
+        "chapter": "CHAPTER 8 OFFENCES",
+        "line_index": 0,
+        "y_position": 73.8,
+        "content": "",
+        "clauses": [
+          {
+            "id": "1",
+            "text": "Any person who does or attempts to do any\nact with intent to alter, modify, delete, remove, generate, transmit or store any information through\nor in any information system knowingly that he is not authorised to do any of the foregoing, shall be\nguilty of an offence under this Ordinance."
+          },
+          {
+            "id": "2",
+            "text": "Any person who does or attempts to do any act with intent to impair the operation of, or\nprevent or hinder access to, any information contained in any information system, knowingly that\nhe is not authorised to do any of the foregoing, shall be guilty of an offence under this Ordinance."
+          },
+          {
+            "id": "3",
+            "text": "The offences under sub-section"
+          },
+          {
+            "id": "1",
+            "text": "and"
+          },
+          {
+            "id": "2",
+            "text": "of this section will be punishable with either\ndescription of a term not exceeding seven years or fine which may extend to one million rupees, or\nwith both."
+          }
+        ]
+      },
+      {
+        "section_number": "38",
+        "title": "Offences to be non-bailable, compoundable and cognizable.",
+        "page_number": 17,
+        "part": null,
+        "chapter": "CHAPTER 8 OFFENCES",
+        "line_index": 10,
+        "y_position": 241.8,
+        "content": "All offences under this\nOrdinance shall be non-bailable, compoundable and cognizable.",
+        "clauses": []
+      },
+      {
+        "section_number": "39",
+        "title": "Prosecution and trial of offences.",
+        "page_number": 17,
+        "part": null,
+        "chapter": "CHAPTER 8 OFFENCES",
+        "line_index": 12,
+        "y_position": 279.4,
+        "content": "No Court inferior to the Court of Sessions shall try\nany offence under this Ordinance.\nMISCELLANEOUS",
+        "clauses": []
+      },
+      {
+        "section_number": "40",
+        "title": "Limitation on liability of network service providers",
+        "page_number": 17,
+        "part": null,
+        "chapter": "CHAPTER 9 MISCELLANEOUS",
+        "line_index": 16,
+        "y_position": 359.5,
+        "content": "In the absence of intent to\nfacilitate, aid or abet, a network service provider shall not be subject to any civil or criminal liability\nsolely for the reason of use of his telecommunication system in connection with a contravention\nof this Ordinance by a person not subject to the direction or control of the network service provider.\nExplanation.—Telecommunication system in this section shall have the meaning given\nthereto under the Pakistan Telecommunication (Re-organisation Act, 1996 (XVII of 1996) .",
+        "clauses": []
+      },
+      {
+        "section_number": "41",
+        "title": "Immunity against disclosure of information relating to security procedure.",
+        "page_number": 17,
+        "part": null,
+        "chapter": "CHAPTER 9 MISCELLANEOUS",
+        "line_index": 22,
+        "y_position": 462.4,
+        "content": "",
+        "clauses": [
+          {
+            "id": "1",
+            "text": "Subject to sub-section"
+          },
+          {
+            "id": "2",
+            "text": ", no person shall be compelled to disclose any password, key or other\nsecret information exclusively within his private knowledge, which enables his use of the security\nprocedure or advanced electronic signature."
+          },
+          {
+            "id": "2",
+            "text": "Sub-section"
+          },
+          {
+            "id": "1",
+            "text": "shall not confer any immunity where such information is used for the\ncommission of any offence under any law for the time being in force."
+          }
+        ]
+      },
+      {
+        "section_number": "42",
+        "title": "Power to make rules.",
+        "page_number": 17,
+        "part": null,
+        "chapter": "CHAPTER 9 MISCELLANEOUS",
+        "line_index": 28,
+        "y_position": 565.1,
+        "content": "The Federal Government may, by notification in the official\nGazette, make rules to carry out the purposes of this Ordinance.",
+        "clauses": []
+      },
+      {
+        "section_number": "43",
+        "title": "Power to make regulations.",
+        "page_number": 17,
+        "part": null,
+        "chapter": "CHAPTER 9 MISCELLANEOUS",
+        "line_index": 30,
+        "y_position": 602.8,
+        "content": "",
+        "clauses": [
+          {
+            "id": "1",
+            "text": "The Certification Council may, with the prior approval\nof the Federal government, make regulations to carry out the purpose of this Ordinance."
+          },
+          {
+            "id": "2",
+            "text": "Without prejudice to the generality of the sub-section"
+          },
+          {
+            "id": "1",
+            "text": ", regulations may provide for:"
+          },
+          {
+            "id": "a",
+            "text": "safety, control or management of keys, passwords or other secret information\nrelating to use of services of accredited certification service providers;"
+          },
+          {
+            "id": "b",
+            "text": "standards, procedures and practices for time and date stamping;"
+          },
+          {
+            "id": "c",
+            "text": "minimum qualifications of staff of accredited certification service\nproviders;"
+          },
+          {
+            "id": "d",
+            "text": "adequacy of facilities and equipment for secure and reliable operation;"
+          },
+          {
+            "id": "e",
+            "text": "privacy and protection of data of subscribers;"
+          },
+          {
+            "id": "f",
+            "text": "inspection of operations;"
+          },
+          {
+            "id": "g",
+            "text": "cross-certifications, accreditation, recognition, bridge certification or other\narrangements with certification service providers based in other countries;"
+          },
+          {
+            "id": "h",
+            "text": "development of certification management system;"
+          },
+          {
+            "id": "i",
+            "text": "reparation to subscribers for damage arising from negligence of certification\nservice provider with conditions for and limits to liability;"
+          },
+          {
+            "id": "j",
+            "text": "identification of areas of commerce or governance for use of certificates;"
+          },
+          {
+            "id": "k",
+            "text": "standardization and technology relating to protocols, algorithms,\ninterpretability of systems, applications and infrastructure for accredited\ncertification service providers;"
+          },
+          {
+            "id": "l",
+            "text": "form and contents of applications for accreditation;"
+          },
+          {
+            "id": "m",
+            "text": "suspension or revocation of certification;"
+          },
+          {
+            "id": "n",
+            "text": "suspension or revocation of accreditation;"
+          },
+          {
+            "id": "o",
+            "text": "certificate profiles with mandatory and optional fields and extension fields, if\nany;"
+          },
+          {
+            "id": "p",
+            "text": "certificate revocation and suspension list profiles with mandatory and optional\nfields, and extension fields (if any) ;"
+          },
+          {
+            "id": "q",
+            "text": "retention of records by certification authorities and the repository;"
+          },
+          {
+            "id": "r",
+            "text": "recommended code of practice for handling and storage of business\ninformation and records in electronic form; and"
+          },
+          {
+            "id": "s",
+            "text": "regulation of access and audit trails."
+          }
+        ]
+      },
+      {
+        "section_number": "44",
+        "title": "Prior publication of rules and regulations.",
+        "page_number": 18,
+        "part": null,
+        "chapter": "CHAPTER 9 MISCELLANEOUS",
+        "line_index": 23,
+        "y_position": 551.2,
+        "content": "",
+        "clauses": [
+          {
+            "id": "1",
+            "text": "All rules and regulations proposed to\nbe made by the Federal Government and the Certification Council under this Ordinance shall be\npublished in the official Gazette and in at least one English and one Urdu daily with nationwide\ncirculation, in draft form at least thirty days before the intended date of coming into operation."
+          },
+          {
+            "id": "2",
+            "text": "The Certification Council shall keep record of all comments received on the draft of the\nrules or regulations, and shall prepare a report thereon addressing each comment."
+          },
+          {
+            "id": "3",
+            "text": "The notification of the rules or regulations in their final form in the official Gazette shall\nbe accompanied with a report of the Certification Council referred to in sub-section"
+          },
+          {
+            "id": "2",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "section_number": "45",
+        "title": "Removal of difficulties.",
+        "page_number": 18,
+        "part": null,
+        "chapter": "CHAPTER 9 MISCELLANEOUS",
+        "line_index": 31,
+        "y_position": 691.6,
+        "content": "The Federal Government may, by notification in the official\nGazette, make provisions for removal of difficulties in a manner not inconsistent with the provisions\nof this Ordinance.\n\nSCHEDULE (See section 29) AMENDMENT IN QANUN-E-SHAHADAT ORDER, 1984 (P. O. No. 10 OF 1984)",
+        "clauses": []
+      },
+      {
+        "section_number": "1",
+        "title": "Amendment of Article 2. P.O. No. 10 of 1984.",
+        "page_number": 19,
+        "part": null,
+        "chapter": "CHAPTER 9 MISCELLANEOUS",
+        "line_index": 3,
+        "y_position": 145.2,
+        "content": "In the Qanun-e-Shahadat Order, 1984 (P.O. No. 10 of 1984) , hereinafter referred to as the said Order, in clause",
+        "clauses": [
+          {
+            "id": "1",
+            "text": ", after sub-clause"
+          },
+          {
+            "id": "d",
+            "text": ", the\nfollowing new sub-clauses"
+          },
+          {
+            "id": "e",
+            "text": "and"
+          },
+          {
+            "id": "f",
+            "text": "shall be added, namely:\n“"
+          },
+          {
+            "id": "e",
+            "text": "the expression, “automated”, “electronic”, “information”, “information\nsystem”, “electronic document”, “electronic signature”, “advanced electronic\nsignature” and “security procedure”, shall bear the meanings given in the\nElectronic Transactions Ordinance, 2002;"
+          },
+          {
+            "id": "f",
+            "text": "the expression “certificate”, where the context so admits, includes the meaning\ngiven to it in the Electronic Transactions Ordinance, 2002.”"
+          }
+        ]
+      },
+      {
+        "section_number": "2",
+        "title": "Amendment of Article 30, P.O. No, 10 of 1984.",
+        "page_number": 19,
+        "part": null,
+        "chapter": "CHAPTER 9 MISCELLANEOUS",
+        "line_index": 12,
+        "y_position": 299.4,
+        "content": "In the said Order, in Article 30, for the\nfull stop at the end a colon shall be substituted and thereafter the following explanation shall be\nadded, namely:\n“Explanation.—Statements generated by automated information systems may be\nattributed to the person exercising power or control over the said information\nsystem.”",
+        "clauses": []
+      },
+      {
+        "section_number": "3",
+        "title": "Insertion of new Article 46, P.O. No. 10 of 1984",
+        "page_number": 19,
+        "part": null,
+        "chapter": "CHAPTER 9 MISCELLANEOUS",
+        "line_index": 18,
+        "y_position": 406.0,
+        "content": "In the said Order, after Article 46, the\nfollowing new Article shall be inserted, namely:—\n“46-A. Relevance of information generated, received or recorded by automated\ninformation system.—Statements in the form of electronic documents generated,\nreceived or recorded by an automated information system while it is in working order,\nare relevant facts.",
+        "clauses": []
+      },
+      {
+        "section_number": "4",
+        "title": "Amendment of Article 59, P.O. No. 10 of 1984.",
+        "page_number": 19,
+        "part": null,
+        "chapter": "CHAPTER 9 MISCELLANEOUS",
+        "line_index": 24,
+        "y_position": 512.5,
+        "content": "In the said Order, in Article 59—",
+        "clauses": [
+          {
+            "id": "a",
+            "text": "after the word “impressions” the comma and the words “, or as to authenticity and\nintegrity of electronic documents made by or through an information system” shall be\ninserted; and"
+          },
+          {
+            "id": "b",
+            "text": "for the words “are relevant facts” the words and commas “or as to the functioning,\nspecifications, programming and operations of information systems, are relevant\nfacts” shall be substituted."
+          }
+        ]
+      },
+      {
+        "section_number": "5",
+        "title": "Amendment of Article 73, P.O. No. 10 of 1984",
+        "page_number": 19,
+        "part": null,
+        "chapter": "CHAPTER 9 MISCELLANEOUS",
+        "line_index": 31,
+        "y_position": 639.2,
+        "content": "In the said order, in Article 73, after the\nsecond Explanation, the following new Explanations shall be added, namely:\n“Explanation 3.—A printout or other form of output of an automated information system\nshall not be denied the status of primary evidence solely for the reason that it was generated,\nsent, received or stored in electronic form if the automated information system was in\nworking order at all material times and, for the purposes hereof, in the absence of evidence to\nthe contrary, it shall be presumed that the automated information system was in working\norder at all material times.\n\n“Explanation 4.—A printout or other form of reproduction of an electronic document, other\nthan a document mentioned in Explanation 3 above, first generated, sent, received or stored in\nelectronic form, shall be treated as primary evidence where a security procedure was applied\nthereto at the time it was generated, sent, received or stored.”",
+        "clauses": []
+      },
+      {
+        "section_number": "6",
+        "title": "Insertion of new Article, P.O. No. 10 of 1984.",
+        "page_number": 20,
+        "part": null,
+        "chapter": "CHAPTER 9 MISCELLANEOUS",
+        "line_index": 4,
+        "y_position": 138.9,
+        "content": "In the said Order, after Article 78, the\nfollowing new Article shall be inserted, namely:—\n“78-A. Proof of electronic signature and electronic document.—If an electronic document is\nalleged to be signed or to have been generated wholly or in part by any person through the\nuse of an information system, and where such allegation is denied, the application of a\nsecurity procedure to the signature or the electronic document must be proved.”",
+        "clauses": []
+      },
+      {
+        "section_number": "7",
+        "title": "Amendment of Article 85, P.O No.10 of 1984.",
+        "page_number": 20,
+        "part": null,
+        "chapter": "CHAPTER 9 MISCELLANEOUS",
+        "line_index": 10,
+        "y_position": 241.8,
+        "content": "In the said Order, in Article 85, after\nclause",
+        "clauses": [
+          {
+            "id": "5",
+            "text": ", the following new clause"
+          },
+          {
+            "id": "6",
+            "text": "shall be added, namely:\n“"
+          },
+          {
+            "id": "6",
+            "text": "certificates deposited in a repository pursuant to the provisions of the Electronic\nTransactions Ordinance, 2002.”\n______________\nRGN Dated: 19-03-2026"
+          }
+        ]
+      }
+    ]
+  }
+}

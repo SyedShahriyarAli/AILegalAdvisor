@@ -1,0 +1,46 @@
+# Compose: pass backend/.env for build args + CADDY_PUBLISH_PORT, e.g.:
+#   podman-compose --env-file ../backend/.env up -d --build
+#
+# Defaults: publish Caddy HTTP on host port 8080 (all interfaces — avoids Podman quirks with 127.0.0.1 binds).
+# Nginx can still use proxy_pass http://127.0.0.1:8080. Optionally block external access to 8080 in the host firewall.
+# For Caddy on public 80/443 with ACME, change deploy/Dockerfile.caddy to COPY Caddyfile, set CADDY_PUBLISH_PORT=80, uncomment 443 below, rebuild.
+
+services:
+  caddy:
+    build:
+      context: .
+      dockerfile: Dockerfile.caddy
+    image: localhost/ailegaladvisor-caddy:2-alpine
+    restart: unless-stopped
+    ports:
+      - "${CADDY_PUBLISH_PORT:-8080}:80"
+      # Dedicated VM with Caddy doing TLS (uncomment):
+      # - "${CADDY_HTTPS_HOST_PORT:-443}:443"
+    volumes:
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on:
+      - frontend
+      - backend
+
+  frontend:
+    build:
+      context: ../frontend
+      dockerfile: Dockerfile
+      args:
+        VITE_API_BASE_URL: ${VITE_API_BASE_URL:-https://ailegaladvisor.eraconnect.net}
+    restart: unless-stopped
+
+  backend:
+    build:
+      context: ../backend
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    env_file:
+      - ../backend/.env
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+
+volumes:
+  caddy_data:
+  caddy_config:

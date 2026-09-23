@@ -1,0 +1,27 @@
+# HTTP only — use when host nginx (or another process) already owns public 80/443 and terminates TLS.
+# Publish Caddy as 127.0.0.1:8080:80 and point nginx ssl server here with proxy_pass http://127.0.0.1:8080
+
+:80 {
+    # No encode here — internal hop behind nginx; zstd/gzip has caused rare client resets on some hosts.
+
+    header {
+        X-Content-Type-Options nosniff
+        Referrer-Policy strict-origin-when-cross-origin
+    }
+
+    handle /api* {
+        reverse_proxy backend:5000
+    }
+
+    handle /pdfs/* {
+        reverse_proxy backend:5000
+    }
+
+    handle /health* {
+        reverse_proxy backend:5000
+    }
+
+    handle {
+        reverse_proxy frontend:80
+    }
+}

@@ -1,0 +1,2925 @@
+[
+    {
+        "court": "LHC",
+        "case_no": "Criminal Proceedings\n46365/24",
+        "parties": "Abdullah Zulfiqar Vs Director General FIA etc",
+        "date": "29-04-2025",
+        "year": "2025",
+        "citation": "2025 LHC 8155",
+        "judge": "Mr. Justice Tariq Saleem Sheikh",
+        "pdf_link": "https://sys.lhc.gov.pk/appjudgments/2025LHC8155.pdf",
+        "cyber_keywords_matched": [
+            {
+                "filter_profile": "cyber_law_v1",
+                "triggers": [
+                    {
+                        "kind": "word_token",
+                        "matched": "fia"
+                    }
+                ]
+            }
+        ],
+        "excerpt": "Listing text contains token \"fia\" as a whole word (word-boundary match; profile cyber_law_v1).",
+        "scanned_at": "2026-05-02T05:20:47.399159",
+        "_source": "lhc_judgment.json"
+    },
+    {
+        "court": "LHC",
+        "case_no": "Writ Petition-Criminal Proceedings-Quashing of F.I.R.\n12935-24",
+        "parties": "SADIQ HUSSAIN ETC VS\nDEPUTY DIRECTOR FIA ETC",
+        "date": "17-12-2024",
+        "year": "2024",
+        "citation": "2024 LHC 6351",
+        "judge": "Mr. Justice Tariq Saleem Sheikh",
+        "pdf_link": "https://sys.lhc.gov.pk/appjudgments/2024LHC6351.pdf",
+        "cyber_keywords_matched": [
+            {
+                "filter_profile": "cyber_law_v1",
+                "triggers": [
+                    {
+                        "kind": "word_token",
+                        "matched": "fia"
+                    }
+                ]
+            }
+        ],
+        "excerpt": "Listing text contains token \"fia\" as a whole word (word-boundary match; profile cyber_law_v1).",
+        "scanned_at": "2026-05-02T05:21:44.140325",
+        "_source": "lhc_judgment.json"
+    },
+    {
+        "court": "LHC",
+        "case_no": "Writ Petition-Criminal Proceedings-Federal Investigation Agency (FIA)\n15816-23",
+        "parties": "ALI MURAD SIDDIQUI VS\nSUMMIT BANK LTD ETC",
+        "date": "15-10-2024",
+        "year": "2024",
+        "citation": "2024 LHC 6699",
+        "judge": "Mr. Justice Tariq Saleem Sheikh",
+        "pdf_link": "https://sys.lhc.gov.pk/appjudgments/2024LHC6699.pdf",
+        "cyber_keywords_matched": [
+            {
+                "filter_profile": "cyber_law_v1",
+                "triggers": [
+                    {
+                        "kind": "word_token",
+                        "matched": "fia"
+                    }
+                ]
+            }
+        ],
+        "excerpt": "Listing text contains token \"fia\" as a whole word (word-boundary match; profile cyber_law_v1).",
+        "scanned_at": "2026-05-02T05:21:52.850429",
+        "_source": "lhc_judgment.json"
+    },
+    {
+        "court": "LHC",
+        "case_no": "Criminal Proceedings\n75231/23",
+        "parties": "Muhammad Bilal Vs D.G FIA etc.",
+        "date": "04-04-2024",
+        "year": "2024",
+        "citation": "2024 LHC 3288",
+        "judge": "Mr. Justice Tariq Saleem Sheikh",
+        "pdf_link": "https://sys.lhc.gov.pk/appjudgments/2024LHC3288.pdf",
+        "cyber_keywords_matched": [
+            {
+                "filter_profile": "cyber_law_v1",
+                "triggers": [
+                    {
+                        "kind": "word_token",
+                        "matched": "fia"
+                    }
+                ]
+            }
+        ],
+        "excerpt": "Listing text contains token \"fia\" as a whole word (word-boundary match; profile cyber_law_v1).",
+        "scanned_at": "2026-05-02T05:22:09.423922",
+        "_source": "lhc_judgment.json"
+    },
+    {
+        "court": "LHC",
+        "case_no": "Criminal Proceedings\n65490/21",
+        "parties": "Munir Ahmad Bhatti Vs The Director FIA Cyber Crime Wing etc",
+        "date": "15-03-2022",
+        "year": "2022",
+        "citation": "2022 LHC 2222",
+        "judge": "Mr. Justice Tariq Saleem Sheikh",
+        "pdf_link": "https://sys.lhc.gov.pk/appjudgments/2022LHC2222.pdf",
+        "cyber_keywords_matched": [
+            {
+                "filter_profile": "cyber_law_v1",
+                "triggers": [
+                    {
+                        "kind": "phrase",
+                        "matched": "cyber crime"
+                    },
+                    {
+                        "kind": "phrase",
+                        "matched": "cyber crime wing"
+                    },
+                    {
+                        "kind": "word_token",
+                        "matched": "fia"
+                    }
+                ]
+            }
+        ],
+        "excerpt": "Listing text contains phrase \"cyber crime\" (substring match in combined fields; profile cyber_law_v1). Additional triggers: phrase:'cyber crime wing', word_token:'fia'.",
+        "scanned_at": "2026-05-02T05:24:26.140801",
+        "_source": "lhc_judgment.json"
+    },
+    {
+        "court": "LHC",
+        "case_no": "Criminal Proceedings\n40585/20",
+        "parties": "Al-Arabia Sugar Mills Limited etc Vs FIA etc",
+        "date": "03-11-2020",
+        "year": "2020",
+        "citation": "2020 LHC 2619",
+        "judge": "Mr. Justice Shahid Karim",
+        "pdf_link": "https://sys.lhc.gov.pk/appjudgments/2020LHC2619.pdf",
+        "cyber_keywords_matched": [
+            {
+                "filter_profile": "cyber_law_v1",
+                "triggers": [
+                    {
+                        "kind": "word_token",
+                        "matched": "fia"
+                    }
+                ]
+            }
+        ],
+        "excerpt": "Listing text contains token \"fia\" as a whole word (word-boundary match; profile cyber_law_v1).",
+        "scanned_at": "2026-05-02T05:26:26.841381",
+        "_source": "lhc_judgment.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-379-2026",
+        "parties": "Muhammad Zaeem Zulfiqar VS The State etc",
+        "date": "28-APR-2026",
+        "year": "28-A",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Mohsin Akhtar Kayani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-379-2026 | -&cseTle=Muhammad Zaeem Zulfiqar VS The State etc&jgs=Honourable Mr. Justice Mohsin Akhtar Kayani&jgmnt=/attachments/judgements/209189/1/Crl._Misc._No.379-B-2026_(1)_639131507903147746.pdf",
+        "cyber_keywords_matched": [
+            "under Section 11 of PECA, 2016 |"
+        ],
+        "excerpt": "Post Arrest Bail in FIR No. 52/2024 dated 12.02.2024 U/s 11 PECA 2016 r/w 295-A, 295-B, 295-C, 298-C, 109 PPC P.S. FIA Cyber Crime Reporting Circle, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Writ Petition-3972-2025",
+        "parties": "Dr. Muhammad Aslam Khaki VS Chairman, Council of Islamic Ideology, Islamabad etc.",
+        "date": "27-APR-2026",
+        "year": "27-A",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Mohsin Akhtar Kayani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Writ Petition-3972-2025 | -&cseTle=Dr. Muhammad Aslam Khaki VS Chairman, Council of Islamic Ideology, Islamabad etc. &jgs=Honourable Mr. Justice Mohsin Akhtar Kayani&jgmnt=/attachments/judgements/203144/1/W.P_No.3972-2025.Approved_for_Reporting_639131424762610698.pdf",
+        "cyber_keywords_matched": [
+            "under Section 295-C PPC | under Articles 229 and 230 of the Constitution of Islamic Republic of Pakistan, 1973"
+        ],
+        "excerpt": "Petitioner states that NCCIA sought opinion of Council of Islamic Ideology for alleged remarks by an Engineer Ali Muhammad Mirza for which remarks FIR U/s 295C (FIR No. 563-2025 dated 26.08.2025 U/s 295-C PPC 11 PECA 2016 P.S. City Jhelum, District Jhelum, Punjab) has already been registered against him. The CCI has opined the remarks to be blasphemous. Challenges the opinion / FATWA of Council of Islamic Ideology.",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-456-2026",
+        "parties": "Sajjad Amir VS The State",
+        "date": "19-MAR-2026",
+        "year": "19-M",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Inaam Ameen Minhas",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-456-2026 | -&cseTle=Sajjad Amir VS The State&jgs=Honourable Mr. Justice Inaam Ameen Minhas&jgmnt=/attachments/judgements/209591/1/Criminal_Misc._No.456-B_of_2026_639100464021482184.pdf",
+        "cyber_keywords_matched": [
+            "under Sections 11,20,\n26-A of PECA-2016, r/w section 124-A, 109, 34 PPC,\nregistered at Police Station NCCIA/CCRC, Islamabad"
+        ],
+        "excerpt": "Bail After Arrest in FIR No. 344/2025 dated 22-12-2025 U/s 11/20/26-A PECA R/w Section 124-A/34/109 PPC, P.S NCCIA, Cyver Crime Reporting Center, Islamabad.",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-433-2026",
+        "parties": "Haider Saeed VS The State",
+        "date": "17-MAR-2026",
+        "year": "17-M",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Muhammad Asif",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-433-2026 | -&cseTle=Haider Saeed VS The State&jgs=Honourable Mr. Justice Muhammad Asif&jgmnt=/attachments/judgements/209372/1/17.03.2026_Crl._Misc_No.433_of_2026_Bail_639111532571400072.pdf",
+        "cyber_keywords_matched": [
+            "under Sections 9, 10, 20 & 26-A of the Prevention of Electronic Crimes Act (PECA), 2016 | under Section 497(2), Cr.P.C."
+        ],
+        "excerpt": "Post Arrest Bail in FIR No. 48/2026 dated 25.02.2026 U/s 9, 10, 20, 26A PECA 2016 P.S. FIA Cyber Crime Reportin Circle, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-266-2026",
+        "parties": "Muhammad Awais VS The State etc.",
+        "date": "10-MAR-2026",
+        "year": "10-M",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Inaam Ameen Minhas",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-266-2026 | -&cseTle=Muhammad Awais VS The State etc. &jgs=Honourable Mr. Justice Inaam Ameen Minhas&jgmnt=/attachments/judgements/208319/1/Criminal_Misc._No.266-B_of_2026_639093462281712010.pdf",
+        "cyber_keywords_matched": [
+            "Sections 20, 21, 24 of PECA-2016 r/w 34,109 PPC, | Section 497 Cr.P.C | Section 497(2) Cr.P.C"
+        ],
+        "excerpt": "Post Arrest Bail in FIR No. 08/2026 dated 05.01.2026 U/s 20, 21, 24 PECA 2016 r/w Section 34, 109 PPC P.S. FIA NCCIA Cyber Crime Reporting Centre, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-242-2026",
+        "parties": "Muhammad Ramzan VS The State etc.",
+        "date": "04-MAR-2026",
+        "year": "04-M",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Inaam Ameen Minhas",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-242-2026 | -&cseTle=Muhammad Ramzan VS The State etc. &jgs=Honourable Mr. Justice Inaam Ameen Minhas&jgmnt=/attachments/judgements/208438/1/Crl._Misc._No._242_of_2026_639093468603630571.pdf",
+        "cyber_keywords_matched": [
+            "under Section 14 of\nPrevention of Electronic Crimes Act, 2016, read with\nSections 419, 420, 109 and 34 of Pakistan Penal Code, 1860\n(PPC | under Sections 14\nof PECA, 2016 read with Section 419, 420, 468, 471, 109 &\n34 P.P.C"
+        ],
+        "excerpt": "Post Arrest Bail in FIR No. 13/2026 dated 13.01.2026 U/s 14 PECA 2016 r/w 419, 420, 109, 34 PPC P.S. NCCIA Cyber Crime Reporting Centre, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-83-2026",
+        "parties": "Sajjad Amir VS The State",
+        "date": "02-MAR-2026",
+        "year": "02-M",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Inaam Ameen Minhas",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-83-2026 | -&cseTle=Sajjad Amir VS The State&jgs=Honourable Mr. Justice Inaam Ameen Minhas&jgmnt=/attachments/judgements/207256/1/Criminal_Misc._No.83_of_2026_639093450911478296.pdf",
+        "cyber_keywords_matched": [
+            "under Sections 11, 20, 26-A of PECA, and Sections 124-A, 34, and 109 PPC, at Police Station NCCIA Cyber Crime Reporting Centre, Islamabad."
+        ],
+        "excerpt": "Pre-Arrest Bail in FIR No. 344/2025 dated 22.12.2025 U/s 11, 20, 26-A PECA r/w 124-A, 34, 109 PPC P.S. NCCIA Cyber Crime Reporting Centre, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-241-2026",
+        "parties": "Irfan Ullah VS The State etc",
+        "date": "25-FEB-2026",
+        "year": "25-F",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Inaam Ameen Minhas",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-241-2026 | -&cseTle=Irfan Ullah VS The State etc&jgs=Honourable Mr. Justice Inaam Ameen Minhas&jgmnt=/attachments/judgements/208273/1/Criminal_Misc._No.241_of_2026_639093458691256147.pdf",
+        "cyber_keywords_matched": [
+            "under Sections 20, 21, and 24 of PECA read with Sections 384 and 109 of the Pakistan Penal Code (“PPC”) |"
+        ],
+        "excerpt": "Post Arrest Bail in FIR No. 90/2025 dated 24.03.2025 U/s 20, 21, 24 PECA 384, 109 PPC P.S. FIA Cyber Crime Reporting Centre, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-155-2026",
+        "parties": "Waqas Ahmed  VS The State etc",
+        "date": "24-FEB-2026",
+        "year": "24-F",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Inaam Ameen Minhas",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-155-2026 | -&cseTle=Waqas Ahmed  VS The State etc&jgs=Honourable Mr. Justice Inaam Ameen Minhas&jgmnt=/attachments/judgements/207843/1/Criminal_Miscellaneous_No.155_of_2026._639104773560431181.pdf",
+        "cyber_keywords_matched": [
+            "under sections 21 & 24 of PECA, 2016 |"
+        ],
+        "excerpt": "Post Arrest Bail in FIR No. 321/2025 dated 21.11.2025 U/s 21, 24 PECA 2016 P.S. NCCIA Cyber Crime Reporting Circle, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-10-2026",
+        "parties": "MUDASSIR AHMED VS THE STATE",
+        "date": "19-FEB-2026",
+        "year": "19-F",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Arbab Muhammad Tahir",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-10-2026 | -&cseTle=MUDASSIR AHMED VS THE STATE&jgs=Honourable Mr. Justice Arbab Muhammad Tahir&jgmnt=/attachments/judgements/206790/1/Crl._Misc._No._10-B-2026__title__Mudassir_Ahmed_v._The_State___date_of_decision__19.02.2026__category__others_639076154013607102.pdf",
+        "cyber_keywords_matched": [
+            "under section 11 PECA, 2016, read with section 295-A, 295-B, 295-C, 298-A, 109 PPC, P.S. FIA Cyber Crime Reporting Circle | under section 497 Cr. PC"
+        ],
+        "excerpt": "Post Arrest Bail in FIR No. 49/2023 dated 25.02.2023 U/s 11 PECA 2016 r/w 295-A, 295-B, 295-C, 298-A, 109 PPC P.S. FIA Cyber Crime Reporting Circle, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-157-2026",
+        "parties": "Ali Hamza VS The State etc",
+        "date": "17-FEB-2026",
+        "year": "17-F",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Inaam Ameen Minhas",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-157-2026 | -&cseTle=Ali Hamza VS The State etc&jgs=Honourable Mr. Justice Inaam Ameen Minhas&jgmnt=/attachments/judgements/207841/1/Crl._Misc._No.157_of_2026_639093471869942834.pdf",
+        "cyber_keywords_matched": [
+            "under Sections\n13, 14 of PECA-2016, r/w sections 419, 420, 468, 471, 34, and\n109 of PPC | under Sections 13 and 14\nof the Prevention of Electronic Crimes Act, 2016, read with\nSections 419, 420, 468, 471, 34 and 109 PPC"
+        ],
+        "excerpt": "Post Arrest Bail in FIR No. 338/2025 dated 15.12.2025 U/s 13, 14 PECA 2016 r/w 419, 420,468, 471, 34, 109 PPC P.S. NCCIA Cyber Crime Reporting Centre, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-114-2026",
+        "parties": "Nouman Ali VS The State etc",
+        "date": "17-FEB-2026",
+        "year": "17-F",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Khadim Hussain Soomro",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-114-2026 | -&cseTle=Nouman Ali VS The State etc&jgs=Honourable Mr. Justice Khadim Hussain Soomro&jgmnt=/attachments/judgements/207549/1/Crl_Misc.114-26_639083046653317660.pdf",
+        "cyber_keywords_matched": [
+            "under section 14 of PECA, 2016 | under section 497(2) Cr.P.C |"
+        ],
+        "excerpt": "Post Arrest Bail in FIR No. 273/2025 dated 19.09.2025 U/s 14 PECA 2016 r/w 419, 420, 387, 506, 34, 109 PPC P.S. NCCIA Cyber Crime Reporting Centre, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Revision-157-2025",
+        "parties": "Qadir Khan VS The State etc.",
+        "date": "13-FEB-2026",
+        "year": "13-F",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Inaam Ameen Minhas",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Revision-157-2025 | -&cseTle=Qadir Khan VS The State etc. &jgs=Honourable Mr. Justice Inaam Ameen Minhas&jgmnt=/attachments/judgements/204250/1/Crl._Rev._157_of_2025_Qadir_Khan_Vs._The_State_Final_print_on__25.02.2026)_639088272845654912.pdf",
+        "cyber_keywords_matched": [
+            "under Sections 435 and 439 Cr.P.C | under Sections 20, 21 and 24 | under Section 540-A Cr.P.C |"
+        ],
+        "excerpt": "Revision against being declared proclaimed offender in FIR No. 105/2023 dated 16.06.2023 U/s 20/21/24 PECA 2016 r/w 109 PPC P.S. FIA Cyber Crime Reporting Centre, islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-2232-2025",
+        "parties": "Saqib Shamas VS The State etc",
+        "date": "02-FEB-2026",
+        "year": "02-F",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Arbab Muhammad Tahir",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-2232-2025 | -&cseTle=Saqib Shamas VS The State etc&jgs=Honourable Mr. Justice Arbab Muhammad Tahir&jgmnt=/attachments/judgements/206608/1/Crl._Misc._No._2232-B_of_2025__title__Saqib_Shamas_v._The_State__date_of_decision__02.02.2026__category__others_639076169582185823.pdf",
+        "cyber_keywords_matched": [
+            "under section 11 of the PECA Act 2016, read with sections 295-A, 295-B, 295-C, 298-A and 109\nPPC, Police Station Cyber Crime Circle, Islamabad | under section 265-K Cr. PC |"
+        ],
+        "excerpt": "Post Arrest Bail in FIR No. 102/2023 dated 12.06.2023 U/s 11 PECA 2016 r/w 295-A, 295-B, 295-C, 298-A, 109 PPC P.S. FIA Cyber Crime Reporting Circle, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-2191-2025",
+        "parties": "Abbas Butter VS The State etc",
+        "date": "02-FEB-2026",
+        "year": "02-F",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Arbab Muhammad Tahir",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-2191-2025 | -&cseTle=Abbas Butter VS The State etc&jgs=Honourable Mr. Justice Arbab Muhammad Tahir&jgmnt=/attachments/judgements/206331/1/Crl._Misc._No._2191-B_of_2025__title__Abbas_Butter_v._The_State__date_of_decision__02.02.2026__category__others_639076167971372182.pdf",
+        "cyber_keywords_matched": [
+            "-"
+        ],
+        "excerpt": "Post Arrest Bail in FIR No. 102/2023 dated 12.06.2023 U/s 11 PECA 2016 r/w 295-A, 295-B, 295-C, 298-A, 109 PPC P.S. FIA CCRC, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Revision-84-2025",
+        "parties": "Saqib Shams VS The State etc",
+        "date": "02-FEB-2026",
+        "year": "02-F",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Arbab Muhammad Tahir",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Revision-84-2025 | -&cseTle=Saqib Shams VS The State etc&jgs=Honourable Mr. Justice Arbab Muhammad Tahir&jgmnt=/attachments/judgements/199010/1/Criminal_Revision_No._84_of_2025__title__Saqib_Shams_v._The_State__etc__date_of_decision__02.02.2026__category__others_639076151432831012.pdf",
+        "cyber_keywords_matched": [
+            "under section 265-K Cr. PC | under section 11 of the PECA Act 2016, read with sections 295-A, 295-B, 295-C, 298-A and 109 PPC, Police Station Cyber Crime Circle, Islamabad | under section 342\nCr PC, under section 340(2) Cr PC"
+        ],
+        "excerpt": "Crl Rev agaisnt order dated 12-06-2025 in FIR No. 102/23, dated 12-06-2023 U/s 11 of PECA 2016 R/w 295-A/295-B/295-C/298&109, P.S FIA Cyber Crime Circle, Islamabad.",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-64-2026",
+        "parties": "Saqib Ali VS The State etc.",
+        "date": "27-JAN-2026",
+        "year": "27-J",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Mohsin Akhtar Kayani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-64-2026 | -&cseTle=Saqib Ali VS The State etc. &jgs=Honourable Mr. Justice Mohsin Akhtar Kayani&jgmnt=/attachments/judgements/207089/1/Crl._Misc._No.64-2026_639059692175192340.pdf",
+        "cyber_keywords_matched": [
+            "under Section 11 of the Prevention of Electronic Crimes Act, 2016"
+        ],
+        "excerpt": "Post Arrest Bail in FIR No. 43/2023 dated 14.02.2023 U/s 11 PECA 2016 r/w 295-A, 295-B, 295-C, 298-A, 109 PPC P.S. FIA Cyber Crime Reporting Circle, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Writ Petition-4518-2019",
+        "parties": "M/s Akbar & Zakria Pipes (Pvt) Ltd VS State Bank of Pakistan etc",
+        "date": "22-JAN-2026",
+        "year": "22-J",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Inaam Ameen Minhas",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Writ Petition-4518-2019 | -&cseTle=M/s Akbar & Zakria Pipes (Pvt) Ltd VS State Bank of Pakistan etc&jgs=Honourable Mr. Justice Inaam Ameen Minhas&jgmnt=/attachments/judgements/111751/1/16_WP_4518-2019-_DO_639058126746672491.pdf",
+        "cyber_keywords_matched": [
+            "-"
+        ],
+        "excerpt": "Seeks direction against respondent to take appropriate action in accordance with the payment systems and setaside the impugned order dated 17.8.19.",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Original-381-2025",
+        "parties": "SOHRAB BARKAT  VS RIFFAT MUKHTAR RAJA",
+        "date": "19-JAN-2026",
+        "year": "19-J",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Muhammad Asif",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Original-381-2025 | -&cseTle=SOHRAB BARKAT  VS RIFFAT MUKHTAR RAJA&jgs=Honourable Mr. Justice Muhammad Asif&jgmnt=/attachments/judgements/205523/1/Crl._Original_No.381_of_2025_639047618702252145.pdf",
+        "cyber_keywords_matched": [
+            "under sections 9, 10, 20, 26-A of PECA, 2016"
+        ],
+        "excerpt": "Criminal Original in W.P. 4300/2025 Misc. Other (SB), [ Sohrab Barkat-VS-FOP etc.  ], [Seeks removal of name from Passport Control List]",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-2177-2025",
+        "parties": "Asad Hussain VS The State etc.",
+        "date": "19-JAN-2026",
+        "year": "19-J",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Mohsin Akhtar Kayani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-2177-2025 | -&cseTle=Asad Hussain VS The State etc. &jgs=Honourable Mr. Justice Mohsin Akhtar Kayani&jgmnt=/attachments/judgements/205848/1/Crl._Misc._No.2177-2025__2115-2025_639118508660068582.pdf",
+        "cyber_keywords_matched": [
+            "under Section 11 of the Prevention of Electronic Crimes Act, 2016 | under the third and fourth provisos to Section 497(1) Cr.P.C"
+        ],
+        "excerpt": "Post Arrest Bail in FIR No. 43/2023 dated 14.02.2023 U/s 11 PECA r/w 295A, 295-B, 295C, 298, 298-A, 109 PPC P.S. FIA CCRC, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Writ Petition-116-2026",
+        "parties": "Mukhtar Muhammad VS FOP etc.",
+        "date": "14-JAN-2026",
+        "year": "14-J",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Inaam Ameen Minhas",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Writ Petition-116-2026 | -&cseTle=Mukhtar Muhammad VS FOP etc. &jgs=Honourable Mr. Justice Inaam Ameen Minhas&jgmnt=/attachments/judgements/206813/1/WP_106_26_Converted_representation_DO_639047611683414992.pdf",
+        "cyber_keywords_matched": [
+            "-"
+        ],
+        "excerpt": "Seeks unblocking of CNIC",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-2246-2025",
+        "parties": "Syed Anees Ahmed Shah VS The State etc.",
+        "date": "08-JAN-2026",
+        "year": "08-J",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Khadim Hussain Soomro",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-2246-2025 | -&cseTle=Syed Anees Ahmed Shah VS The State etc. &jgs=Honourable Mr. Justice Khadim Hussain Soomro&jgmnt=/attachments/judgements/206594/1/Clr._Misc.2246-25_639088287517933795.pdf",
+        "cyber_keywords_matched": [
+            "under sections 6, 7, 8, 10, 11 of PECA, 2016, read with section 109 PPC | under Sections 6, 7, 8, 10\n& 14 of the Prevention of Electronic Crimes Act, 2016 | under Section 173 Cr.P.C |  under Section 10 of the Prevention of\nElectronic Crimes Act, 2016"
+        ],
+        "excerpt": "Post Arrest Bail in FIR No. 285/2025 dated 03.10.2025 U/s 11 PECA 2016 r/w 109 PPC P.S. NCCIA Cyber Crime Reporting Circle, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-2189-2025",
+        "parties": "Umair Saleem VS The State etc.",
+        "date": "31-DEC-2025",
+        "year": "31-D",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Mohsin Akhtar Kayani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-2189-2025 | -&cseTle=Umair Saleem VS The State etc. &jgs=Honourable Mr. Justice Mohsin Akhtar Kayani&jgmnt=/attachments/judgements/206305/1/Crl._Misc._No.2189-2025_639038930548600224.pdf",
+        "cyber_keywords_matched": [
+            "under Section 11 of the Prevention of Electronic Crimes Act, 2016 | under Section 161 Cr.P.C."
+        ],
+        "excerpt": "Post Arrest Bail in FIR No. 12/2023 dated 10.01.2023 U/s 11 PECA 2016 r,w 295-A, 295-B, 298-C, 298-A, 109 PPC P.S. FIA CCRC, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-1960-2025",
+        "parties": "Bai Xiaoming VS The State etc.",
+        "date": "22-DEC-2025",
+        "year": "22-D",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Inaam Ameen Minhas",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-1960-2025 | -&cseTle=Bai Xiaoming VS The State etc. &jgs=Honourable Mr. Justice Inaam Ameen Minhas&jgmnt=/attachments/judgements/204942/1/Crl._Misc._No._1960-B_of_2025_639026185436180537.pdf",
+        "cyber_keywords_matched": [
+            "under Section 14 of PECA, 2016 read with Section 419, 420, 468, 471, 109 & 34 P.P.C | under Section 540 Cr.P.C"
+        ],
+        "excerpt": "Post Arrest Bail in FIR No. 250/2024 dated 20.10.2024 U/s 14 PECA 2016 r/w 420, 468, 471, 109, 419, 34 PPC P.S. FIA Cyber Crime Reporting Centre, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-2033-2025",
+        "parties": "Muhammad Qasim VS The State etc",
+        "date": "17-DEC-2025",
+        "year": "17-D",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Khadim Hussain Soomro",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-2033-2025 | -&cseTle=Muhammad Qasim VS The State etc&jgs=Honourable Mr. Justice Khadim Hussain Soomro&jgmnt=/attachments/judgements/205220/1/clr_Misc._2033-25_639082985560310108.pdf",
+        "cyber_keywords_matched": [
+            "under sections 20, 21 & 24 PECA 2016 r/w 109 PPC P.S. NCCIA, Cyber Crime Reporting Centre, Islamabad. \n| under section 497(2) Cr.PC |"
+        ],
+        "excerpt": "Post Arrest Bail in FIR No. 254/2025 dated 09.09.2025 U/s 20, 21, 24 PECA 2016 r/w 109 PPC P.S. NCCIA Cyber Crime Reporting Centre, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-2004-2025",
+        "parties": "Muhammad Waqar VS The State etc",
+        "date": "16-DEC-2025",
+        "year": "16-D",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Khadim Hussain Soomro",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-2004-2025 | -&cseTle=Muhammad Waqar VS The State etc&jgs=Honourable Mr. Justice Khadim Hussain Soomro&jgmnt=/attachments/judgements/205218/1/Clr._Misc.2004-25_639088286317215838.pdf",
+        "cyber_keywords_matched": [
+            "under section 14 of PECA, 2016 | under section 497(2) Cr.P.C |"
+        ],
+        "excerpt": "Post Arrest Bail in FIR No. 273/2025 dated 19.09.2025 U/s 14 PECA 2016 r/w 419, 420, 387, 506, 34, 109 PPC P.S. NCCIA, Cyber Crime Reporting Centre, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Original-367-2025",
+        "parties": "Ameena Bashir VS Muhammad Nadir Khan etc",
+        "date": "09-DEC-2025",
+        "year": "09-D",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Khadim Hussain Soomro",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Original-367-2025 | -&cseTle=Ameena Bashir VS Muhammad Nadir Khan etc&jgs=Honourable Mr. Justice Khadim Hussain Soomro&jgmnt=/attachments/judgements/204853/1/Clr._orginal_No.367-25_639089071659522723.pdf",
+        "cyber_keywords_matched": [
+            "under Article 204 of\nthe Constitution of the Islamic Republic of Pakistan,\n1973, read with 3 & 4 of the Contempt of Court\nOrdinance, 2003"
+        ],
+        "excerpt": "Crl Org in WP 2446/2025: Petitioner's mother of Ahmad Noorani, seeks unblocking of Bank Accounts.",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Revision-167-2025",
+        "parties": "Muhammad Sajjad VS The State etc.",
+        "date": "24-NOV-2025",
+        "year": "24-N",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Khadim Hussain Soomro",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Revision-167-2025 | -&cseTle=Muhammad Sajjad VS The State etc. &jgs=Honourable Mr. Justice Khadim Hussain Soomro&jgmnt=/attachments/judgements/203956/1/Crl._Rev_No._167-2025_639084776056435273.pdf",
+        "cyber_keywords_matched": [
+            "-"
+        ],
+        "excerpt": "Revision against being declared as proclaimed offender in FIR No. 113/2024 dated 13.02.2024 U/s 365B PPC P.S. Lohi Bhair, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-1956-2025",
+        "parties": "Fahad  VS The State etc.",
+        "date": "24-NOV-2025",
+        "year": "24-N",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Mohsin Akhtar Kayani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-1956-2025 | -&cseTle=Fahad  VS The State etc. &jgs=Honourable Mr. Justice Mohsin Akhtar Kayani&jgmnt=/attachments/judgements/204723/1/Crl._Misc._No.1956-B-2025_639000083341870188.pdf",
+        "cyber_keywords_matched": [
+            "under Section 11 of\nthe PECA, 2016 , under Section\n11 of PECA, 2016 read with Sections 295-A, 295-B,\n295-C, 298-A, 109 PPC"
+        ],
+        "excerpt": "Post Arrest Bail in FIR No. 40/2023 dated 09.02.2023 U/s 11 PECA 2016 r/w 295A, 295-B, 295-C, 298, 298-A, 109 PPC P.S. FIA Cyber Crime Reporting Circle, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Revision-116-2025",
+        "parties": "Muhammad Maqsood VS The State",
+        "date": "19-NOV-2025",
+        "year": "19-N",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Inaam Ameen Minhas",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Revision-116-2025 | -&cseTle=Muhammad Maqsood VS The State&jgs=Honourable Mr. Justice Arbab Muhammad Tahir, Honourable Mr. Justice Inaam Ameen Minhas&jgmnt=/attachments/judgements/201444/1/201444_638994001314048650.pdf",
+        "cyber_keywords_matched": [
+            "under section 265-K, 164, 173 Cr.P.C | under sections 20, 21 & 24 (d) of Prevention of Electronic Crimes Act, 2016  read with sections 419, 500, 509, 109 & 34, PPC | under Article 10-A of the Constitution of Islamic Republic of Pakistan, 1973."
+        ],
+        "excerpt": "Against dismissal of application U/s 265-K in FIR No. 14/2024 dated 13.01.2024 U/s 20, 21, 24 PECA r/w 419, 500, 509, 34, 109 PPC P.S. FIA CCRC, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-1891-2025",
+        "parties": "Zeeshan Majeed Bhatti VS The State etc.",
+        "date": "17-NOV-2025",
+        "year": "17-N",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Mohsin Akhtar Kayani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-1891-2025 | -&cseTle=Zeeshan Majeed Bhatti VS The State etc. &jgs=Honourable Mr. Justice Mohsin Akhtar Kayani&jgmnt=/attachments/judgements/204367/1/Crl._Misc._No.1891-2025_638992453730798574.pdf",
+        "cyber_keywords_matched": [
+            "under section 3 of the Anti-Money Laundering\nAct (AMLA) 2010 , under sections 409, 419, 420,\n467, 468, 471, 109, and 34 PPC"
+        ],
+        "excerpt": "Post Arrest Bail in FIR No. 01/2024 dated 26.01.2024 U/s 3/4 AMLA 2010 P.S. FIA AMLC, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-1809-2025",
+        "parties": "Muhammad Abdullah Shoaib VS The State etc.",
+        "date": "03-NOV-2025",
+        "year": "03-N",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Mohsin Akhtar Kayani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-1809-2025 | -&cseTle=Muhammad Abdullah Shoaib VS The State etc. &jgs=Honourable Mr. Justice Mohsin Akhtar Kayani&jgmnt=/attachments/judgements/203738/1/Crl._Misc._No.1809-2025_638991508769235746.pdf",
+        "cyber_keywords_matched": [
+            "under Section 11 of the\nPrevention of Electronic Crimes Act"
+        ],
+        "excerpt": "Post Arrest Bail in FIR No. 12/2023 dated 10.01.2023 U/s 11 PECA r/w 295-A, 295-B, 295-C, 298-A, 109 PPC P.S. FIA Cyber Crime Circle, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-1432-2025",
+        "parties": "Mehran Ali VS The State etc.",
+        "date": "30-OCT-2025",
+        "year": "30-O",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Arbab Muhammad Tahir",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-1432-2025 | -&cseTle=Mehran Ali VS The State etc. &jgs=Honourable Mr. Justice Arbab Muhammad Tahir&jgmnt=/attachments/judgements/201599/1/Criminal_Misc._No.1432-B_of_2025__title__Mehran_Ali_v._The_State_etc.__date_of_decision__30.10.2025__category__other_639035544171977908.pdf",
+        "cyber_keywords_matched": [
+            "under section 11 of the Prevention of Electronic Crimes Act, 2016 | under 3rd proviso to section 497 Cr. P.C"
+        ],
+        "excerpt": "Post Arrest Bail in FIR No. 132/2023 dated 19.07.2023 U/s 11 PECA 2016 r/w 295-A, 295-B, 295-C, 298-A, 109 PPC P.S. FIA Cyber Crime Reporting Circle, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-1731-2025",
+        "parties": "Zia Ali VS The State etc",
+        "date": "30-OCT-2025",
+        "year": "30-O",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Arbab Muhammad Tahir",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-1731-2025 | -&cseTle=Zia Ali VS The State etc&jgs=Honourable Mr. Justice Arbab Muhammad Tahir&jgmnt=/attachments/judgements/203304/1/203304_638984567111893613.pdf",
+        "cyber_keywords_matched": [
+            "under section 11 of the Prevention of Electronic Crimes Act, 2016 | under 3rd proviso to section 497 Cr. P.C"
+        ],
+        "excerpt": "Post Arrest Bail in FIR No. 49/2023 dated 25.02.2023 U/s 11 PECA 2016 r/w 295-A, 295-B, 295-C, 298-A, 109 PPC P.S. FIA Cyber Crime Reporting Circle, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-1797-2025",
+        "parties": "Muneeb ur Rehman VS The State etc",
+        "date": "30-OCT-2025",
+        "year": "30-O",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Arbab Muhammad Tahir",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-1797-2025 | -&cseTle=Muneeb ur Rehman VS The State etc&jgs=Honourable Mr. Justice Arbab Muhammad Tahir&jgmnt=/attachments/judgements/203607/1/203607_638984570997895456.pdf",
+        "cyber_keywords_matched": [
+            "under section 11 of the Prevention of Electronic Crimes Act, 2016"
+        ],
+        "excerpt": "Post Arrest Bail in FIR No. 132/2023 dated 19.07.2023 U/s 11 PECA 2016 r/w 295-A, 295-B, 295-C, 298-A, 109 PPC P.S. FIA Cyber Crime Reporting Circle, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-1780-2025",
+        "parties": "Zeeshan Ahmad VS The State etc",
+        "date": "29-OCT-2025",
+        "year": "29-O",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Mohsin Akhtar Kayani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-1780-2025 | -&cseTle=Zeeshan Ahmad VS The State etc&jgs=Honourable Mr. Justice Mohsin Akhtar Kayani&jgmnt=/attachments/judgements/203524/1/Crl._Misc._No.1780-B-2025_638985457699991347.pdf",
+        "cyber_keywords_matched": [
+            "under Section 11 of PECA 2016\nread with Sections 295-A, 295-B, 295-C, 298-A &\n109 PPC, F.I.A Cyber Crime Circle, Islamabad"
+        ],
+        "excerpt": "Post Arrest Bail in FIR No. 188/2022 dated 30.11.2022 U/s 11 PECA 2016 r/w 295-A, 295-B, 295-C, 298-A, 109 PPC P.S. FIA Cyber Crime Reporting Circle, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Intra Court Appeal-362-2025",
+        "parties": "Muhammad Uzair Anwar VS Fop etc",
+        "date": "28-OCT-2025",
+        "year": "28-O",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Arbab Muhammad Tahir",
+        "pdf_link": "",
+        "cyber_keywords_matched": [
+            "under section 3(2) of the Law Reforms \nOrdinance, 1972"
+        ],
+        "excerpt": "ICA in WP 2883/2025: Petitioner as youtuber unblocking of his Bank Account.",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Writ Petition-2935-2025",
+        "parties": "RABIA BASRI VS FOP",
+        "date": "13-OCT-2025",
+        "year": "13-O",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Muhammad Azam Khan",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Writ Petition-2935-2025 | -&cseTle=RABIA BASRI VS FOP&jgs=Honourable Mr. Justice Muhammad Azam Khan&jgmnt=/attachments/judgements/201120/1/201120_638968948347636756.pdf",
+        "cyber_keywords_matched": [
+            "under Article 199, 2A, 4, 9, 10A, 15, and 25of the Constitution of the Islamic Republic of Pakistan, 1973 | under Sections 20, 21, and 24 of the Prevention of Electronic Crimes Act, 2016."
+        ],
+        "excerpt": "Agaisnt placement of name on ECL.",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Intra Court Appeal-437-2019",
+        "parties": "Muhammad Ishaq Khan VS FOP etc",
+        "date": "06-OCT-2025",
+        "year": "06-O",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Arbab Muhammad Tahir",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Intra Court Appeal-437-2019 | -&cseTle=Muhammad Ishaq Khan VS FOP etc&jgs=Honourable Mr. Justice Arbab Muhammad Tahir, Honourable Mr. Justice Inaam Ameen Minhas&jgmnt=/attachments/judgements/110544/1/110544_638957746348745729.pdf",
+        "cyber_keywords_matched": [
+            "under Article 189 of the Constitution"
+        ],
+        "excerpt": "Intra Court Appeal in WP 2871-13 (FIA, Service Matter, against appointment in National Center Cyber Crime)",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-1468-2025",
+        "parties": "Raja Muhammad Adil  VS The State etc.",
+        "date": "02-OCT-2025",
+        "year": "02-O",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Mohsin Akhtar Kayani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-1468-2025 | -&cseTle=Raja Muhammad Adil  VS The State etc. &jgs=Honourable Mr. Justice Mohsin Akhtar Kayani&jgmnt=/attachments/judgements/201701/1/Crl._Misc._No.1468-B-2025_638985453275904617.pdf",
+        "cyber_keywords_matched": [
+            "under\nSection 11 of PECA, 2016,"
+        ],
+        "excerpt": "Post Arrest Bail in FIR No. 40/2023 dated 09.02.2023 U/s 11 PECA 2016 r/w 295-A, 295-B, 295-C, 298-A, 109 PPC P.S. FIA Cyber Crime Reporting Circle, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Writ Petition-3566-2024",
+        "parties": "Sadeeq Anjam  VS The State etc",
+        "date": "26-SEP-2025",
+        "year": "26-S",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Inaam Ameen Minhas",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Writ Petition-3566-2024 | -&cseTle=Sadeeq Anjam  VS The State etc&jgs=Honourable Mr. Justice Inaam Ameen Minhas&jgmnt=/attachments/judgements/188534/1/188534_638949174493685176.pdf",
+        "cyber_keywords_matched": [
+            "under Article 199 of the Constitution of Islamic Republic of Pakistan, 1973 | under sections 249-A/265-K, Cr.P.C"
+        ],
+        "excerpt": "Quashment of FIR No. 220/2024, dated 11-09-2024 U/s 20/24 PECA 2016 r/w 505/506(ii)/34/109 PPC, P.S FIA Cyber Crime Reporting Center.",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-1239-2025",
+        "parties": "Jianping Xioa VS State",
+        "date": "22-SEP-2025",
+        "year": "22-S",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Inaam Ameen Minhas",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-1239-2025 | -&cseTle=Jianping Xioa VS State &jgs=Honourable Mr. Justice Inaam Ameen Minhas&jgmnt=/attachments/judgements/200137/1/Criminal_Miscellaneous_No.1239_of_2025.__Normal_638998397674027486.pdf",
+        "cyber_keywords_matched": [
+            "under section 561-A Cr.P.C | under sections 3, 4, 13, 14 & 16, PECA  Act, 2016"
+        ],
+        "excerpt": "Crl Misc U/s 561-A for setting aside the Revisional order dated 08-07-2025",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Writ Petition-3779-2022",
+        "parties": "Mrs. Shahira Shahid VS FOP etc.",
+        "date": "16-NOV-2023",
+        "year": "16-N",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Tariq Mehmood Jahangiri",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Writ Petition-3779-2022 | -&cseTle=Mrs. Shahira Shahid VS FOP etc. &jgs=Honourable Mr. Justice Tariq Mehmood Jahangiri&jgmnt=/attachments/judgements/150765/1/150765_638740001250288478.pdf",
+        "cyber_keywords_matched": [
+            "under Section 506, 505, 298, 153-A, 511 P.P.C."
+        ],
+        "excerpt": "Petitioner is a secretary of the information ministry. The petitioner is aggrieved that against a political speech by Javed Latif, so televised by PTV, various FIRs across the country have been registered against them under 7 ATA. An application is pending before SHO PS Secretariat. Seeks restraining FIR as well as protection due to Civil servants. (1) FIR No. 3715-2022 dated 19.09.2022 U/s 9, 11 (x) (3) of the ATA 1997, P.S. Green Town, Lahore, Punjab (2) FIR No. 1273/2022 dated 19.09.2022 U/s 506, 505, 298, 153-A, 511 PPC & 7, 9, 11-W, 11-X(1) ATA 1997 P.S. Rehman Baba, Peshawar, KPK",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Writ Petition-2701-2023",
+        "parties": "Jawad Ullah  VS DG FIA etc",
+        "date": "08-SEP-2023",
+        "year": "08-S",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Tariq Mehmood Jahangiri",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Writ Petition-2701-2023 | -&cseTle=Jawad Ullah  VS DG FIA etc &jgs=Honourable Mr. Justice Tariq Mehmood Jahangiri&jgmnt=/attachments/judgements/165821/1/165821_638671745211002330.pdf",
+        "cyber_keywords_matched": [
+            "under sections 20, 24 PECA, 2016, r/w 25-D Telegraph Act, 1885 and 34, 109 P.P.C. | under section 63 of the Cr.P.C.| under section 551 of cr.pc."
+        ],
+        "excerpt": "Quashment (in Bail Before Arrest), FIR No. 89-2023 dated 29.05.2023 Offence U/s 20  (Privacy & Intimation), 24 of PECA 2016 r/w 25D Telegraph Act, r/w 34 & 109 PPC PS FIA, Cyber Crime Reporting Center, Islamabad.",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Writ Petition-2671-2023",
+        "parties": "Shakeel Ahmad Chughtai VS The State etc",
+        "date": "05-SEP-2023",
+        "year": "05-S",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Arbab Muhammad Tahir",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Writ Petition-2671-2023 | -&cseTle=Shakeel Ahmad Chughtai VS The State etc &jgs=Honourable Mr. Justice Arbab Muhammad Tahir&jgmnt=/attachments/judgements/165690/1/165690_638671730685529384.pdf",
+        "cyber_keywords_matched": [
+            "under Section 249, 265 and 561 -A Cr.P.C."
+        ],
+        "excerpt": "Quashment ( in Pre-Arrest Bail) FIR No. 107-2023 dated 19.06.2023 Offence U/s 14 of PECA 2016 r/w 419, 420, 34 & 109 PPC PS FIA, Cyber Crime Reporting Center, Islamabad.",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Writ Petition-4047-2022",
+        "parties": "Jawad Khan VS The State etc.",
+        "date": "17-FEB-2023",
+        "year": "17-F",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Babar Sattar",
+        "pdf_link": "",
+        "cyber_keywords_matched": [
+            "under S. 14,29,44 of Prevention of Electronic Crimes Act, 2016"
+        ],
+        "excerpt": "Quashment of FIR No. 154/2022 dated 06.10.2022 U/s 14 of PECA 2016 r/w 419 & 420 PPC P.S. FIA Cyber Crime Reporting Centre, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-1016-2022",
+        "parties": "Muhammad Yasir VS The State etc.",
+        "date": "12-SEP-2022",
+        "year": "12-S",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Babar Sattar",
+        "pdf_link": "",
+        "cyber_keywords_matched": [
+            "under sections 21 and 22 of the Prevention of Electronic Crimes Act, 2016,109 of P.P.C."
+        ],
+        "excerpt": "Post Arrest Bail in FIR No. 108/2022 dated 22.07.2022 U/s 21, 22 of PECA Act 2016 r/w 109 PPC P.S. FIA CCC, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-1040-2022",
+        "parties": "Anna Ali VS The State",
+        "date": "22-AUG-2022",
+        "year": "22-A",
+        "citation": "",
+        "judge": "Former Honourable Chief Justice Mr. Justice Aamer Farooq",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-1040-2022 | -&cseTle=Anna Ali VS The State &jgs=Former Honourable Chief Justice Mr. Justice Aamer Farooq&jgmnt=/attachments/judgements/148729/1/148729_638162050803381550.pdf",
+        "cyber_keywords_matched": [
+            "under sections 3, 4, 20, 21, 24, 16 of PECA"
+        ],
+        "excerpt": "Protective/ Transitory Bail in FIR No. 126/2022, dated 17.08.202, Offences U/s 3, 4, 20, 21, 24, 16, of PECA 2016 read with 109 of PPC, P.S FIA Cyber Crime Circle Wing, CCRC, Faisalabad. (Faisalabad torture case; daughter of accused)",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Regular First Appeal-24-2022",
+        "parties": "Ansar Mahmood Chughati VS Shahzadi Fatima etc",
+        "date": "29-JUL-2022",
+        "year": "29-J",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Arbab Muhammad Tahir",
+        "pdf_link": "",
+        "cyber_keywords_matched": [
+            "Order VII, Rule 11 of the Code of Civil Procedure ('C.P.C.')."
+        ],
+        "excerpt": "RFA against dismissal of damages recovery suit for malicious prosecution",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-263-2022",
+        "parties": "Nisar Ali VS The State etc",
+        "date": "29-MAR-2022",
+        "year": "29-M",
+        "citation": "",
+        "judge": "Honourable Ms. Justice Saman Rafat Imtiaz",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-263-2022 | -&cseTle=Nisar Ali VS The State etc&jgs=Honourable Ms. Justice Saman Rafat Imtiaz&jgmnt=/attachments/judgements/141974/1/141974_637905579557016053.pdf",
+        "cyber_keywords_matched": [
+            "-"
+        ],
+        "excerpt": "Post Arrest Bail in Case FIR No.50/21 Dated 29.07.2021 Offence U/s 14 and 16 prevention of electronic crimes Act 2016 R/w 419/420/468/471/109 PPC, PS FIA Cyber Crime, ISB",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-1332-2021",
+        "parties": "Raja Adeel Masood VS State, etc",
+        "date": "14-JAN-2022",
+        "year": "14-J",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Tariq Mehmood Jahangiri",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-1332-2021 | -&cseTle=Raja Adeel Masood VS State, etc&jgs=Honourable Mr. Justice Tariq Mehmood Jahangiri&jgmnt=/attachments/judgements/138536/1/138536_637800028064768776.pdf",
+        "cyber_keywords_matched": [
+            "-"
+        ],
+        "excerpt": "Bail After Arrest in FIR NO. 18/2021, dated 30-03-2021, U/s 13/14 PECA R/w 419/420/468/471/109 PPC P.S FIA CCRC, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-1363-2021",
+        "parties": "Syed Tehseen  VS The State, etc",
+        "date": "11-JAN-2022",
+        "year": "11-J",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Arbab Muhammad Tahir",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-1363-2021 | -&cseTle=Syed Tehseen  VS The State, etc&jgs=Honourable Mr. Justice Arbab Muhammad Tahir&jgmnt=/attachments/judgements/138909/1/138909_637800032997271004.pdf",
+        "cyber_keywords_matched": [
+            "Section 16,20,21,22 & 24 ofPakistan Electronic Crime Act, 2016, 34 & 109 PPC,Police Station FIA Cyber Crime Reporting Centre,Islamabad"
+        ],
+        "excerpt": "Bail After Arrest in FIR NO. 88/2021 dated 29-10-2021 U/s 22 and 24 PECA R/W 109 PPC. P.S FIA, Cyber Crime Reporting Center, Islamabad.",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-1296-2021",
+        "parties": "Masood ur Rehman Abbasi VS The State, etc",
+        "date": "16-DEC-2021",
+        "year": "16-D",
+        "citation": "",
+        "judge": "Former Honourable Chief Justice Mr. Justice Athar Minallah",
+        "pdf_link": "",
+        "cyber_keywords_matched": [
+            "S. 497 of Criminal Procedure Code (V of 1898) | 500, 505, 506 & 109 Pakistan Penal Code (XLV of 1860)"
+        ],
+        "excerpt": "Bail After Arrest in FIR No. 44/2021 dated 30-06-2021, U/s 10-11-20 PECA 2016 R/W 500/505/506/109 PPC. P.S FIA Cyber Crime, Islamabad.",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Writ Petition-3949-2019",
+        "parties": "Muhammad Asad Khalid Baig VS FIA",
+        "date": "24-SEP-2021",
+        "year": "24-S",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Mohsin Akhtar Kayani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Writ Petition-3949-2019 | -&cseTle=Muhammad Asad Khalid Baig VS FIA&jgs=Honourable Mr. Justice Mohsin Akhtar Kayani&jgmnt=/attachments/judgements/110038/1/W.P._No.__3949_of_2019_disposed_of_637683459406986599.pdf",
+        "cyber_keywords_matched": [
+            "Section 53 of the Prevention of Electronic Crimes Act, 2016"
+        ],
+        "excerpt": "Seeks direction to respondent to submit all outstanding reports to the parliament.",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Writ Petition-3388-2019",
+        "parties": "HBL VS President of Pakistan etc",
+        "date": "11-MAR-2021",
+        "year": "11-M",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Mohsin Akhtar Kayani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Writ Petition-3388-2019 | -&cseTle=HBL VS President of Pakistan etc&jgs=Honourable Mr. Justice Mohsin Akhtar Kayani&jgmnt=/attachments/judgements/108218/2/WP_3388_of_2019_Short_Order_637512382338771035.pdf",
+        "cyber_keywords_matched": [
+            "-"
+        ],
+        "excerpt": "Against impugned order dated 30.7.19 passed by the president Secretariat ICT, whereby representation of the complainant has been accepted & order of the ombudsman has been setaside.",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Writ Petition-3379-2019",
+        "parties": "HBL etc VS The President of Pakistan etc",
+        "date": "11-MAR-2021",
+        "year": "11-M",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Mohsin Akhtar Kayani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Writ Petition-3379-2019 | -&cseTle=HBL etc VS The President of Pakistan etc&jgs=Honourable Mr. Justice Mohsin Akhtar Kayani&jgmnt=/attachments/judgements/108206/1/WP_3379_of_2019_HBL_vs_POP_and_connected_637512382076690574.pdf",
+        "cyber_keywords_matched": [
+            "Banking Companies Ordinance 1962, Federal Ombudsmen Institutional Reforms Act, 2013, Payment Systems and Electronic Fund Transfers Act, 2007 ,"
+        ],
+        "excerpt": "Petitioner has impugned order dated 29.7.19 passed by the President Secretariat ICT whereby representation filed by respondent no.4 has been accepted.",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Writ Petition-3550-2020",
+        "parties": "Rameesha Taj Jadoon VS Jaffar Ahmed, DG, FIA etc",
+        "date": "20-JAN-2021",
+        "year": "20-J",
+        "citation": "",
+        "judge": "Former Honourable Chief Justice Mr. Justice Athar Minallah",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Writ Petition-3550-2020 | -&cseTle=Rameesha Taj Jadoon VS Jaffar Ahmed, DG, FIA etc&jgs=Former Honourable Chief Justice Mr. Justice Athar Minallah&jgmnt=/attachments/judgements/123199/1/123199_637800944022668091.pdf",
+        "cyber_keywords_matched": [
+            "-"
+        ],
+        "excerpt": "Cyber Crime / FIR: Petitioner is aggrieved that a certain group / NGO on facebook is harrassing and defaming her. Seek FIA action for restraining the harrasment capering.",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-1344-2020",
+        "parties": "Irfan Sarwar VS The State etc",
+        "date": "05-JAN-2021",
+        "year": "05-J",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Tariq Mehmood Jahangiri",
+        "pdf_link": "",
+        "cyber_keywords_matched": [
+            "under section 497, 497(2)  Cr.P.C. ,| ,"
+        ],
+        "excerpt": "Bail After Arrest in Case FIR No. 22/20 Dated 04.11.2020 Offence U/s 20/22 of PECA 2016, PS FIA Cyber Crime Circle, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Writ Petition-2667-2020",
+        "parties": "Khalid Nadeem Kiyani VS IG Police, Islamabad.",
+        "date": "02-NOV-2020",
+        "year": "02-N",
+        "citation": "",
+        "judge": "Former Honourable Justice Ms. Lubna Saleem Pervez",
+        "pdf_link": "",
+        "cyber_keywords_matched": [
+            "under Section 25-D of Telegraph Act, 1885 , | , under Section 173, 249-A, 265-K Cr.P.C"
+        ],
+        "excerpt": "Police Matter: Quashment of FIR: Offences U/s 25-D of Telegraph ACT, P.S Golra Sharif, Islamabad.",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-1027-2020",
+        "parties": "Muhammad Nawaz VS The State, etc",
+        "date": "21-OCT-2020",
+        "year": "21-O",
+        "citation": "",
+        "judge": "Former Honourable Chief Justice Mr. Justice Aamer Farooq",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-1027-2020 | 2021 YLR 328&cseTle=Muhammad Nawaz VS The State, etc&jgs=Former Honourable Chief Justice Mr. Justice Aamer Farooq&jgmnt=/attachments/judgements/120529/1/CRL_MISC_1027_2020___________637823344679947945.pdf",
+        "cyber_keywords_matched": [
+            "under sections 14 and 16 PECA, 2016 read with sections 406/468/471 and 109, P.P.C."
+        ],
+        "excerpt": "Bail After Arrest: Offences U/s 14 & 16 PECA 2016 R/W 406/468/471 & 109 PPC, P.S Cyber Crime Reporting, FIR 16/2020.",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Revision-41-2020",
+        "parties": "Abdul Waheed VS Hafiz Ehtasham Ahmed",
+        "date": "15-OCT-2020",
+        "year": "15-O",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Mohsin Akhtar Kayani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Revision-41-2020 | -&cseTle=Abdul Waheed VS Hafiz Ehtasham Ahmed&jgs=Former Honourable Mr. Justice Fiaz Ahmad Anjum Jandran, Honourable Mr. Justice Mohsin Akhtar Kayani&jgmnt=/attachments/judgements/120182/1/120182--_637539107306426382.pdf",
+        "cyber_keywords_matched": [
+            "-"
+        ],
+        "excerpt": "Petitioner is accused of offence under ATA. He submitted application u/s 94 CrPC for production certain documents from PIA. Application was dismissed impugns order",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Writ Petition-4190-2019",
+        "parties": "Nadia Asghar VS National Defence University etc",
+        "date": "15-OCT-2020",
+        "year": "15-O",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Mohsin Akhtar Kayani",
+        "pdf_link": "",
+        "cyber_keywords_matched": [
+            "-"
+        ],
+        "excerpt": "Seeking direction to setaside the impugned notification dated 25.2.19 and 19.8.19 and also seeks to restore the petitioner admission and to finalize the process of degree.",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-689-2020",
+        "parties": "Saeed Zaman VS The State etc",
+        "date": "01-OCT-2020",
+        "year": "01-O",
+        "citation": "",
+        "judge": "Former Honourable Chief Justice Mr. Justice Athar Minallah",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-689-2020 | -&cseTle=Saeed Zaman VS The State etc&jgs=Former Honourable Chief Justice Mr. Justice Athar Minallah&jgmnt=/attachments/judgements/116871/1/116871--_637507934965276811.pdf",
+        "cyber_keywords_matched": [
+            "sections 13 and L4 of the Prevention of Electronic Crimes Act, 2016"
+        ],
+        "excerpt": "Bail After Arrest in Case FIR No. 27/2019 dated 19.09.2019 Offence U/s 13/14 of Prevention of Electronic Crimes Act 2016 R/w 420/468/471/109 PPC, PS FIA Cyber Crime, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Writ Petition-2477-2020",
+        "parties": "Faiza Anwar VS DG, FIA & others",
+        "date": "10-SEP-2020",
+        "year": "10-S",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Mohsin Akhtar Kayani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Writ Petition-2477-2020 | -&cseTle=Faiza Anwar VS DG, FIA & others&jgs=Honourable Mr. Justice Mohsin Akhtar Kayani&jgmnt=/attachments/judgements/119774/1/119774_637532115791135181.pdf",
+        "cyber_keywords_matched": [
+            "-"
+        ],
+        "excerpt": "Police Matter: Petitioner is complainant of a FIR U/s 20,21,24 PECA against her ex-husband dissatisfied with investigation. Seeks direction for change of IO os well as for proper investigation.",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-924-2020",
+        "parties": "John Ebuka Okeke Alias Khadim VS The State etc",
+        "date": "08-SEP-2020",
+        "year": "08-S",
+        "citation": "",
+        "judge": "Former Honourable Mr. Justice Fiaz Ahmad Anjum Jandran",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-924-2020 | -&cseTle=John Ebuka Okeke Alias Khadim VS The State etc&jgs=Former Honourable Mr. Justice Fiaz Ahmad Anjum Jandran&jgmnt=/attachments/judgements/119171/1/119171--_637532280005447609.pdf",
+        "cyber_keywords_matched": [
+            "Section 14 of PECA, 2016 read with Sections 419, 420, 468, 471, 109, 34 PPC and Section 14 of the Foreigners Act, 1946"
+        ],
+        "excerpt": "Bail After Arrest in Case FIR No. 39/19 Dated 19.02.2019 Offence U/s 14 of PECA 2016 R/w 419/420/468/471/109 PPC, PS Cyber Crime Circle, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Appeal-178-2015",
+        "parties": "Aamir Qayyum Janjua VS The State",
+        "date": "27-AUG-2020",
+        "year": "27-A",
+        "citation": "",
+        "judge": "Former Honourable Mr. Justice Ghulam Azam Qambrani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Appeal-178-2015 | -&cseTle=Aamir Qayyum Janjua VS The State&jgs=Former Honourable Mr. Justice Ghulam Azam Qambrani&jgmnt=/attachments/judgements/55719/1/55719_637521897845241812.pdf",
+        "cyber_keywords_matched": [
+            "Sections 36, 37 ETO , 2002 read with Section 419 P.P.C"
+        ],
+        "excerpt": "Criminal Appeal, against conviction, 3 YEARS",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-879-2020",
+        "parties": "Zubair Amjad VS The State etc",
+        "date": "12-AUG-2020",
+        "year": "12-A",
+        "citation": "",
+        "judge": "Former Honourable Mr. Justice Fiaz Ahmad Anjum Jandran",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-879-2020 | -&cseTle=Zubair Amjad VS The State etc&jgs=Former Honourable Mr. Justice Fiaz Ahmad Anjum Jandran&jgmnt=/attachments/judgements/118755/1/118755-_637476117379993867.pdf",
+        "cyber_keywords_matched": [
+            "Sections 13 & 14 of PECA 2016 read with Sections 420, 468, 471 PPC"
+        ],
+        "excerpt": "Bail After Arrest in Case FIR No.17/20 Dated 14.07.2020 Offence U/s 13/14 PECA 2016 R/w 420/468/471 PPC, PS FIA Cyber Crime, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-798-2020",
+        "parties": "Imran Khan VS The State etc      (Yasir Sultan Yousafzai, ADV)",
+        "date": "17-JUL-2020",
+        "year": "17-J",
+        "citation": "",
+        "judge": "Former Honourable Justice Ms. Lubna Saleem Pervez",
+        "pdf_link": "",
+        "cyber_keywords_matched": [
+            "section 497, Cr.P.C, under section 20,21,24 of the Prevention of Electronic Crime Act, 2016, Section 500, 506 & 109/34 PPC, registered at Police Station, Cyber Crimes reporting Centre, Islamabad,"
+        ],
+        "excerpt": "Bail After Arrest in Case FIR No. 30/19 dated 22.10.2019 Offence U/s 20/21/24 of PECA read with section 500/506/103/34 PPC, PS FIA Cyber Crime, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Writ Petition-1890-2020",
+        "parties": "Muhammad Shabbir Khan Abbasi VS Director General FIA , Islamabad",
+        "date": "15-JUL-2020",
+        "year": "15-J",
+        "citation": "",
+        "judge": "Former Honourable Mr. Justice Fiaz Ahmad Anjum Jandran",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Writ Petition-1890-2020 | -&cseTle=Muhammad Shabbir Khan Abbasi VS Director General FIA , Islamabad&jgs=Former Honourable Mr. Justice Fiaz Ahmad Anjum Jandran&jgmnt=/attachments/judgements/118366/1/118366-J_637496838642795301.pdf",
+        "cyber_keywords_matched": [
+            "-"
+        ],
+        "excerpt": "Seeks Protection from Harrasment by  FIA",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-700-2017",
+        "parties": "Uzma Mukhtar VS Zain ul Abidin",
+        "date": "30-JUN-2020",
+        "year": "30-J",
+        "citation": "",
+        "judge": "Former Honourable Mr. Justice Ghulam Azam Qambrani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-700-2017 | -&cseTle=Uzma Mukhtar VS Zain ul Abidin&jgs=Former Honourable Mr. Justice Ghulam Azam Qambrani&jgmnt=/attachments/judgements/80972/1/80972_637521754741822464.pdf",
+        "cyber_keywords_matched": [
+            "Section 36/37 ETO, 500/506/509 P.P.C ,Section 497 (5) Cr.P.C"
+        ],
+        "excerpt": "Cancellation of Bail. Offence U/s 36 37 ETO 500 506 509 PPC",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Original-127-2019",
+        "parties": "Mst. Misbah Mussarat Joura VS Bashir Ahmed Memon etc",
+        "date": "25-JUN-2020",
+        "year": "25-J",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Mohsin Akhtar Kayani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Original-127-2019 | -&cseTle=Mst. Misbah Mussarat Joura VS Bashir Ahmed Memon etc&jgs=Honourable Mr. Justice Mohsin Akhtar Kayani&jgmnt=/attachments/judgements/103442/1/103442_637528653160368147.pdf",
+        "cyber_keywords_matched": [
+            "-"
+        ],
+        "excerpt": "Contempt in WP 480-19 (Seeks direction to respondent no.2,3,5 and 6 to register FIR and further seeks direction to respondent no.1 to transfer the investigation to any other honest officer)",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Writ Petition-3562-2019",
+        "parties": "Misbah Mussarat Joura VS FIA etc",
+        "date": "25-JUN-2020",
+        "year": "25-J",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Mohsin Akhtar Kayani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Writ Petition-3562-2019 | -&cseTle=Misbah Mussarat Joura VS FIA etc&jgs=Honourable Mr. Justice Mohsin Akhtar Kayani&jgmnt=/attachments/judgements/108721/1/108721_637528853091879308.pdf",
+        "cyber_keywords_matched": [
+            "-"
+        ],
+        "excerpt": "Petitioner seeks direction to respondents for registration of FIR U/s 154 Cr.pc against the accured persons named in the application",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Writ Petition-376-2020",
+        "parties": "Zainab Qasim Tarrar VS DG FIA etc",
+        "date": "25-JUN-2020",
+        "year": "25-J",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Mohsin Akhtar Kayani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Writ Petition-376-2020 | -&cseTle=Zainab Qasim Tarrar VS DG FIA etc&jgs=Honourable Mr. Justice Mohsin Akhtar Kayani&jgmnt=/attachments/judgements/113151/1/113151_637529593262011348.pdf",
+        "cyber_keywords_matched": [
+            "Section 5(2) of the FIA Act, 1974 |Section 173 Cr.P.C."
+        ],
+        "excerpt": "Against impugned order dated 19.12.2019 for re-opening the inquiry",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Writ Petition-1386-2020",
+        "parties": "Muhammad Shoaib VS FOP etc",
+        "date": "12-JUN-2020",
+        "year": "12-J",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Mohsin Akhtar Kayani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Writ Petition-1386-2020 | -&cseTle=Muhammad Shoaib VS FOP etc&jgs=Honourable Mr. Justice Mohsin Akhtar Kayani&jgmnt=/attachments/judgements/117053/1/117053--_637500240506918360.pdf",
+        "cyber_keywords_matched": [
+            "-"
+        ],
+        "excerpt": "Petitioner is accused of a FIR His CNIC was blocked dut to non-joining, now that he has joined the investigation and FIA has requested NADRA to unblock CNIC the card has still not been unblocked seeks direction for Unblocking",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-662-2020",
+        "parties": "Tariq Mahmood VS The State etc",
+        "date": "02-JUN-2020",
+        "year": "02-J",
+        "citation": "",
+        "judge": "Former Honourable Chief Justice Mr. Justice Athar Minallah",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-662-2020 | -&cseTle=Tariq Mahmood VS The State etc&jgs=Former Honourable Chief Justice Mr. Justice Aamer Farooq, Former Honourable Chief Justice Mr. Justice Athar Minallah&jgmnt=/attachments/judgements/Crl._Misc-662-2020______________________637267260040373661.pdf",
+        "cyber_keywords_matched": [
+            "under sections 34,109,120-B,165-A,201,420,468,471,500,506 of Pakistan Penal Code, 1860 and sections 6,10,13,15,20,21 and 24 of the Prevention of Electronic Crimes Act, 2016 and section 7 of the Anti-Terrorism Act, 1997"
+        ],
+        "excerpt": "Bail After Arrest in Case FIR No. 24/19 dated 16.07.2019 Offence U/s 7 ATA- 165-A/201/420/468/471/500/506 PPC, PS FIA Cyber Crime, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Writ Petition-1287-2020",
+        "parties": "Tariq Liaqat VS General Manager Human Resource etc",
+        "date": "19-MAY-2020",
+        "year": "19-M",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Mohsin Akhtar Kayani",
+        "pdf_link": "",
+        "cyber_keywords_matched": [
+            "under sections 16/20/21 PECA, 2016 | 249-A Cr.P.C."
+        ],
+        "excerpt": "Service/Reinstatement",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Writ Petition-4453-2019",
+        "parties": "Tariq Sharif Bhatti VS DG FIA etc",
+        "date": "20-MAR-2020",
+        "year": "20-M",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Mohsin Akhtar Kayani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Writ Petition-4453-2019 | -&cseTle=Tariq Sharif Bhatti VS DG FIA etc&jgs=Honourable Mr. Justice Mohsin Akhtar Kayani&jgmnt=/attachments/judgements/111575/1/111575-_637473469985385921.pdf",
+        "cyber_keywords_matched": [
+            "Sections 36/37 of ETO,  2002 read with Section 109 PPC"
+        ],
+        "excerpt": "Seeks direction against respondent whereby name of petitioner has been blocked and placed in passport black list In case FIR No.23-13, dated 04.11.2013 U/s 36/37/ ETO 2002 R/W 109 PPC",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Appeal-333-2019",
+        "parties": "Muhammad Sajjad VS The State               (Imtiaz Ali, Advocate)",
+        "date": "19-MAR-2020",
+        "year": "19-M",
+        "citation": "",
+        "judge": "Former Honourable Mr. Justice Ghulam Azam Qambrani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Appeal-333-2019 | -&cseTle=Muhammad Sajjad VS The State               (Imtiaz Ali, Advocate)&jgs=Former Honourable Mr. Justice Ghulam Azam Qambrani&jgmnt=/attachments/judgements/108851/1/108851_637521890914617639.pdf",
+        "cyber_keywords_matched": [
+            "Sections  20/ 21 & 24 Prevention of Electronic Crimes Act, 2016, read with  Section 509 of Pakistan Penal Code, 1860"
+        ],
+        "excerpt": "Against judgment dated 11.10.19 passed by learned District & sessions Judge Prevention of Electronic Crimes whereby appellant has been convicted in FIR No.9 dated 3.12.18 U/S 20/21/24 PECA 2016 r/o 506 PPC P.S FIA/Cyber Crime Circle.",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-109-2020",
+        "parties": "Awais Khan VS The State etc",
+        "date": "09-MAR-2020",
+        "year": "09-M",
+        "citation": "",
+        "judge": "Former Honourable Justice Ms. Lubna Saleem Pervez",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-109-2020 | -&cseTle=Awais Khan VS The State etc&jgs=Former Honourable Justice Ms. Lubna Saleem Pervez&jgmnt=/attachments/judgements/113440/1/113440_637390513223205423_637471732221572560.pdf",
+        "cyber_keywords_matched": [
+            "section 497 Cr.P.C, in case FIR, under section 20,21,24"
+        ],
+        "excerpt": "Bail After Arrest In Case FIR No.30/19 dated 22.10.2019 offence U/s 20/21/24 of PECA Section 500/506/109/34 PPC, PS FIA Cyber Crime, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-152-2020",
+        "parties": "Junaid Mumtaz VS The State etc",
+        "date": "05-MAR-2020",
+        "year": "05-M",
+        "citation": "",
+        "judge": "Former Honourable Chief Justice Mr. Justice Athar Minallah",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-152-2020 | -&cseTle=Junaid Mumtaz VS The State etc&jgs=Former Honourable Chief Justice Mr. Justice Athar Minallah&jgmnt=/attachments/judgements/114171/1/114171-_637468198633011969.pdf",
+        "cyber_keywords_matched": [
+            "under sections 377 of PPC and 22 of PECA; at  the most section 109 of PPC,section 497 of Cr.P.C.; report under section  173 of Cr.P.C"
+        ],
+        "excerpt": "Bail After Arrest in Case FIR No. 23/19 dated 05.07.19 offence U/s 20,21,24 of PECA 2016 R/W 500/509/34/109/377 PPC, PS FIA, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Intra Court Appeal-41-2020",
+        "parties": "Adnan Soomro VS FIA etc",
+        "date": "02-MAR-2020",
+        "year": "02-M",
+        "citation": "",
+        "judge": "Former Honourable Mr. Justice Ghulam Azam Qambrani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Intra Court Appeal-41-2020 | -&cseTle=Adnan Soomro VS FIA etc&jgs=Former Honourable Chief Justice Mr. Justice Aamer Farooq, Former Honourable Mr. Justice Ghulam Azam Qambrani&jgmnt=/attachments/judgements/114319/1/114319--_637679067014743034.pdf",
+        "cyber_keywords_matched": [
+            "Articles 9,  12(1), 14(1), 19,  20,25  & 26 of the Constitution  of lslamic  Republic of  Pakistan,  1973"
+        ],
+        "excerpt": "Intra Court Appeal in |WP 3414-19 (Petitioner seeks direction to respondent FIA, PTA and Ufone for blocking illegal SIM issued on the CNIC of petitioner)",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-135-2020",
+        "parties": "Nadir Khan VS The State etc",
+        "date": "27-FEB-2020",
+        "year": "27-F",
+        "citation": "",
+        "judge": "Former Honourable Mr. Justice Ghulam Azam Qambrani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-135-2020 | -&cseTle=Nadir Khan VS The State etc&jgs=Former Honourable Chief Justice Mr. Justice Aamer Farooq, Former Honourable Mr. Justice Ghulam Azam Qambrani&jgmnt=/attachments/judgements/113705/1/113705--_637535560072356742.pdf",
+        "cyber_keywords_matched": [
+            "Sections 101 131 151 201 211 24 Prevention of Electronic Crimes Act, 2016"
+        ],
+        "excerpt": "Bail After Arrest in Case FIR No. 24/2019 dated 16.07.2019 Offence U/s 10/13/15/20/21/24/ PECA 2016 R/W 109/120/201/500/506/164/420/468/471/34 PPC, PS FIA Cyber Crime, Islamabad",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-60-2020",
+        "parties": "Dr. Atif Muhammad Khan VS The State, etc",
+        "date": "18-FEB-2020",
+        "year": "18-F",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Mohsin Akhtar Kayani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-60-2020 | -&cseTle=Dr. Atif Muhammad Khan VS The State, etc&jgs=Honourable Mr. Justice Mohsin Akhtar Kayani&jgmnt=/attachments/judgements/112749/1/112749-_637473468460108680.pdf",
+        "cyber_keywords_matched": [
+            "Section 509 PPC, P.S, Section 497 Cr.P.C."
+        ],
+        "excerpt": "Crl Misc: Pos Arrest Bail: Offences 20(I), 21(I-b, c, d) 24(I-d) of PECA, 2016 R/w 509 of PPC",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Writ Petition-3414-2019",
+        "parties": "Adnan Soomro VS FIA etc",
+        "date": "12-FEB-2020",
+        "year": "12-F",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Mohsin Akhtar Kayani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Writ Petition-3414-2019 | -&cseTle=Adnan Soomro VS FIA etc&jgs=Honourable Mr. Justice Mohsin Akhtar Kayani&jgmnt=/attachments/judgements/108307/1/108307_637528689232467504.pdf",
+        "cyber_keywords_matched": [
+            "-"
+        ],
+        "excerpt": "Petitioner seeks direction to respondent FIA, PTA and Ufone for blocking illegal SIM issued on the CNIC of petitioner",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-797-2019",
+        "parties": "Shaukat Ali VS The State etc",
+        "date": "27-JAN-2020",
+        "year": "27-J",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Mohsin Akhtar Kayani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-797-2019 | -&cseTle=Shaukat Ali VS The State etc&jgs=Honourable Mr. Justice Mohsin Akhtar Kayani&jgmnt=/attachments/judgements/111506/1/111506_637529555934577786.pdf",
+        "cyber_keywords_matched": [
+            "sections  295-A, 298-A, PPC, section IO(a)(b) of  PECA, 2016, section  497, Cr.P.C."
+        ],
+        "excerpt": "Bail After Arrest in Case FIR No.26-19, Dated 19.09.2019 U/s 10 and 11 PECA 2016 with section 295-A/296-A PPC",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-794-2019",
+        "parties": "Sanaullah VS The State etc",
+        "date": "27-JAN-2020",
+        "year": "27-J",
+        "citation": "",
+        "judge": "Former Honourable Chief Justice Mr. Justice Athar Minallah",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-794-2019 | -&cseTle=Sanaullah VS The State etc&jgs=Former Honourable Chief Justice Mr. Justice Athar Minallah&jgmnt=/attachments/judgements/111443/1/111443_637512406205720955.pdf",
+        "cyber_keywords_matched": [
+            "sections 500, 509, 377, 109/34 of Pakistan Penal Code, 1860"
+        ],
+        "excerpt": "Bail after arrest in FIR No.23/19 dated 5.7.19 U/S 20,21 & 24 Prevention of Electronic Crime Act, 2016 & 500/509/377/109/34 PPC P.S FIA/CCRC ICT.",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-791-2019",
+        "parties": "Amir Waqas VS Ms. Saima Qayum",
+        "date": "16-JAN-2020",
+        "year": "16-J",
+        "citation": "",
+        "judge": "Former Honourable Mr. Justice Ghulam Azam Qambrani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-791-2019 | -&cseTle=Amir Waqas VS Ms. Saima Qayum&jgs=Former Honourable Mr. Justice Ghulam Azam Qambrani&jgmnt=/attachments/judgements/111441/1/111441_637521894682336257.pdf",
+        "cyber_keywords_matched": [
+            "section 509, 109, PPC and sections 20, 21 &  24 PECA, 2016"
+        ],
+        "excerpt": "Post arrest bail in FIR No.31/19 dated 24.10.19 U/S 509/109 PPC, 20, 21 & 24 PECA-2016 P.S FIA Cyber Crime Circle",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Writ Petition-4070-2019",
+        "parties": "Aisha Komal Zaman VS DG, FIA etc",
+        "date": "28-NOV-2019",
+        "year": "28-N",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Mohsin Akhtar Kayani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Writ Petition-4070-2019 | -&cseTle=Aisha Komal Zaman VS DG, FIA etc&jgs=Honourable Mr. Justice Mohsin Akhtar Kayani&jgmnt=/attachments/judgements/110436/1/110436_637598822037716668.pdf",
+        "cyber_keywords_matched": [
+            "Sections 4L9, 420, 467, 468, 477-A 34 PPC, rlw 5(2) 47 PCA, r/w 4 Anti Money Laundering Act, 2010"
+        ],
+        "excerpt": "Seeks direction to respondent no.1 to 6 to give protection to Respondent No.7 (petitioner's husband) so that he may arrange surety and approach the court of competent jurisdiction  (Protective Bail).",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Writ Petition-938-2019",
+        "parties": "Rizwan Shah etc VS FOP etc",
+        "date": "07-OCT-2019",
+        "year": "07-O",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Miangul Hassan Aurangzeb",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Writ Petition-938-2019 | -&cseTle=Rizwan Shah etc VS FOP etc&jgs=Honourable Mr. Justice Miangul Hassan Aurangzeb&jgmnt=/attachments/judgements/100715/1/100715_637588433987809107.pdf",
+        "cyber_keywords_matched": [
+            "Sections 420, 468 and 471 of the Pakistan Penal Code, 1860 || section 3(2) of the Exit from Pakistan (control) Ordinance, 1981"
+        ],
+        "excerpt": "Petitioner seeks removal of names from ECL",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-543-2019",
+        "parties": "Zahid Sultan VS The State etc",
+        "date": "26-AUG-2019",
+        "year": "26-A",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Mohsin Akhtar Kayani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-543-2019 | -&cseTle=Zahid Sultan VS The State etc&jgs=Honourable Mr. Justice Mohsin Akhtar Kayani&jgmnt=/attachments/judgements/106968/1/106968_637600443278988227.pdf",
+        "cyber_keywords_matched": [
+            "-"
+        ],
+        "excerpt": "Transitory bail offence U/s 420/468/471 PPC",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-979-2018",
+        "parties": "Ishtiaq Ahmed VS The State",
+        "date": "09-JAN-2019",
+        "year": "09-J",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Mohsin Akhtar Kayani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-979-2018 | -&cseTle=Ishtiaq Ahmed VS The State&jgs=Honourable Mr. Justice Mohsin Akhtar Kayani&jgmnt=/attachments/judgements/97705/1/97705_637607365496306783.pdf",
+        "cyber_keywords_matched": [
+            "sections 509, 109 PPC || section 497 Cr.P.C || sections 509, 109 PPC, P.S FIA, Cyber Crime Circle,|| sections 20    & 21 of The Prevention of Electronic Crimes Act 2016"
+        ],
+        "excerpt": "Crl-Misc: Bail After Arrest: U/s 20,21,24 of PECA 2016 R/w 509/109 PPC",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-975-2018",
+        "parties": "Muhammad Faisal VS The State etc",
+        "date": "03-JAN-2019",
+        "year": "03-J",
+        "citation": "",
+        "judge": "Former Honourable Chief Justice Mr. Justice Athar Minallah",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Criminal Miscellaneous-975-2018 | -&cseTle=Muhammad Faisal VS The State etc&jgs=Former Honourable Chief Justice Mr. Justice Athar Minallah&jgmnt=/attachments/judgements/97627/1/97627_637577241200246519.pdf",
+        "cyber_keywords_matched": [
+            "sections 3, 5 and 14 of the Prevention of    Electronic Crime Act, 2016 || section 497 of Cr.P.C"
+        ],
+        "excerpt": "Criminal Misc: Bail After Arrest. U/s 3,4,15 of PECA 409,420,109 PPC",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Writ Petition-3915-2017",
+        "parties": "Atif Rais Khan VS The State and others.",
+        "date": "02-JAN-2019",
+        "year": "02-J",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Mohsin Akhtar Kayani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt.aspx?cseNo=Writ Petition-3915-2017 | -&cseTle=Atif Rais Khan VS The State and others.&jgs=Honourable Mr. Justice Mohsin Akhtar Kayani&jgmnt=/attachments/judgements/82013/1/82013_637610760889446211.pdf",
+        "cyber_keywords_matched": [
+            "Section 5(2)47 of PCA || Section 409 PPC || Section 5(2) 47 PCA  || Section 561-A Cr.P.C || Section 5(2)47 PCA ||Section 5(2)47 PCA"
+        ],
+        "excerpt": "",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Appeal-137-2018",
+        "parties": "Amir Shamas VS The State, etc           (Tahir Jalal Wattoo Advocate for Respondent)",
+        "date": "11-OCT-2018",
+        "year": "11-O",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Mohsin Akhtar Kayani",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt?cseNo=Criminal%20Appeal-137-2018%20%7C%202019%20PCRLJ%2041&cseTle=Amir%20Shamas%20VS%20The%20State,%20etc%20%20%20%20%20%20%20%20%20%20%20(Tahir%20Jalal%20Wattoo%20Advocate%20for%20Respondent)&jgs=Honourable%20Mr.%20Justice%20Mohsin%20Akhtar%20Kayani&jgmnt=/attachments/judgements/CRL-APEAL-137-2018_____________________________________637086365427412032.pdf",
+        "cyber_keywords_matched": [
+            "426 Criminal Procedure Code (V of 1898), Electronic Transactions Ordinance (LI of 2002) 36 & 37, Criminal Procedure Code (V of 1898), S. 426"
+        ],
+        "excerpt": "-",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Miscellaneous-564-2018",
+        "parties": "Muhammad Hayat Khan VS The State etc",
+        "date": "25-SEP-2018",
+        "year": "25-S",
+        "citation": "",
+        "judge": "Former Honourable Chief Justice Mr. Justice Aamer Farooq",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt?cseNo=Criminal%20Miscellaneous-564-2018%20%7C%202019%20PCRLJ%20472%20Islamabad&cseTle=Muhammad%20Hayat%20Khan%20VS%20The%20State%20etc&jgs=Former%20Honourable%20Chief%20Justice%20Mr.%20Justice%20Aamer%20Farooq&jgmnt=/attachments/judgements/CrlMisc.No.564-B-2018-allowed_636736779436929963.pdf",
+        "cyber_keywords_matched": [
+            "497(2)---Prevention of Electronic Crimes Act (XL of 2016), Ss. 9 & 10---Penal Code (XLV of 1860), Ss. 500 & 109 Criminal Procedure Code (V of 1898)"
+        ],
+        "excerpt": "-",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Appeal-154-2018",
+        "parties": "Raja Khurram Ali Khan and another VS Tayyaba Bibi and another",
+        "date": "04-JUN-2018",
+        "year": "04-J",
+        "citation": "",
+        "judge": "Former Honourable Chief Justice Mr. Justice Athar Minallah",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt?cseNo=Criminal%20Appeal-154-2018%20%7C%202019%20YLR%2098&cseTle=Raja%20Khurram%20Ali%20Khan%20and%20another%20VS%20Tayyaba%20Bibi%20and%20another&jgs=Former%20Honourable%20Chief%20Justice%20Mr.%20Justice%20Athar%20Minallah&jgmnt=/attachments/judgements/Crl._Appeal_no._154_of_2018.__(Last_True_Copy)._636643234960850492.pdf",
+        "cyber_keywords_matched": [
+            "411A(2) , 201, 328-A, 337-A(i), 337-F(i), 342, 506(ii) Penal Code (XLV of 1860)"
+        ],
+        "excerpt": "-",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Appeal-25-2017",
+        "parties": "The State VS Shoaib Ahmed Sheikh",
+        "date": "11-APR-2018",
+        "year": "11-A",
+        "citation": "",
+        "judge": "Former Honourable Chief Justice Mr. Justice Athar Minallah",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt?cseNo=Criminal%20Appeal-25-2017%20%7C%202018%20PCRLJ%201264&cseTle=The%20State%20VS%20Shoaib%20Ahmed%20Sheikh&jgs=Former%20Honourable%20Chief%20Justice%20Mr.%20Justice%20Athar%20Minallah&jgmnt=/attachments/judgements/Crl._Appeal_No._25_of_2017._The_State_v._axact_(final)_636602590858507162.pdf",
+        "cyber_keywords_matched": [
+            "419, 420, 468, 471---Electronic Transactions Ordinance (LI of 2002), Ss. 36 & 37---Anti-Money Laundering Act (VII of 2010), S.4---Criminal Procedure Code (V of 1898), S. 417 Penal Code (XLV of 1860)--"
+        ],
+        "excerpt": "-",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Criminal Appeal-145-2017",
+        "parties": "Iroko Mecy Chimizie alias Jeff Jack More VS The State (Adv: Rana Ali Raza)",
+        "date": "18-DEC-2017",
+        "year": "18-D",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Miangul Hassan Aurangzeb",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt?cseNo=Criminal%20Appeal-145-2017%20%7C%202019%20PCRLJ%20489&cseTle=Iroko%20Mecy%20Chimizie%20alias%20Jeff%20Jack%20More%20VS%20The%20State%20(Adv:%20Rana%20Ali%20Raza)&jgs=Honourable%20Mr.%20Justice%20Miangul%20Hassan%20Aurangzeb&jgmnt=/attachments/judgements/Crl._Appeal_No.145_of_2017_Iroko_Mercy_Chimizie_alias_Jeff_Jack_More_(final_version)_636579991103074980.pdf",
+        "cyber_keywords_matched": [
+            "419, 420, 468, 471 & 109 Penal Code (XLV of 1860), Electronic Transactions Ordinance (LI of 2002), Ss. 36 & 37, Foreigners Act (XXXI of 1946), S. 14, Criminal Procedure Code (V of 1898) 382-B"
+        ],
+        "excerpt": "-",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Writ Petition-2806-2016",
+        "parties": "Muhammad Amjad VS FOP, etc.",
+        "date": "29-MAR-2017",
+        "year": "29-M",
+        "citation": "",
+        "judge": "Former Honourable Chief Justice Mr. Justice Athar Minallah",
+        "pdf_link": "",
+        "cyber_keywords_matched": [
+            "Exit from Pakistan (Control) Ordinance (XLVI of 1981) , | , under Sections 419, 420, 468, 471, 473, 109/34 of the Pakistan Penal Code, 1860 , | , Exit from Pakistan (Control) Ordinance 1981, Exit from Pakistan (Control) Rules 2010 ,"
+        ],
+        "excerpt": "Seeking direction for removal of name from ECL, having offense u/s 419, 420, 468, 471, 473, 109/34 PPC r/w 36/37 ETO and Sec. 4 of Anti-Money Laundering (AML) Act, 2010",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "IHC",
+        "case_no": "Writ Petition-2876-2016",
+        "parties": "Nazeer-ur-Din VS FOP, etc.",
+        "date": "08-NOV-2014",
+        "year": "08-N",
+        "citation": "",
+        "judge": "Honourable Mr. Justice Miangul Hassan Aurangzeb",
+        "pdf_link": "https://mis.ihc.gov.pk/frmRdJgmnt?cseNo=Writ%20Petition-2876-2016%20%7C%202017%20PLC(CS)%20578%20Islamabad,%202017%20PLJ%20182%20Islamabad&cseTle=Nazeer-ur-Din%20VS%20FOP,%20etc.&jgs=Honourable%20Mr.%20Justice%20Miangul%20Hassan%20Aurangzeb&jgmnt=/attachments/judgements/67790.pdf",
+        "cyber_keywords_matched": [
+            "5(2) of the Prevention of Corruption Act, 1947"
+        ],
+        "excerpt": "-",
+        "scanned_at": "",
+        "_source": "ihc_cyber_judgments.json"
+    },
+    {
+        "court": "PHC",
+        "case_no": "Cr. MBA No. 475-D of 2025 Mudassir Abbas  Vs  The State etc.",
+        "parties": "Cr. MBA No. 475-D of 2025 Mudassir Abbas  Vs  The State etc.",
+        "date": "17-10-2025",
+        "year": "2025",
+        "citation": "awaited",
+        "judge": "",
+        "pdf_link": "https://peshawarhighcourt.gov.pk/PHCCMS//judgments/BA-No.475-D-of-2025-(376-and-21-PECA)-Mudassir-Abbas.pdf",
+        "cyber_keywords_matched": [],
+        "excerpt": "(Criminal Misc: Bail Petition)\r\n(a) Criminal Procedure Code, 1898.S.376 PPC—bail grant of—further inquiry—The petitioner was cousin of the complainant and was on visiting terms to her house as they were having friendly relations for past five years. The petitioner was charged for committing zina with the complainant, recording video of the occurrence and viral the same on social media, however, the FIR does not mention specific date and time of the occurrence.\r\n(b) Criminal Procedure Code, 1898.S.376 PPC—bail grant of—further inquiry—The medico legal report of the complainant/victim did not support the allegation against the petitioner as no marks of violence were noted on her body. No tears of semen were found on her body and clothes. The applicability of Section 376\r\nPPC was to be determined by the learned trial Court.\r\n(c) Criminal Procedure Code, 1898.S.376 PPC—bail grant of—DNA— By virtue of amendment made in the Code through Act No.XLIV of 2016, Section 164-B was inserted whereby in cases under Sections 376, 377 or 378-B of PPC or attempt thereto, the Deoxyribonucleic Acid (DNA) testing was made mandatory, if\r\npracticable, from the victim and accused and sent to the Forensic Laboratory, however, no such exercise was done to bring on record sufficient material, connecting the petitioner with the offence.\r\n(d) Criminal Procedure Code, 1898.S.21 of the Prevention of Electronic Crimes Act, 2016—bail grant of—In the USB containing video recording of the occurrence, allegedly delivered to the Investigating Officer by brother of the complainant, the male person was not identifiable while the female was identified to be the complainant. The mobile phone allegedly recovered on the pointation of petitioner did not contain any video of the occurrence. The USB and mobile phone were not sent to the FSL.\r\n(e) Criminal Procedure Code, 1898.—bail grant of—Section 21 of the Prevention of Electronic Crimes Act, 2016, did not fall within restrictive clause of Section 497, Cr.P.C. and bail in such like cases was a rule and refusal thereof, an exception.\r\n(Petition was allowed and the petitioner was granted bail in the circumstances).",
+        "scanned_at": "",
+        "_source": "phc_cyber_judgments.json"
+    },
+    {
+        "court": "PHC",
+        "case_no": "Cr.A No. 06-B of 2022 State through A.G Khyber Pakhtunkhwa  Vs  Muhammad Aslam & 02 others",
+        "parties": "Cr.A No. 06-B of 2022 State through A.G Khyber Pakhtunkhwa  Vs  Muhammad Aslam & 02 others",
+        "date": "18-03-2025",
+        "year": "2025",
+        "citation": "2025 PCrLJ 1950",
+        "judge": "",
+        "pdf_link": "https://peshawarhighcourt.gov.pk/PHCCMS//judgments/Cr.A-06-B-2022-judgment-18.3.2025.pdf",
+        "cyber_keywords_matched": [],
+        "excerpt": "(Appeal against acquittal)\r\n(a) Appeal against acquittal--Ss.302, 311, 201/34 P.P.C read with Section 20 of the Prevention of Electronic Crimes Act, 2016—Reappraisal of evidence—Respondents/accused were charged for committing murder of two girls on the pretext of honour and were buried without conducting autopsy on the dead bodies—The occurrence was unseen as the complainant S.H.O on receiving information about the murder of two ladies, rushed to the crime village where it was told to him that they were murdered by their cousin reportedly due to their objectionable video with accused Umer Ayaz, which had gone viral on social media. Although the mobile phone through which the objectionable video featuring two deceased women and the accused Umer Ayaz was allegedly taken into possession which was sent to the F.S.L, however, there was no report on file to confirm that the said mobile phone belonged to the accused.\r\n(b) Confessional statement—The confessional statement of accused Umer Ayaz, relied upon by the prosecution, did not constitute confessional statement as the same only acknowledged friendship of the accused with the deceased women, specially given that the accused had not been charged with the murder of the two women.\r\n(c) It is cardinal principal of law and natural justice that every person, accused of an offence, is to be considered innocent, unless and until proved guilty on the basis of legal and unimpeachable evidence. However, after facing full-fledged trial, if an accused of a crime is acquitted by the competent Court of law, then a presumption of his innocence gets doubled and very strong and exceptional circumstances are required to overturn the conviction judgment.\r\n(Appeal was dismissed in limine).",
+        "scanned_at": "",
+        "_source": "phc_cyber_judgments.json"
+    },
+    {
+        "court": "PHC",
+        "case_no": "WP No. 1465-P of 2014 Shandana Gulzar Khan  Vs  Federation of Pakistan",
+        "parties": "WP No. 1465-P of 2014 Shandana Gulzar Khan  Vs  Federation of Pakistan",
+        "date": "27-06-2024",
+        "year": "2024",
+        "citation": "2025 PLD Pesh. 163",
+        "judge": "",
+        "pdf_link": "https://peshawarhighcourt.gov.pk/PHCCMS//judgments/WP-No.-1465-P-of-2024-.pdf",
+        "cyber_keywords_matched": [],
+        "excerpt": "Art: 199 of the Constitution of Islamic Republic of Pakistan, 1973.\r\n\r\n\tPrevention of Electronic Crimes Act, 2016.\r\n\r\n\tPrevention of Electronic Crimes Investigation Rules, 2018.\r\n\r\n1.\tNotice u/s 160 Cr.PC for appearance before FIA---Challenging of.\r\n\r\n2.\tTerritorial and Concurrent Jurisdiction of High Courts.\r\n\r\n3.\tAny order passed or proceeding taken by the Federal Government or authority in relation to any person in any  province of Pakistan, the High Court of that Province shall have Jurisdiction to adjudicate the case in whose territorial Jurisdiction the order would affect such a person.\r\n\r\n4.\tIt is held that an action of a Constitutional or Federal authority that affects a person or group of persons in a particular Province, can be challenged in the High Court of the Province in Constitutional Jurisdiction under Art; 199 of the Constitution where the cause of action arose, or the effect was received/suffered, regardless of the location of the head office of such Authority.\r\n\r\n5.\tGuidelines/directions to be followed by the FIA in conducting investigation.\r\n\r\n6.\tSuperior Courts normally do not interfere in the investigation phase of a case, but when mala-fide is floating on the face of record or without jurisdiction, then the High Court can exercise its Constitutional Jurisdiction under Art: 199 of the Constitution.",
+        "scanned_at": "",
+        "_source": "phc_cyber_judgments.json"
+    },
+    {
+        "court": "PHC",
+        "case_no": "Q.P No. 50-P of 2022  Naveed Ahmad Vs State etc",
+        "parties": "Q.P No. 50-P of 2022  Naveed Ahmad Vs State etc",
+        "date": "05-12-2022",
+        "year": "2022",
+        "citation": "2023 YLR 1377",
+        "judge": "",
+        "pdf_link": "https://peshawarhighcourt.gov.pk/PHCCMS//judgments/QP-No-50-2022.pdf",
+        "cyber_keywords_matched": [],
+        "excerpt": "Ss. 21 & 24 of The prevention of electronic crimes Act 2016-------Dignity & modesty of a natural person---infringement of privacy right---- discussed legally as well as Islamic point of view.",
+        "scanned_at": "",
+        "_source": "phc_cyber_judgments.json"
+    },
+    {
+        "court": "PHC",
+        "case_no": "Cr.MBA No. 748-A of 2021 Fakhar Zaman  Vs  The State & other",
+        "parties": "Cr.MBA No. 748-A of 2021 Fakhar Zaman  Vs  The State & other",
+        "date": "05-07-2021",
+        "year": "2021",
+        "citation": "2023 PCrLJ 496",
+        "judge": "",
+        "pdf_link": "https://peshawarhighcourt.gov.pk/PHCCMS//judgments/Fakhar-Zaman-vs-the-state-charged-under-section-20-21-24-PECA-2016-and-109-PPC-disissed.pdf",
+        "cyber_keywords_matched": [],
+        "excerpt": "u/s 20,21,24 PECA, 2016. 109 PPC Harm to reputation and privacy of a lady-nude photo and videos. Court is not under compulsion to grant bail in all cases/offences punishable with less than 10 years of imprisonment.\r\nBail Petition dismissed.",
+        "scanned_at": "",
+        "_source": "phc_cyber_judgments.json"
+    },
+    {
+        "court": "PHC",
+        "case_no": "Cr.MB No. 350-D of 2019 Muhammad Usman VS The State ant another",
+        "parties": "Cr.MB No. 350-D of 2019 Muhammad Usman VS The State ant another",
+        "date": "18-12-2019",
+        "year": "2019",
+        "citation": "2020 PCrLJ 705",
+        "judge": "",
+        "pdf_link": "https://peshawarhighcourt.gov.pk/PHCCMS//judgments/Cr.-MB.-350-D-of-19-(Judgment).pdf",
+        "cyber_keywords_matched": [],
+        "excerpt": "Bail in case registered under section 3/21/24 of prevention of electronic Crimes Act, 2016 read with section 419 PPC.\r\nHeld: Objectionable pictures which were uploaded through a cell phone on whatsapp were recovered form possession of the petitioner which stigmatized the honour of not only the complainant but her whole family. The offence is of moral turpitude which badly affects the society at large.\r\nThe petitioner is charged with an offence which does not fall within the prohibitory clause of Section 497 CrPC  however, the concession is to be extended having regards to the facts and circumstance of each case and in appropriate cases, the Court justifiably depart from the rule.",
+        "scanned_at": "",
+        "_source": "phc_cyber_judgments.json"
+    },
+    {
+        "court": "PHC",
+        "case_no": "Cr.M B.A No.540-P/2015 Muhammad Usman vs State",
+        "parties": "Cr.M B.A No.540-P/2015 Muhammad Usman vs State",
+        "date": "03-04-2015",
+        "year": "2015",
+        "citation": "Awaited",
+        "judge": "",
+        "pdf_link": "https://peshawarhighcourt.gov.pk/PHCCMS//judgments/Cr.M.B.A-No.540-P-2015.pdf",
+        "cyber_keywords_matched": [],
+        "excerpt": "S.36/37 ETO 2002\r\nCyber Crimes, offence not fall in prohibitory clause, wants further inquiry (Bail allowed)",
+        "scanned_at": "",
+        "_source": "phc_cyber_judgments.json"
+    },
+    {
+        "record_id": "275919",
+        "sr_no": "264",
+        "citation": "",
+        "case_no": "Const. P. 2731/2025 (D.B.) Sindh High Court, Karachi",
+        "parties": "Liaqat Ali (Petitioner) VS Province of Sindh & Others (Respondent)",
+        "bench": "D.B.",
+        "date": "18-JUL-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/Mjc1OTE5Y2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "cyber crime",
+            "peca"
+        ],
+        "excerpt": "...3) Exemption is allowed subject to all just exceptions.\n4-6) Through this petition the petitioner is seeking quashment of FIR\nNo.49 of 2025 registered at Police Station FIA, Cyber Crime Cell, Karachi\nunder Sections 13, 14 and 24 of PECA, 2016 read with Section 406, 419,\n420, 500, 468, 471 109 PPC.\nWhen the counsel for the petitioner was confronted...",
+        "scanned_at": "2026-05-02T20:06:39.209794+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "282003",
+        "sr_no": "375",
+        "citation": "2025 SHC KHI 2418",
+        "case_no": "Const. P. 4353/2025 (D.B.) Sindh High Court, Karachi",
+        "parties": "M/s Hoora Pharma (Pvt) Ltd (Petitioner) VS Pakistan & Others (Respondent)",
+        "bench": "D.B.",
+        "date": "22-SEP-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/MjgyMDAzY2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "hacking"
+        ],
+        "excerpt": "...and\ntherefore obtained inadmissible exemption from sales tax, hence\nfiscal fraud. The Petitioner’s explanation was that its invoices had\nbeen interpolated by a competitor by hacking it’s Customs ID to\nfalsely implicate the Petitioner, for which it had made complaints to\nthe AFU and the FIA. It was, however, submitted by the Petitioner\nthat regardl...",
+        "scanned_at": "2026-05-02T20:08:02.860677+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "275225",
+        "sr_no": "696",
+        "citation": "",
+        "case_no": "Cr.Bail 262/2025 (S.B.) Sindh High Court, Circuit at Larkana",
+        "parties": "Sajjad Ali Chandio (Applicant) VS The State (Respondent)",
+        "bench": "S.B.",
+        "date": "11-JUL-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/Mjc1MjI1Y2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "cyber crime",
+            "peca",
+            "electronic crimes act",
+            "electronic crime"
+        ],
+        "excerpt": "...must first receive a\ncomplaint for false information before initiating proceedings.\nFurthermore, the local police, without the intervention or\nauthorization of the designated Cyber Crime Authority, have no\njurisdiction to take cognizance of offences under PECA. No prior\ninquiry or authorization was obtained from the Pakistan\nTelecommunication Autho...",
+        "scanned_at": "2026-05-02T20:12:07.178662+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "289317",
+        "sr_no": "723",
+        "citation": "",
+        "case_no": "Const. P. 1240/2025 (D.B.) Sindh High Court, Bench at Sukkur",
+        "parties": "Muhammad Latif Mughal (Petitioner) VS Federation of Pakistan & others (Respondent)",
+        "bench": "D.B.",
+        "date": "29-OCT-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/Mjg5MzE3Y2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "nccia"
+        ],
+        "excerpt": "...jection.\n2. For hearing of main case.\n29.10.2025\nPetitioner present in person.\nMr. Naveed Ahmed Shah, Deputy Attorney General along\nwith Sanaullah Chachar, SHO /Sub-Inspector NCCIA circle\nSukkur.\n.-.-.-. -.-.-.-.-.-.-.-.-\nDAG files parawise comments of Sanaullah Chachar, SHO/\nSub-Inspector NCCIA Circle Sukkur, along with certain documents,\nsame are...",
+        "scanned_at": "2026-05-02T20:12:44.882584+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "291257",
+        "sr_no": "828",
+        "citation": "",
+        "case_no": "Criminal Appeal 79/2025 (S.B.) Sindh High Court, Bench at Sukkur",
+        "parties": "Qamar Shahzad and others (Appellant) VS The State (Respondent)",
+        "bench": "S.B.",
+        "date": "21-NOV-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/MjkxMjU3Y2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "cyber crime"
+        ],
+        "excerpt": "...ndermining the evidentiary value of the voice recordings. The I.O\nadmitted during cross-examination that “since I have obtained forensic report\nof recovered mobile phone from cyber crime Sukkur in which recovered\ninformation was received hence there was no need to collect CDR of arrested\naccused”. This explanation is unsatisfactory because Call Det...",
+        "scanned_at": "2026-05-02T20:14:39.383492+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "310681",
+        "sr_no": "896",
+        "citation": "",
+        "case_no": "Cr.Bail 1354/2025 (S.B.) Sindh High Court, Circuit at Hyderabad",
+        "parties": "Shoaib Ahmed (Applicant) VS The State (Respondent)",
+        "bench": "S.B.",
+        "date": "20-APR-26",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/MzEwNjgxY2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "cybercrime",
+            "prevention of electronic crimes",
+            "peca",
+            "electronic crimes act",
+            "electronic crime",
+            "electronic forgery",
+            "prevention of electronic crime"
+        ],
+        "excerpt": "...ocate along with Applicant on interim pre-arrest\nbail.\nComplainant present in person\nMr. Ghulam Abbas Sangi, Assistant Attorney General\n--------\nCrime No.12 of 2022\nP.S. FIA, Cybercrime Reporting Center,\nHyderabad\nu/s 13, 14, 16 of PECA 2016 r/w section\n34, 406, 419, 420, 468, 471, 109 PPC\nO R D E R\nAdnan Iqbal Chaudhry, J.:- The Applicant prays fo...",
+        "scanned_at": "2026-05-02T20:15:51.632723+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "256750",
+        "sr_no": "1022",
+        "citation": "",
+        "case_no": "Criminal Miscelleneous 126/2025 (S.B.) Sindh High Court, Circuit at Larkana",
+        "parties": "Tariq Hussain Soomro (Applicant) VS Tariq Mehmood Durrani and Another (Respondent)",
+        "bench": "S.B.",
+        "date": "21-APR-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/MjU2NzUwY2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "peca"
+        ],
+        "excerpt": "...er\ndated 08.4.2025 passed by learned 1st Additional Sessions Judge, Larkana in\nin Crime No.41 of 2025 of P.S Rehmatpur under section 506/2, 504, 500, 34\nPPC 20, 21, 22, 23 of PECA Act 2025 whereby learned trial Court while\ngranting post arrest bail to the applicant/accused Tarique Hussain Soomro\nalso directed the applicant that as condition of bail...",
+        "scanned_at": "2026-05-02T20:17:31.212738+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "254026",
+        "sr_no": "1158",
+        "citation": "",
+        "case_no": "Cr.Bail 27/2025 (S.B.) Sindh High Court, Karachi",
+        "parties": "MUDASIR IQBAL S/O ZAFAR IQBAL (Applicant) VS THE STATE (Respondent)",
+        "bench": "S.B.",
+        "date": "20-JAN-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/MjU0MDI2Y2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "peca",
+            "electronic crimes act",
+            "electronic crime"
+        ],
+        "excerpt": "...ested. The applicants are in jail since 14/15 months and the Challans\nhave been submitted in the relevant court u/s 9,10, and 11 of Prevention of\nElectronic Crimes Act, 2016 (PECA) r/w section 295-A, 295-B, 295-C, 298-A, 34\nPPC. It appears that these kinds of FIRs were also registered in the past by the\nFIA and accused were arrested, some of whom l...",
+        "scanned_at": "2026-05-02T20:19:18.664231+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "251800",
+        "sr_no": "1151",
+        "citation": "",
+        "case_no": "Cr.Bail 495/2025 (S.B.) Sindh High Court, Karachi",
+        "parties": "WAQAR HUSSAIN S/O WAHID HUSSAIN (Applicant) VS THE STATE (Respondent)",
+        "bench": "S.B.",
+        "date": "24-MAR-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/MjUxODAwY2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "cyber crime",
+            "cybercrime",
+            "peca",
+            "fia cyber"
+        ],
+        "excerpt": "...-------------\nDATE OF HEARING & ORDER 24.03.2025\nMr. Mukesh Kumar, advocate for applicant /accused.\nMr. Raja Murtaza, advocate for the complainant.\nIO/SI Syed Adnan Shah, FIA Cyber Crime, Karachi.\n*******\nArshad Hussain Khan J; Through instant Criminal Bail Application, the\napplicant/ accused Waqar Hussain son of Wahid Hussain seeks post-arrest bai...",
+        "scanned_at": "2026-05-02T20:19:20.530401+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "300336",
+        "sr_no": "1832",
+        "citation": "2025 SHC HYD 3563",
+        "case_no": "Const. P. 1552/2025 (D.B.) Sindh High Court, Circuit at Hyderabad",
+        "parties": "Muhammad Bilawal (Petitioner) VS Province of Sindh & Others (Respondent)",
+        "bench": "D.B.",
+        "date": "25-NOV-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/MzAwMzM2Y2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "cyber crime",
+            "peca",
+            "electronic crimes act",
+            "electronic crime",
+            "nccia",
+            "national cyber crime"
+        ],
+        "excerpt": "...earned Judge directed that the\nalleged victim be arrayed as an accused and further ordered that the\ninvestigation relating to the alleged offence be entrusted to the National\nCyber Crime Investigation Agency (NCCIA). Aggrieved, the petitioner\nhas filed the present petition seeking the following reliefs:-\n1. To set-aside/ex-pinch the portion of impu...",
+        "scanned_at": "2026-05-02T20:27:59.765768+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "294411",
+        "sr_no": "2093",
+        "citation": "",
+        "case_no": "Cr.Bail 660/2025 (S.B.) Sindh High Court, Bench at Sukkur",
+        "parties": "Kashif Shaikh (Applicant) VS The State (Respondent)",
+        "bench": "S.B.",
+        "date": "04-NOV-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/Mjk0NDExY2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "cyber crime",
+            "prevention of electronic crimes",
+            "electronic crime",
+            "fia cyber",
+            "national cyber crime",
+            "prevention of electronic crime"
+        ],
+        "excerpt": "...b-ur-Rehman Malano, Advocates\nfor applicant.\nMr. Abdul Raheem Mahar, Advocate along with complainant.\nMr. Asadullah Rajper, Assistant Attorney General along with SIP\nMir, FIA Cyber Crime, Sukkur.\nO R D E R\nMahmood A. Khan, J. – Applicant is facing proceedings under Crime\nNo.18 of 2025, registered at Police Station National Cyber Crime\nInvestigation...",
+        "scanned_at": "2026-05-02T20:34:32.696659+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "287429",
+        "sr_no": "2652",
+        "citation": "",
+        "case_no": "Cr.Bail 2803/2025 (S.B.) Sindh High Court, Karachi",
+        "parties": "FARHAN GOHAR MALLIK S/O ALI GOHAR MALLICK & OTHERS (Applicant) VS THE STATE (Respondent)",
+        "bench": "S.B.",
+        "date": "16-OCT-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/Mjg3NDI5Y2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "prevention of electronic crimes",
+            "electronic crime",
+            "prevention of electronic crime"
+        ],
+        "excerpt": "...ammad Altaf and (3) Syed Kazim Ali Rizvi son of Syed\nSalman Mohsin Rizvi seek protective/transitory bail in FIR\nNo.185/2025 under Section-18, 21(1)(c), 21(1)(d) and 22 of the\nPrevention of Electronic Crimes, Act, 2016, registered at P.S Berot\nDistrict Hub. Learned counsel for the applicants/ accused inter alia\ncontends that the applicants/accused a...",
+        "scanned_at": "2026-05-02T20:40:35.617103+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "288367",
+        "sr_no": "2677",
+        "citation": "",
+        "case_no": "Const. P. 5029/2025 (D.B.) Sindh High Court, Karachi",
+        "parties": "Muhammad Zubair (Petitioner) VS Federation of Pakistan & Others (Respondent)",
+        "bench": "D.B.",
+        "date": "21-OCT-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/Mjg4MzY3Y2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "nccia"
+        ],
+        "excerpt": "...e petitioner\n--------------------------------\n1. Urgent application is allowed.\n2-5. The petitioner has received a call up notice from respondent No.3 in\nInquiry No.1830/2025 NCCIA, Karachi.\nIn his prayer petitioner states that such call up notice is illegal. We do not\nfind any illegality in the call up notice. The petitioner shall join the inquiry...",
+        "scanned_at": "2026-05-02T20:40:51.065350+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "290199",
+        "sr_no": "2702",
+        "citation": "",
+        "case_no": "Const. P. 5431/2025 (D.B.) Sindh High Court, Karachi",
+        "parties": "Arun Kumar Perwani (Petitioner) VS Province of Sindh & others (Respondent)",
+        "bench": "D.B.",
+        "date": "11-NOV-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/MjkwMTk5Y2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "cyber crime"
+        ],
+        "excerpt": "...back in 2017. Thereafter, the Petitioner moved a subsequent\napplication on 06.02.2025 seeking further directions from the Rent Controller\nto transmit the mobile phone to the Cyber Crime Wing of the Federal\nInvestigation Agency. The said application was dismissed vide order dated\n10.10.2025 by the learned Rent Controller.\nThe Petitioner through the...",
+        "scanned_at": "2026-05-02T20:41:15.604778+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "302417",
+        "sr_no": "2800",
+        "citation": "",
+        "case_no": "Cr.Bail 1605/2025 (S.B.) Sindh High Court, Karachi",
+        "parties": "TAHIR S/O FAQIR MUHAMMAD KHASKHELI (Applicant) VS THE STATE (Respondent)",
+        "bench": "S.B.",
+        "date": "02-JAN-26",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/MzAyNDE3Y2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "cyber crime",
+            "cybercrime",
+            "peca",
+            "electronic crime"
+        ],
+        "excerpt": "...i\nThrough Mr. Zahid Farooq Mazari,\nAdvocate.\nRespondent: The State through Syed Bashir Hussain\nShah, Assistant Attorney-General\nalongwith Mr.Arsalan Manzoor, Deputy\nDirector, Cyber Crime a/w SI Shoaib and\nSI Adnan Shah.\nComplainant: Muhammad Nadeem Ferozi\nThrough Mr. Aamir Ali Abbasi, Advocate.\nDate of hearing: 02.01.2026\nDate of Decision: 02.01.20...",
+        "scanned_at": "2026-05-02T20:42:24.199641+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "297365",
+        "sr_no": "3154",
+        "citation": "",
+        "case_no": "Const. P. 938/2025 (D.B.) Sindh High Court, Bench at Sukkur",
+        "parties": "Remona Mah Laqa (Petitioner) VS Federation of Pakistan & others (Respondent)",
+        "bench": "D.B.",
+        "date": "22-OCT-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/Mjk3MzY1Y2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "fia cyber",
+            "nccia"
+        ],
+        "excerpt": "...SI Syed Adnan Shah NCCIA Karachi\n**************\nSI Syed Adanan Shah is present and submits that the petitioner is\nnot co-operating in Inquiry No.2657/2025 pending before the FIA Cyber\nCrime Reporting Centre, Karachi. Therefore, it is contended that she is\nnot entitled to the relief as claimed by her through the present petition.\nIt appears from th...",
+        "scanned_at": "2026-05-02T20:48:02.858949+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "295044",
+        "sr_no": "3319",
+        "citation": "",
+        "case_no": "Cr.Bail 686/2025 (S.B.) Sindh High Court, Bench at Sukkur",
+        "parties": "Rohit Kumar (Applicant) VS The State (Respondent)",
+        "bench": "S.B.",
+        "date": "08-AUG-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/Mjk1MDQ0Y2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "prevention of electronic crimes",
+            "electronic crimes act",
+            "electronic crime",
+            "nccia",
+            "prevention of electronic crime"
+        ],
+        "excerpt": "...Kumar son of Keerat Mal\nseeks Transitory-cum-protective bail in Crime No.62/2025 Police Station,\nNCCIA Rawalpindi Circle Province Punjab, under Sections 3, 4, 14, 16 & 26 of\nPrevention of Electronic Crimes Act, 2016 r/w 419, 420 & 109 of PPC.\nIt is, inter alia, contended that applicant is innocent and has falsely been\ninvolved in this case by the...",
+        "scanned_at": "2026-05-02T20:50:26.542939+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "264336",
+        "sr_no": "3508",
+        "citation": "",
+        "case_no": "Cr.Bail 894/2025 (S.B.) Sindh High Court, Karachi",
+        "parties": "Syed Abdul Aziz S/o Syed Ahmed Omer (Applicant) VS The State (Respondent)",
+        "bench": "S.B.",
+        "date": "12-MAY-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/MjY0MzM2Y2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "cyber crime",
+            "peca",
+            "national cyber crime"
+        ],
+        "excerpt": "...i M. Ishaque, advocate for applicant along iwht Mrs. S.K. Lodhi,\nAdvocate\nMr. R.D. Kalhoro, Assistant Attorney General a/w SI Syed Adnan Shah and\nSI Muhammad Shoaib, National Cyber Crime Investigation Agency, Karachi\nO R D E R\nMUHAMMAD IQBAL KALHORO J: Applicant, in jail since 08.07.2023 and\nstanding a trial in Crime No.25/2023, u/s 09, 10 & 11 of...",
+        "scanned_at": "2026-05-02T20:53:10.893396+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "263021",
+        "sr_no": "3501",
+        "citation": "2025 SHC KHI 938",
+        "case_no": "Criminal Miscelleneous 43/2025 (S.B.) Sindh High Court, Karachi",
+        "parties": "ADELL REHMAN MEMON  (Applicant) VS THE STATE THROUGH FIA & ANOTHER (Respondent)",
+        "bench": "S.B.",
+        "date": "09-MAY-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/MjYzMDIxY2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "cyber crime",
+            "peca",
+            "fia cyber"
+        ],
+        "excerpt": "...Article 10-A of the Constitution of the Islamic Republic of Pakistan,\n1973.\n2. The present application arises from facts wherein Enquiry No.\n506/2020 was initiated by the FIA Cyber Crime Circle on the complaint of\nMst. Ghanwa Hussaini without issuance of any prior notice to the Applicant,\nwho later discovered that his bank account had been blocked...",
+        "scanned_at": "2026-05-02T20:53:12.153959+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "288393",
+        "sr_no": "3796",
+        "citation": "",
+        "case_no": "Const. P. 5103/2025 (D.B.) Sindh High Court, Karachi",
+        "parties": "Muhammad Ibrahim (Petitioner) VS Federation of Pakistan & others (Respondent)",
+        "bench": "D.B.",
+        "date": "21-OCT-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/Mjg4MzkzY2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "nccia"
+        ],
+        "excerpt": "...-----------\n1. Urgent application is allowed.\n2-5. Learned counsel for the petitioner has challenged a notice for appearance\nunder Section 160 Cr.P.C. in Inquiry No.2097/2025 NCCIA, Karachi dated\n17.10.2025. We find no illegality in the issuance of such notice. The petitioner\nshall join the inquiry and fully cooperate with the enquiry officer. The...",
+        "scanned_at": "2026-05-02T20:55:38.059456+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "288995",
+        "sr_no": "3857",
+        "citation": "",
+        "case_no": "Cr.Bail 2980/2025 (S.B.) Sindh High Court, Karachi",
+        "parties": "HABIBULLAH KHAN S/O KHAN MIUHAMMAD AMANULLAH (Applicant) VS THE STATE (Respondent)",
+        "bench": "S.B.",
+        "date": "30-OCT-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/Mjg4OTk1Y2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "cyber crime",
+            "prevention of electronic crimes",
+            "electronic crimes act",
+            "electronic crime",
+            "nccia",
+            "prevention of electronic crime"
+        ],
+        "excerpt": "...ammad Amanullah seeks\nprotective bail in FIR No.291/2025 under Section-13, 20, 24 of\nPrevention of Electronic crimes Act, 2016 r/w 34 & 109, 506 PPC,\nregistered at P.S NCCIA, Cyber Crime Reporting Centre, Circle/Sub-\nCircle, Islamabad.\nLearned counsel for the applicant/accused inter alia contends\nthe applicant/accused is innocent and has been false...",
+        "scanned_at": "2026-05-02T20:56:09.809960+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "270030",
+        "sr_no": "4475",
+        "citation": "2025 SHC SUK 1623",
+        "case_no": "Cr.Bail 357/2025 (S.B.) Sindh High Court, Bench at Sukkur",
+        "parties": "Muhammad Yousif (Applicant) VS The State (Respondent)",
+        "bench": "S.B.",
+        "date": "22-MAY-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/MjcwMDMwY2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "cyber crime",
+            "cybercrime",
+            "prevention of electronic crimes",
+            "peca",
+            "electronic crimes act",
+            "electronic crime",
+            "cyberstalking",
+            "fia cyber",
+            "prevention of electronic crime"
+        ],
+        "excerpt": "...aider ‘Ada’, J. Through the instant bail application, the\napplicant/accused, Muhammad Yousif, seeks post-arrest bail in Crime No. 25 of\n2024, registered at Police Station FIA Cyber Crime Reporting Centre, Sukkur, for\noffences punishable under Sections 20, 21, and 24 of the Prevention of Electronic\nCrimes Act, 2016 (PECA-2016), read with Sections 38...",
+        "scanned_at": "2026-05-02T21:03:24.596956+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "290347",
+        "sr_no": "4464",
+        "citation": "",
+        "case_no": "Cr.Bail 877/2025 (S.B.) Sindh High Court, Circuit at Hyderabad",
+        "parties": "Faraz Ahmed @ Baboo (Applicant) VS The State (Respondent)",
+        "bench": "S.B.",
+        "date": "10-NOV-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/MjkwMzQ3Y2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "prevention of electronic crimes",
+            "electronic crimes act",
+            "electronic crime",
+            "nccia",
+            "prevention of electronic crime"
+        ],
+        "excerpt": "...that the bail application should have\nbeen moved before the proper forum i.e. Court of Sessions at Dadu.\nMeanwhile, the learned D.A.G submits that since the Provisions of the\nPrevention of Electronic Crimes Act-2016 as amended by the Act of 2025 has\nbeen triggered the proper forum in the instant case at this point in time is the\nSpecial Court of FI...",
+        "scanned_at": "2026-05-02T21:03:25.054537+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "307657",
+        "sr_no": "4541",
+        "citation": "",
+        "case_no": "Const. P. 2305/2025 (D.B.) Sindh High Court, Circuit at Hyderabad",
+        "parties": "Muhammad Ali@Ali Wazir (Petitioner) VS Federation of Pakistan & Others (Respondent)",
+        "bench": "D.B.",
+        "date": "10-MAR-26",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/MzA3NjU3Y2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "cyber crime",
+            "cybercrime",
+            "prevention of electronic crimes",
+            "electronic crimes act",
+            "electronic crime",
+            "nccia",
+            "national cyber crime",
+            "prevention of electronic crime"
+        ],
+        "excerpt": "...f 2025 arising out of the aforesaid FIR, the learned trial Court\nreturned the case to the Investigation Officer with a specific direction to\ntransmit the same to the National Cyber Crime Investigation Agency\n(NCCIA), Hyderabad, being the competent authority/forum having exclusive\njurisdiction to proceed further in accordance with law under the rele...",
+        "scanned_at": "2026-05-02T21:04:26.606372+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "277835",
+        "sr_no": "4942",
+        "citation": "2025 SHC KHI 2049",
+        "case_no": "Criminal Miscelleneous 691/2025 (S.B.) Sindh High Court, Karachi",
+        "parties": "MST ALIA RANI D/O REHMATULLAH (Applicant) VS THE SSP COMPLAINT CELL DIST: WEST KHI & ANOTHER (Respondent)",
+        "bench": "S.B.",
+        "date": "18-AUG-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/Mjc3ODM1Y2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "cyber crime",
+            "prevention of electronic crimes",
+            "peca",
+            "electronic crimes act",
+            "electronic crime",
+            "nccia",
+            "national cyber crime",
+            "prevention of electronic crime"
+        ],
+        "excerpt": "...martphone, the said exercise was not carried out by an expert in\nelectronic forensics. Such exercise is better suited to be carried out by\na competent officer of the National Cyber Crimes Investigation Agency\n(“NCCIA”), which is an independent statutory body distinct from the\nnow dissolved Cyber Crime Wing of the FIA regulated under the\nPakistan El...",
+        "scanned_at": "2026-05-02T21:08:28.146472+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "295166",
+        "sr_no": "5021",
+        "citation": "2025 SHC KHI 3389",
+        "case_no": "Criminal Miscelleneous 643/2025 (S.B.) Sindh High Court, Karachi",
+        "parties": "Naeem Afzal S/o Muhammad Afzal (Applicant) VS The State & another (Respondent)",
+        "bench": "S.B.",
+        "date": "29-SEP-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/Mjk1MTY2Y2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "peca",
+            "electronic crimes act",
+            "electronic crime"
+        ],
+        "excerpt": "...al Magistrate-I, Karachi South recommending\nto take cognizance under section 500 Pakistan Penal Code, 1860 (PPC) and\nSection 20 of Prevention of Electronics Crimes Act, 2016 (PECA).\n1\n2. The learned Counsel seeks to quash direct complaint and to set aside\nimpugned Order on the ground that while passing the impugned Order,\nlearned trial Court has co...",
+        "scanned_at": "2026-05-02T21:09:19.643166+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "287437",
+        "sr_no": "5076",
+        "citation": "",
+        "case_no": "Cr.Bail 2826/2025 (S.B.) Sindh High Court, Karachi",
+        "parties": "SYED MUMTAZ ALAM GHAZI S/O SYED HASSAN IMAM GHAZI (Applicant) VS THE STATE (Respondent)",
+        "bench": "S.B.",
+        "date": "16-OCT-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/Mjg3NDM3Y2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "prevention of electronic crimes",
+            "electronic crime",
+            "prevention of electronic crime"
+        ],
+        "excerpt": "...applicant/accused\nSyed Mumtaz Alam Ghazi son of Syed Hassan Imam Ghazi seeks\nprotective/transitory bail in FIR No.185/2025 under Section-18,\n21(1)(c), 21(1)(d) and 22 of the Prevention of Electronic Crimes, Act,\n2016, registered at P.S Berot District Hub. Learned counsel for the\napplicant/ accused inter alia contends that the applicant/accused is...",
+        "scanned_at": "2026-05-02T21:09:34.658728+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "279675",
+        "sr_no": "5269",
+        "citation": "2025 SHC KHI 2186",
+        "case_no": "Cr.Tran 91/2025 (S.B.) Sindh High Court, Karachi",
+        "parties": "Mst. Dr. Isamt Bano D/o Ali Muhammad (Appellant) VS Muhammad Arbab & others (Respondent)",
+        "bench": "S.B.",
+        "date": "04-SEP-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/Mjc5Njc1Y2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "cyber crime",
+            "peca",
+            "fia cyber"
+        ],
+        "excerpt": "...l Case No.2926/2024\narising out of FIR No.1386/2023 dated 15.09.2023 registered u/s\n24 (cyber-stalking) of the Prevention of Electronics Crime Act\n(“PECA”), 2016 with the FIA Cyber Crime Reporting Center,\nKarachi. The complainant is/was aggrieved by the conduct of the\ntrial Court and had filed a transfer application with the Sessions\nCourt, seeking...",
+        "scanned_at": "2026-05-02T21:11:22.753567+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "278661",
+        "sr_no": "5367",
+        "citation": "",
+        "case_no": "Cr.Bail 546/2025 (S.B.) Sindh High Court, Bench at Sukkur",
+        "parties": "Shafqattullah Qazi (Applicant) VS The State (Respondent)",
+        "bench": "S.B.",
+        "date": "27-AUG-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/Mjc4NjYxY2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "peca"
+        ],
+        "excerpt": "...: 27.08.2025\nO R D E R\nKHALID HUSSAIN SHAHANI, J. – Applicant Shafqatullah seeks post arrest\nbail in a case bearing Crime No.08/2025, offence under Section 03, 13, 18, 19\nof PECA-2016, r/w Section 20(1), 31(1), (h) and (i) of Telecommunication (Re-\norganization) Act, 1996 r/w Section 109 PPC, registered at PS FIA CCRC,\nSukkur.\n2. Upon the written...",
+        "scanned_at": "2026-05-02T21:12:31.273071+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "294829",
+        "sr_no": "5545",
+        "citation": "",
+        "case_no": "Criminal Miscelleneous 601/2025 (S.B.) Sindh High Court, Bench at Sukkur",
+        "parties": "Saifullah Bullo (Applicant) VS DIG Police, Sukkur and others (Respondent)",
+        "bench": "S.B.",
+        "date": "27-NOV-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/Mjk0ODI5Y2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "cyber crime",
+            "prevention of electronic crimes",
+            "electronic crimes act",
+            "electronic crime",
+            "nccia",
+            "national cyber crime",
+            "prevention of electronic crime"
+        ],
+        "excerpt": "...n-ul-Abidin alias Zain Bullo, aged about 15 years, was proceeding\ntowards Sukkur on a motorcycle for the purpose of obtaining pre-arrest bail in a\ncase registered at National Cyber Crime Investigation Agency, Sukkur. The\napplicant has averred that when they reached near Grid Station, Pano Akil, two\nvehicles, one Cultus car and one Vigo, intercepted...",
+        "scanned_at": "2026-05-02T21:15:42.470885+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "289895",
+        "sr_no": "6125",
+        "citation": "2025 SHC KHI 3198",
+        "case_no": "Cr.Bail 2276/2025 (S.B.) Sindh High Court, Karachi",
+        "parties": "USMAN S/O SAMAD (Applicant) VS THE STATE (Respondent)",
+        "bench": "S.B.",
+        "date": "07-NOV-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/Mjg5ODk1Y2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "cybercrime",
+            "cyber-crime",
+            "prevention of electronic crimes",
+            "peca",
+            "electronic crimes act",
+            "electronic crime",
+            "fia cyber",
+            "prevention of electronic crime"
+        ],
+        "excerpt": "...predicate offences,\nincluding those under the Prevention of Electronic Crimes Act, 2016\n(PECA) read with Sections 419, 420, and 109, PPC, registered as FIR No.\n41/2023 at FIA Cybercrime Reporting Centre, Karachi, which serves as\nthe predicate offence for the present case.\n[2]\nCriminal Bail Application No.2276 of 2025\n4. The applicant was arrested d...",
+        "scanned_at": "2026-05-02T21:24:23.735069+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "288501",
+        "sr_no": "6154",
+        "citation": "2025 SHC KHI 3087",
+        "case_no": "Cr.Bail 1818/2025 (S.B.) Sindh High Court, Karachi",
+        "parties": "TAHA NASIR S/O ABDUL NASIR (Applicant) VS THE STATE (Respondent)",
+        "bench": "S.B.",
+        "date": "23-OCT-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/Mjg4NTAxY2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "cyber crime",
+            "peca",
+            "fia cyber",
+            "child pornography",
+            "nccia"
+        ],
+        "excerpt": "...Respondent : The State\nthrough Mr. Muhammad Ahmed,\nDeputy Attorney General, Pakistan\nalong with I.O. Deputy Director Arslan\nManzoor, SI Syed Adnan and SI\nMuhammad Shoaib, FIA Cyber Crime,\nKarachi, now NCCIA.\nDate of hearing : 08.10.2025.\nDate of Order : 23.10.2025.\nO R D E R\nMIRAN MUHAMMAD SHAH, J:- Through the instant Criminal\nBail Application, th...",
+        "scanned_at": "2026-05-02T21:24:37.968078+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "309771",
+        "sr_no": "6254",
+        "citation": "2026 SHC KHI 801",
+        "case_no": "Const. P. 3144/2025 (D.B.) Sindh High Court, Karachi",
+        "parties": "M/S MAK Garments (Pvt) Ltd & Another (Petitioner) VS SECP & Others (Respondent)",
+        "bench": "D.B.",
+        "date": "09-APR-26",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/MzA5NzcxY2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "unauthorized access"
+        ],
+        "excerpt": "...3. The Company fraudulently reported the retirement of\nDirector / Chief Executive Officer, Mr Shoukat\nKhayam on 28 October 2024 vide Form 9 dated 19\nNovember 2024 by gaining unauthorized access of the\nlogin credentials of applicant, Mr Shoukat Khurram.\nFormal complaint was lodged with SECP vide\ncomplaint dated 19 November 2024. No proper notice\nof...",
+        "scanned_at": "2026-05-02T21:25:33.404234+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "302413",
+        "sr_no": "6286",
+        "citation": "",
+        "case_no": "Cr.Bail 3203/2025 (S.B.) Sindh High Court, Karachi",
+        "parties": "MUHAMMAD BILAL S/O SHAHBAZ MUGHAL (Applicant) VS THE STATE (Respondent)",
+        "bench": "S.B.",
+        "date": "02-JAN-26",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/MzAyNDEzY2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "cyber crime",
+            "cybercrime",
+            "peca",
+            "electronic crime"
+        ],
+        "excerpt": "...i\nThrough Mr. Zahid Farooq Mazari,\nAdvocate.\nRespondent: The State through Syed Bashir Hussain\nShah, Assistant Attorney-General\nalongwith Mr.Arsalan Manzoor, Deputy\nDirector, Cyber Crime a/w SI Shoaib and\nSI Adnan Shah.\nComplainant: Muhammad Nadeem Ferozi\nThrough Mr. Aamir Ali Abbasi, Advocate.\nDate of hearing: 02.01.2026\nDate of Decision: 02.01.20...",
+        "scanned_at": "2026-05-02T21:25:46.301582+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "285656",
+        "sr_no": "6473",
+        "citation": "",
+        "case_no": "Const. P. 710/2025 (D.B.) Sindh High Court, Circuit at Larkana",
+        "parties": "Irshad Ali Memon  (Petitioner) VS Federation Of Pakistan & Others (Respondent)",
+        "bench": "D.B.",
+        "date": "09-OCT-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/Mjg1NjU2Y2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "cyber crime",
+            "cybercrime",
+            "nccia"
+        ],
+        "excerpt": "....No.4153/2025 (S/A).\n3. For hearing of main case.\n------\n09.10.2025\nMr. Riaz Hussain Mirani, Advocate for the Petitioner.\nMr. Riaz Hussain Khoso, D.A.G a/w S.I. Mir Muhammad,\nCyber Crime Circle, Sukkur.\n------\nS.I. Mir Muhammad, Cyber Crime Circle, Sukkur files\ncompliance report on behalf of Deputy Director NCCIA, Circle Sukkur and\nwritten comments...",
+        "scanned_at": "2026-05-02T21:27:32.244232+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "276203",
+        "sr_no": "6578",
+        "citation": "",
+        "case_no": "Cr.Bail 168/2025 (S.B.) Sindh High Court, Bench at Sukkur",
+        "parties": "Khurram Shahzad (Applicant) VS The State (Respondent)",
+        "bench": "S.B.",
+        "date": "28-JUL-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/Mjc2MjAzY2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "peca"
+        ],
+        "excerpt": "...icant Khurram Shahzad son of Muneer Hussain, seeks post-arrest bail in FIR\nNo.37/2024, registered at P.S FIA CCRC, Sukkur for the offence punishable\nunder Sections 03, 04, 14 PECA, 2016 read with Sections 419, 420, 468, 471 and\n109 PPC.\n2. Learned counsel for the applicant has contended that the applicant has\nbeen incarcerated since 11.12.2024 and...",
+        "scanned_at": "2026-05-02T21:28:30.515812+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "250284",
+        "sr_no": "6867",
+        "citation": "2025 SHC MPK 568",
+        "case_no": "Cr.Bail 40/2025 (S.B.) Sindh High Court, Circuit Court, Mirpur Khas",
+        "parties": "Paresh (Applicant) VS The State (Respondent)",
+        "bench": "S.B.",
+        "date": "17-MAR-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/MjUwMjg0Y2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "peca",
+            "cyber stalking"
+        ],
+        "excerpt": "...nant states that the prosecution has applied and\nrecommended the Anti-Rape (Investigation & Trial) Act 2021 and\nInvestigation Officer has also recommended sections 21 & 22 of\nPECA Ordinance 2016 invoking provision of cyber stalking. The victim\nis under medical treatment, as the victim has suffered mental illness\nand agony and treated at Agha Khan U...",
+        "scanned_at": "2026-05-02T21:32:26.687501+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "278875",
+        "sr_no": "7151",
+        "citation": "",
+        "case_no": "Const. P. 597/2025 (S.B.) Sindh High Court, Karachi",
+        "parties": "Intersys Limited (Petitioner) VS Federal Investigation Authority & Others (Respondent)",
+        "bench": "S.B.",
+        "date": "26-AUG-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/Mjc4ODc1Y2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "peca"
+        ],
+        "excerpt": "...mited on\n26.07.2025, seeking directions through the Regular Bench on account of inaction\non the part of the Regulatory Authority pursuant to Sections 2C, 2R, 30 and 37 of\nthe PECA, 2016, (as amended in February 2025). Counsel submits that the\nPetitioner filed a complaint with the Official Respondents, but as there was no\nresponse from them, Intersy...",
+        "scanned_at": "2026-05-02T21:35:02.833572+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "274891",
+        "sr_no": "7207",
+        "citation": "",
+        "case_no": "Const. P. 3005/2025 (D.B.) Sindh High Court, Karachi",
+        "parties": "Imran Khan  (Petitioner) VS Federation of Pakistan & others (Respondent)",
+        "bench": "D.B.",
+        "date": "09-JUL-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/Mjc0ODkxY2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "nccia"
+        ],
+        "excerpt": "...office objections Nos.2 and 3.\n2. For hearing of main case.\n09.07.2025.\nMr. Qaim Ali Memon, Advocate for the Petitioner.\nMs. Mahreen Ibrahim, DAG.\nI.O./Inspector Arifa Saeed NCCIA, FIA, Karachi.\nThrough instant petition the petitioner has prayed for the following\nreliefs:\na) Admit the present petition for hearing and be pleased to declare\nthat the...",
+        "scanned_at": "2026-05-02T21:35:26.827200+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "243360",
+        "sr_no": "7561",
+        "citation": "",
+        "case_no": "Const. P. 140/2025 (D.B.) Sindh High Court, Bench at Sukkur",
+        "parties": "Saifullah Channa (Petitioner) VS Federation of Pakistan & others (Respondent)",
+        "bench": "D.B.",
+        "date": "29-JAN-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/MjQzMzYwY2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "cyber crime",
+            "fia cyber"
+        ],
+        "excerpt": "...osecuted according to the\nrelevant sections of the FIA law”.\nLearned counsel submits that petitioner filed Crl. Misc.\nApplication No.2785 of 2023 re: Saifullah v. SHO PS, FIA Cyber Crime\nWing Sukkur & others, before the Court of Additional Sessions Judge-\nIV(H), Ex-Officio Justice of Peace, Sukkur and states that after due\nnotice and hearing the pa...",
+        "scanned_at": "2026-05-02T21:38:14.343792+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "301845",
+        "sr_no": "7595",
+        "citation": "",
+        "case_no": "Const. P. 2087/2025 (D.B.) Sindh High Court, Circuit at Hyderabad",
+        "parties": "Saad Ahmed Memon (Petitioner) VS Federation of Pakistan & Others (Respondent)",
+        "bench": "D.B.",
+        "date": "16-DEC-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/MzAxODQ1Y2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "cyber crime",
+            "nccia"
+        ],
+        "excerpt": "...cting according to their own whims and preferences. Counsel\ntherefore prayed that the instant petition be allowed.\n4. Upon notice, Saeed Ahmed Shaikh, Enquiry Officer, NCCIA, Cyber Crime\nHyderabad, appeared in court and, referring to his compliance report, submitted the\ncomplaint was received from Dr. Niaz Ahmed Memon against his son Saad Ahmed\nMem...",
+        "scanned_at": "2026-05-02T21:38:33.470101+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "308325",
+        "sr_no": "7855",
+        "citation": "",
+        "case_no": "Cr.Bail 313/2025 (S.B.) Sindh High Court, Circuit Court, Mirpur Khas",
+        "parties": "Umesh Gul & another (Applicant) VS The state (Respondent)",
+        "bench": "S.B.",
+        "date": "03-MAR-26",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/MzA4MzI1Y2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "electronic crimes act",
+            "electronic crime"
+        ],
+        "excerpt": "...ants/accused as well\nas D.P.G and perused the record. It seems that the alleged viral video on\nelectric social media now falls as an offence within the ambit of Prevention\nof Electronic Crimes Act (P.E.C.A) and the offence, which applied and\ncommitted now fall within the said law. The Telegraph Act applied is\nredundant as an old law. Sections appli...",
+        "scanned_at": "2026-05-02T21:40:47.274001+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "308327",
+        "sr_no": "7917",
+        "citation": "",
+        "case_no": "Cr.Bail 323/2025 (S.B.) Sindh High Court, Circuit Court, Mirpur Khas",
+        "parties": "Faheem ul Rehman @ Faheem (Applicant) VS The state (Respondent)",
+        "bench": "S.B.",
+        "date": "03-MAR-26",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/MzA4MzI3Y2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "electronic crimes act",
+            "electronic crime"
+        ],
+        "excerpt": "...ants/accused as well\nas D.P.G and perused the record. It seems that the alleged viral video on\nelectric social media now falls as an offence within the ambit of Prevention\nof Electronic Crimes Act (P.E.C.A) and the offence, which applied and\ncommitted now fall within the said law. The Telegraph Act applied is\nredundant as an old law. Sections appli...",
+        "scanned_at": "2026-05-02T21:41:23.066048+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "294729",
+        "sr_no": "7970",
+        "citation": "",
+        "case_no": "Cr.Bail 991/2025 (S.B.) Sindh High Court, Bench at Sukkur",
+        "parties": "Rashid Ayoub (Applicant) VS The State (Respondent)",
+        "bench": "S.B.",
+        "date": "24-NOV-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/Mjk0NzI5Y2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "cyber crime",
+            "prevention of electronic crimes",
+            "electronic crimes act",
+            "electronic crime",
+            "fia cyber",
+            "prevention of electronic crime"
+        ],
+        "excerpt": "...f post-arrest bail\n24.11.2025\nMr. Pervaiz Ali Jatoi, Advocate for applicant.\nMr. Nisar Ahmed G. Abro, Deputy Attorney General along with\nSanaullah, Investigating Officer, FIA Cyber Crime.\n.-.-.-.-.-.-.-.-.-.-\nLearned DAG submits statement along with the letter of the High\nCourt dated 31.10.2019; according to which, for proceedings of cases\nregister...",
+        "scanned_at": "2026-05-02T21:41:43.977046+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "284051",
+        "sr_no": "8061",
+        "citation": "",
+        "case_no": "Cr.Bail 658/2025 (S.B.) Sindh High Court, Bench at Sukkur",
+        "parties": "Abdul Bari Shaikh (Applicant) VS The State (Respondent)",
+        "bench": "S.B.",
+        "date": "02-OCT-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/Mjg0MDUxY2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "cyber crime",
+            "cybercrime",
+            "peca",
+            "online harassment",
+            "digital crime"
+        ],
+        "excerpt": "...tional Sessions Judge Sukkur vide order dated 28.04.2025.\n2. As per prosecution theory set-forth in the FIR, an inquiry\nNo.62/2025, dated 11.03.2025 was initiated at P.S FIA, Cyber Crime Circle\nSukkur on the basis of written complaint of Aqeeb Rehman, regarding accused\nAbdul Bari’s blackmailing, harassing, and threatening the complainant's sister\nu...",
+        "scanned_at": "2026-05-02T21:42:34.267615+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "263569",
+        "sr_no": "8250",
+        "citation": "",
+        "case_no": "Cr.Acq.A. 307/2025 (S.B.) Sindh High Court, Karachi",
+        "parties": "MIR KALAM KHAN S/O HAJI ABDUL HAKEEM KHAN (Appellant) VS The State & others (Respondent)",
+        "bench": "S.B.",
+        "date": "05-MAY-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/MjYzNTY5Y2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "cyber crime"
+        ],
+        "excerpt": ".... However, the USB at Ex.23/A was not properly articlized, and no\nreport was tendered from any forensic expert to establish its authenticity or\nrelevance. No officer from the Cyber Crime Wing or any technical expert\nwas examined to connect the USB with the alleged incident. The chain of\ncustody of the USB also remained unexplained.\n8. As to the abs...",
+        "scanned_at": "2026-05-02T21:44:24.905404+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "268942",
+        "sr_no": "8300",
+        "citation": "",
+        "case_no": "Const. P. 1284/2025 (D.B.) Sindh High Court, Karachi",
+        "parties": "Mst. Zehra Naqvi (Petitioner) VS Director FIA and Others (Respondent)",
+        "bench": "D.B.",
+        "date": "27-MAR-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/MjY4OTQyY2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "cyber crime",
+            "fia cyber"
+        ],
+        "excerpt": "...itioner.\n-------------\n1) Urgency granted.\n2) Deferred for the time being.\n3) Granted subject to all just exceptions.\n4&5) Petitioner has challenged the call up notice of FIA Cyber Crime\nReporting Center Faislabad in respect of Inquiry No.656/2025. Learned\ncounsel for the petitioner has admitted that the petitioner has not joined\nthe inquiry. Petit...",
+        "scanned_at": "2026-05-02T21:44:46.183755+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "300308",
+        "sr_no": "9000",
+        "citation": "",
+        "case_no": "Const. P. 65/2025 (D.B.) Sindh High Court, Circuit at Hyderabad; attached cases: C.P. No.D-1534 of 2025 [Khalid v. Federation of Pakistan & others]",
+        "parties": "Dr Asad Ali (Petitioner) VS Fed Investigation Agency (Respondent)",
+        "bench": "D.B.",
+        "date": "25-NOV-25",
+        "year": "2025",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/MzAwMzA4Y2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "cyber crime",
+            "prevention of electronic crimes",
+            "peca",
+            "electronic crime",
+            "fia cyber",
+            "cyber offence",
+            "prevention of electronic crime"
+        ],
+        "excerpt": "...t in S.M.C. No.18/2016. The\npetitioner stated that SPSC officials were complicit, as the leaked\nphotograph originated from within SPSC premises. The petitioner\napproached FIA Cyber Crime Wing, Hyderabad, seeking registration of an\nFIR, but no action was taken and his representation filed under Section 161\nof the SPSC (Recruitment Management) Regula...",
+        "scanned_at": "2026-05-02T21:50:13.695174+00:00",
+        "court": "SHC",
+        "_source": "shc_2025_cyber_cases.json"
+    },
+    {
+        "record_id": "309357",
+        "sr_no": "260",
+        "citation": "",
+        "case_no": "Const. P. 327/2026 (D.B.) Sindh High Court, Circuit at Hyderabad",
+        "parties": "Muhammad Muneeb (Petitioner) VS Federation of Pakistan & Others (Respondent)",
+        "bench": "D.B.",
+        "date": "19-FEB-26",
+        "year": "2026",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/MzA5MzU3Y2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "cybercrime"
+        ],
+        "excerpt": "...ersothatthepetitionercouldreplythesame\nandprovehisinnocence.\nB.To direct the respondents No.2 to 4 to conduct free,\nfairandimpartialintothematteratFIACybercrime\nCircle Hyderabad Sindh and during the course of\nInquiry the petitioner shall not be harassed in any\nformormanifestationorarrestedorifthesam...",
+        "scanned_at": "2026-05-02T15:17:18.398571Z",
+        "court": "SHC",
+        "_source": "shc_2026_cyber_cases.json"
+    },
+    {
+        "record_id": "311121",
+        "sr_no": "578",
+        "citation": "",
+        "case_no": "Const. P. 551/2026 (D.B.) Sindh High Court, Circuit at Hyderabad",
+        "parties": "Murtaza Thr Attorney Imran Ali Shaikh (Petitioner) VS Director General (NCCIA) and others (Respondent)",
+        "bench": "D.B.",
+        "date": "21-APR-26",
+        "year": "2026",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/MzExMTIxY2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "cybercrime"
+        ],
+        "excerpt": "...IN HIGH COURT OF SINDH, CIRCUIT COURT\nHYDERABAD\nC.P. No.D-551 of 2026\n[MurtazathroughattorneyImranAliShaikhv.D.G.National\nCyberCrimeInvestigationAgencyandothers]\nBefore:\nMr. Justice Adnan Iqbal Chaudhry\nMr. Justice Riazat Ali Sahar\nPetitioner : Murtaza through attorney Im...",
+        "scanned_at": "2026-05-02T15:44:04.569918Z",
+        "court": "SHC",
+        "_source": "shc_2026_cyber_cases.json"
+    },
+    {
+        "record_id": "306719",
+        "sr_no": "921",
+        "citation": "",
+        "case_no": "Const. P. 272/2026 (D.B.) Sindh High Court, Circuit at Hyderabad",
+        "parties": "Muhammad Aslam (Petitioner) VS Federation of Pakistan & Others (Respondent)",
+        "bench": "D.B.",
+        "date": "17-FEB-26",
+        "year": "2026",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/MzA2NzE5Y2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "cyber crime"
+        ],
+        "excerpt": "...nvoked the constitutional\njurisdiction of this Court under Article 199 of the Constitution, alleging that\nrespondent No.3, an officer of the National Cyber Crime Investigation\nAgency, Hyderabad, unlawfully took possession of his mobile phone during\nthe course of an inquiry initiated on the complaint...",
+        "scanned_at": "2026-05-02T16:10:47.672220Z",
+        "court": "SHC",
+        "_source": "shc_2026_cyber_cases.json"
+    },
+    {
+        "record_id": "309183",
+        "sr_no": "991",
+        "citation": "2026 SHC KHI 702",
+        "case_no": "Const. P. 130/2026 (D.B.) Sindh High Court, Karachi",
+        "parties": "M/s. Shakarganj Limited & another (Petitioner) VS Special Judge Central-I & others (Respondent)",
+        "bench": "D.B.",
+        "date": "02-APR-26",
+        "year": "2026",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/MzA5MTgzY2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "fia cyber"
+        ],
+        "excerpt": "...ough learned Trial Court in its impugned order has referred the\ncase of NBP Vs The State reported as PLD 2021 Lahore 670 and Munir\nBhatti Vs Director FIA Cyber Wing Lahore reported as PLD 2022 Lahore\n654 to justify its jurisdiction to entertain an application under section 22 A\nCrPC and pass an orde...",
+        "scanned_at": "2026-05-02T16:15:34.205991Z",
+        "court": "SHC",
+        "_source": "shc_2026_cyber_cases.json"
+    },
+    {
+        "record_id": "309643",
+        "sr_no": "1022",
+        "citation": "2026 SHC KHI 755",
+        "case_no": "Const. P. 564/2026 (D.B.) Sindh High Court, Karachi",
+        "parties": "Mohammad Yousuf Yasin (Petitioner) VS Federation of Pakistan & others (Respondent)",
+        "bench": "D.B.",
+        "date": "01-APR-26",
+        "year": "2026",
+        "pdf_link": "https://caselaw.shc.gov.pk/caselaw/view-file/MzA5NjQzY2Ztcy1kYzgz",
+        "cyber_keywords_matched": [
+            "peca"
+        ],
+        "excerpt": "...ood therefrom. He submits that an FIR\nbearing No. 52/2017 was registered against him and other co-accused persons\nunder various provisions of PPC and PECA at FIA Police Station, Lahore;\nhowever, after full investigation and submission of report under section 173\n2\nCr.P.C., the learned Special Court,...",
+        "scanned_at": "2026-05-02T16:18:25.750436Z",
+        "court": "SHC",
+        "_source": "shc_2026_cyber_cases.json"
+    }
+]

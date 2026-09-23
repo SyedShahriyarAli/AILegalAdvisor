@@ -1,0 +1,771 @@
+{
+    "summary": {
+        "total_cases": 30,
+        "average_recall_10_score": 0.8405555555555555,
+        "average_recall_10_percentage": "84.06%",
+        "generation_accuracy_score": 0.9,
+        "generation_accuracy_percentage": "90.00%"
+    },
+    "details": [
+        {
+            "query": "Does posting hateful, offensive, and blasphemous content against Allah, the Holy Qur'an, and the Holy Prophet (PBUH) on Instagram, which causes distress and could incite religious hatred, constitute offenses under Sections 10, 11, and 26A of PECA 2016-2025?",
+            "expected_answer": "yes",
+            "model_answer": "yes",
+            "predicted_label": "yes",
+            "generation_failed": false,
+            "is_correct": true,
+            "expected_sections": [
+                "10",
+                "11",
+                "26a"
+            ],
+            "retrieved_sections": [
+                "10",
+                "10",
+                "11",
+                "11",
+                "338-f",
+                "112",
+                "11",
+                "97",
+                "298-a",
+                "295-c"
+            ],
+            "recall": 0.6666666666666666
+        },
+        {
+            "query": "Is spreading false rumors online to damage a person's reputation considered an offense against dignity or false information under Sections 20(1) or 26A of PECA 2016-2025?",
+            "expected_answer": "yes",
+            "model_answer": "yes",
+            "predicted_label": "yes",
+            "generation_failed": false,
+            "is_correct": true,
+            "expected_sections": [
+                "20",
+                "26a"
+            ],
+            "retrieved_sections": [
+                "20",
+                "203",
+                "5",
+                "177",
+                "191",
+                "192",
+                "200",
+                "193",
+                "171-g",
+                "197"
+            ],
+            "recall": 0.5
+        },
+        {
+            "query": "Does posting false and humiliating information, including pictures with untrue captions, on social media to damage a person's reputation and cause distress, constitute an offense against the dignity of a natural person under Section 20 of PECA 2016-2025?",
+            "expected_answer": "yes",
+            "model_answer": "yes",
+            "predicted_label": "yes",
+            "generation_failed": false,
+            "is_correct": true,
+            "expected_sections": [
+                "20"
+            ],
+            "retrieved_sections": [
+                "20",
+                "2c",
+                "2c",
+                "177",
+                "381-a",
+                "496c",
+                "182",
+                "477-a",
+                "203",
+                "112"
+            ],
+            "recall": 1.0
+        },
+        {
+            "query": "Does online fraud involving the use of forged documents and manipulated information to cause financial loss fall under Section 13 (Electronic forgery) and Section 14 (Electronic fraud) of PECA 2016?",
+            "expected_answer": "yes",
+            "model_answer": "yes",
+            "predicted_label": "yes",
+            "generation_failed": false,
+            "is_correct": true,
+            "expected_sections": [
+                "13",
+                "14"
+            ],
+            "retrieved_sections": [
+                "13",
+                "14",
+                "14",
+                "9",
+                "463",
+                "2",
+                "8",
+                "6",
+                "11",
+                "3"
+            ],
+            "recall": 1.0
+        },
+        {
+            "query": "Do creating fake profiles, sharing private-explicit images, and cyber stalking constitute offenses against dignity, modesty, and cyber stalking under Sections 20, 21(1), and 24(1) of PECA 2016?",
+            "expected_answer": "yes",
+            "model_answer": "yes",
+            "predicted_label": "yes",
+            "generation_failed": false,
+            "is_correct": true,
+            "expected_sections": [
+                "20",
+                "21",
+                "24"
+            ],
+            "retrieved_sections": [
+                "20",
+                "24",
+                "10",
+                "105",
+                "21",
+                "1",
+                "224a",
+                "99",
+                "97",
+                "1"
+            ],
+            "recall": 1.0
+        },
+        {
+            "query": "Do the actions of individuals impersonating FIA officials, seizing electronic devices and passports, and demanding ransom via Telegram, constitute offenses under Sections 3, 4, 14, 16, and 26 of PECA 2016?",
+            "expected_answer": "yes",
+            "model_answer": "yes",
+            "predicted_label": "yes",
+            "generation_failed": false,
+            "is_correct": true,
+            "expected_sections": [
+                "3",
+                "4",
+                "14",
+                "16",
+                "26"
+            ],
+            "retrieved_sections": [
+                "3",
+                "4",
+                "14",
+                "14",
+                "16",
+                "26",
+                "11",
+                "224a",
+                "127",
+                "8"
+            ],
+            "recall": 1.0
+        },
+        {
+            "query": "Does using a fake online profile to spread extremely offensive and blasphemous images of religious figures and holy texts constitute hate speech under Section 11 of PECA 2025?",
+            "expected_answer": "yes",
+            "model_answer": "yes",
+            "predicted_label": "yes",
+            "generation_failed": false,
+            "is_correct": true,
+            "expected_sections": [
+                "11"
+            ],
+            "retrieved_sections": [
+                "11",
+                "11",
+                "295-a",
+                "270",
+                "269",
+                "5",
+                "50",
+                "83",
+                "338-f",
+                "2c"
+            ],
+            "recall": 1.0
+        },
+        {
+            "query": "Does the unauthorized taking and distribution of a person's photograph with false and defamatory comments on social media, causing harm to their reputation, constitute offenses under Sections 20 and 24 of PECA 2016?",
+            "expected_answer": "yes",
+            "model_answer": "yes",
+            "predicted_label": "yes",
+            "generation_failed": false,
+            "is_correct": true,
+            "expected_sections": [
+                "20",
+                "24"
+            ],
+            "retrieved_sections": [
+                "20",
+                "24",
+                "91",
+                "469",
+                "81",
+                "83",
+                "101",
+                "127",
+                "171-g",
+                "181"
+            ],
+            "recall": 1.0
+        },
+        {
+            "query": "Does sending a private picture to someone's father via WhatsApp and threatening to share it on Facebook to blackmail them constitute offenses under Section 21 and Section 24 of PECA 2016-2025?",
+            "expected_answer": "yes",
+            "model_answer": "no",
+            "predicted_label": "no",
+            "generation_failed": false,
+            "is_correct": false,
+            "expected_sections": [
+                "21",
+                "24"
+            ],
+            "retrieved_sections": [
+                "21",
+                "24",
+                "52-a",
+                "103",
+                "328",
+                "474",
+                "241",
+                "225-a",
+                "55-a",
+                "121"
+            ],
+            "recall": 1.0
+        },
+        {
+            "query": "Does an extortion attempt involving a physical raid followed by a demand for cryptocurrency via Telegram constitute electronic fraud under Section 14 of PECA 2016-2025?",
+            "expected_answer": "yes",
+            "model_answer": "yes",
+            "predicted_label": "yes",
+            "generation_failed": false,
+            "is_correct": true,
+            "expected_sections": [
+                "14"
+            ],
+            "retrieved_sections": [
+                "14",
+                "9",
+                "14",
+                "388",
+                "386",
+                "477-a",
+                "384",
+                "55-a",
+                "381-a",
+                "225-a"
+            ],
+            "recall": 1.0
+        },
+        {
+            "query": "Does creating websites to illegally sell sensitive personal data of Pakistani citizens, including CNIC numbers and call detail records sourced from NADRA, for financial gain through Google AdSense, fall under unauthorized access-transmission of critical infrastructure data, electronic fraud, and potentially cyber terrorism under PECA 2016?",
+            "expected_answer": "yes",
+            "model_answer": "yes",
+            "predicted_label": "yes",
+            "generation_failed": false,
+            "is_correct": true,
+            "expected_sections": [
+                "6",
+                "7",
+                "10",
+                "14"
+            ],
+            "retrieved_sections": [
+                "6",
+                "7",
+                "3",
+                "4",
+                "8",
+                "14",
+                "41",
+                "12",
+                "36",
+                "10"
+            ],
+            "recall": 1.0
+        },
+        {
+            "query": "Do the acts of illegally obtaining and uploading personal pictures with vulgar captions to a WhatsApp group, and sending disgusting text messages, voice messages, and GIF images, constitute offenses against dignity, modesty, and cyber stalking under Sections 20, 21(1)(b), and 24(1)(d) of PECA 2016-2025?",
+            "expected_answer": "yes",
+            "model_answer": "yes",
+            "predicted_label": "yes",
+            "generation_failed": false,
+            "is_correct": true,
+            "expected_sections": [
+                "20",
+                "21",
+                "24"
+            ],
+            "retrieved_sections": [
+                "20",
+                "24",
+                "1",
+                "224a",
+                "298-b",
+                "21",
+                "294",
+                "25",
+                "97",
+                "1"
+            ],
+            "recall": 1.0
+        },
+        {
+            "query": "Does spreading provocative and misleading information online to incite public unrest and hatred against state institutions constitute a cybercrime under PECA 2016-2025?",
+            "expected_answer": "yes",
+            "model_answer": "yes",
+            "predicted_label": "yes",
+            "generation_failed": false,
+            "is_correct": true,
+            "expected_sections": [
+                "9",
+                "10",
+                "20",
+                "26a"
+            ],
+            "retrieved_sections": [
+                "505",
+                "20",
+                "5",
+                "170",
+                "128",
+                "19a",
+                "176",
+                "181",
+                "121",
+                "124"
+            ],
+            "recall": 0.25
+        },
+        {
+            "query": "Does the act of a scammer posing as a bank agent to induce someone to transfer funds for 'processing fees' through electronic means, resulting in financial loss, constitute electronic fraud under Section 14 of PECA 2016?",
+            "expected_answer": "yes",
+            "model_answer": "yes",
+            "predicted_label": "yes",
+            "generation_failed": false,
+            "is_correct": true,
+            "expected_sections": [
+                "14"
+            ],
+            "retrieved_sections": [
+                "14",
+                "2",
+                "14",
+                "8",
+                "9",
+                "30",
+                "477-a",
+                "52-a",
+                "10",
+                "6"
+            ],
+            "recall": 1.0
+        },
+        {
+            "query": "Can a person be held accountable under Section 26A of PECA 2016-2025 for intentionally spreading false information on Facebook about a 'drone attack' that causes public panic and fear?",
+            "expected_answer": "yes",
+            "model_answer": "yes",
+            "predicted_label": "yes",
+            "generation_failed": false,
+            "is_correct": true,
+            "expected_sections": [
+                "26a"
+            ],
+            "retrieved_sections": [
+                "5",
+                "177",
+                "2",
+                "225-a",
+                "364-a",
+                "181",
+                "477-a",
+                "176",
+                "107",
+                "193"
+            ],
+            "recall": 0.0
+        },
+        {
+            "query": "Does creating fake Facebook profiles using someone's name and photos, uploading vulgar content to defame and harass them, constitute unauthorized use of identity information, spoofing, and an offense against the dignity of a natural person under Sections 16, 20, and 26 of PECA 2016-2025?",
+            "expected_answer": "yes",
+            "model_answer": "yes",
+            "predicted_label": "yes",
+            "generation_failed": false,
+            "is_correct": true,
+            "expected_sections": [
+                "16",
+                "20",
+                "26"
+            ],
+            "retrieved_sections": [
+                "26",
+                "2c",
+                "2c",
+                "16",
+                "20",
+                "97",
+                "5",
+                "21",
+                "30d",
+                "83"
+            ],
+            "recall": 1.0
+        },
+        {
+            "query": "Can an 'online investment dispute' complaint, if it involves dishonest intention and deceit causing harm, potentially fall under Section 14 (Electronic Fraud) of PECA 2016-2025?",
+            "expected_answer": "yes",
+            "model_answer": "yes",
+            "predicted_label": "yes",
+            "generation_failed": false,
+            "is_correct": true,
+            "expected_sections": [
+                "14"
+            ],
+            "retrieved_sections": [
+                "14",
+                "14",
+                "101",
+                "95",
+                "81",
+                "8",
+                "100",
+                "104",
+                "91",
+                "103"
+            ],
+            "recall": 1.0
+        },
+        {
+            "query": "Can the FIA Cyber Crime Wing (now NCCIA) legally re-open an inquiry into a cybercrime offense under PECA, even if the individual was previously cleared?",
+            "expected_answer": "yes",
+            "model_answer": "no",
+            "predicted_label": "no",
+            "generation_failed": false,
+            "is_correct": false,
+            "expected_sections": [
+                "29",
+                "30",
+                "50a"
+            ],
+            "retrieved_sections": [
+                "489-f",
+                "404",
+                "221",
+                "113",
+                "461",
+                "39",
+                "366-b",
+                "43",
+                "20"
+            ],
+            "recall": 0.0
+        },
+        {
+            "query": "Does intentionally spreading false and harmful information about a person online, damaging their reputation, constitute an offense against the dignity of a natural person under Section 20 of PECA 2025?",
+            "expected_answer": "yes",
+            "model_answer": "yes",
+            "predicted_label": "yes",
+            "generation_failed": false,
+            "is_correct": true,
+            "expected_sections": [
+                "20"
+            ],
+            "retrieved_sections": [
+                "20",
+                "5",
+                "364-a",
+                "177",
+                "98",
+                "203",
+                "191",
+                "496c",
+                "477-a",
+                "97"
+            ],
+            "recall": 1.0
+        },
+        {
+            "query": "Does persistent unwanted online messaging, spying on social media activity, and sharing private photos without permission constitute cyberstalking and offenses against the modesty of a natural person under Sections 21 and 24 of PECA 2025?",
+            "expected_answer": "yes",
+            "model_answer": "yes",
+            "predicted_label": "yes",
+            "generation_failed": false,
+            "is_correct": true,
+            "expected_sections": [
+                "21",
+                "24"
+            ],
+            "retrieved_sections": [
+                "24",
+                "21",
+                "98",
+                "105",
+                "97",
+                "106",
+                "102",
+                "99",
+                "83",
+                "153-a"
+            ],
+            "recall": 1.0
+        },
+        {
+            "query": "Does the fraudulent transfer of a large sum of money from a corporate bank account through unauthorized electronic transactions constitute electronic fraud under Section 14 of PECA 2016-2025?",
+            "expected_answer": "yes",
+            "model_answer": "yes",
+            "predicted_label": "yes",
+            "generation_failed": false,
+            "is_correct": true,
+            "expected_sections": [
+                "14"
+            ],
+            "retrieved_sections": [
+                "14",
+                "477-a",
+                "8",
+                "14",
+                "6",
+                "2",
+                "9",
+                "55-a",
+                "52-a",
+                "30"
+            ],
+            "recall": 1.0
+        },
+        {
+            "query": "Does posting extremely offensive and hateful comments about religious figures on a public platform like Facebook, with the potential to incite sectarian hatred, fall under 'Hate Speech' (Section 11) or 'Cyber Terrorism' (Section 10) under PECA 2016?",
+            "expected_answer": "yes",
+            "model_answer": "yes",
+            "predicted_label": "yes",
+            "generation_failed": false,
+            "is_correct": true,
+            "expected_sections": [
+                "10",
+                "11"
+            ],
+            "retrieved_sections": [
+                "11",
+                "10",
+                "11",
+                "10",
+                "50",
+                "505",
+                "55-a",
+                "225-a",
+                "52-a",
+                "124"
+            ],
+            "recall": 1.0
+        },
+        {
+            "query": "Could an old FIR from 2013 related to telecommunication fraud, which resulted in a blocked CNIC and blacklisted passport, be considered under PECA 2016 as offenses like unauthorized issuance of SIM cards or tampering with communication equipment?",
+            "expected_answer": "yes",
+            "model_answer": "no",
+            "predicted_label": "no",
+            "generation_failed": false,
+            "is_correct": false,
+            "expected_sections": [
+                "17",
+                "18"
+            ],
+            "retrieved_sections": [
+                "17",
+                "18",
+                "507",
+                "3",
+                "6",
+                "93",
+                "2",
+                "174",
+                "477-a",
+                "90"
+            ],
+            "recall": 1.0
+        },
+        {
+            "query": "Do unauthorized access to personal information and bank details, followed by electronic fraud and potential money transfer, fall under Sections 3, 4, 13, 14, and 16 of PECA 2016?",
+            "expected_answer": "yes",
+            "model_answer": "yes",
+            "predicted_label": "yes",
+            "generation_failed": false,
+            "is_correct": true,
+            "expected_sections": [
+                "3",
+                "4",
+                "13",
+                "14",
+                "16"
+            ],
+            "retrieved_sections": [
+                "3",
+                "4",
+                "4",
+                "13",
+                "13",
+                "14",
+                "16",
+                "3",
+                "6",
+                "14"
+            ],
+            "recall": 1.0
+        },
+        {
+            "query": "Does illegally accessing a company's database, altering customer details, and creating fake credits for fraudulent cheques constitute offenses under Sections 3, 5, 13, and 14 of PECA 2025?",
+            "expected_answer": "yes",
+            "model_answer": "yes",
+            "predicted_label": "yes",
+            "generation_failed": false,
+            "is_correct": true,
+            "expected_sections": [
+                "3",
+                "5",
+                "13",
+                "14"
+            ],
+            "retrieved_sections": [
+                "3",
+                "13",
+                "13",
+                "14",
+                "14",
+                "5",
+                "127",
+                "420",
+                "203cc",
+                "83"
+            ],
+            "recall": 1.0
+        },
+        {
+            "query": "Does disseminating information online that advances interfaith, sectarian, or racial hatred constitute hate speech under Section 11 of PECA 2016?",
+            "expected_answer": "yes",
+            "model_answer": "yes",
+            "predicted_label": "yes",
+            "generation_failed": false,
+            "is_correct": true,
+            "expected_sections": [
+                "11"
+            ],
+            "retrieved_sections": [
+                "11",
+                "33",
+                "124",
+                "153-a",
+                "5",
+                "11",
+                "36",
+                "177",
+                "110",
+                "41"
+            ],
+            "recall": 1.0
+        },
+        {
+            "query": "Does unauthorized access to a personal computer and the alteration or deletion of files without permission constitute unauthorized access to an information system or data and interference with an information system or data under PECA 2016-2025?",
+            "expected_answer": "yes",
+            "model_answer": "yes",
+            "predicted_label": "yes",
+            "generation_failed": false,
+            "is_correct": true,
+            "expected_sections": [
+                "3",
+                "5"
+            ],
+            "retrieved_sections": [
+                "3",
+                "6",
+                "5",
+                "8",
+                "23",
+                "36",
+                "41",
+                "2c",
+                "2c",
+                "4"
+            ],
+            "recall": 1.0
+        },
+        {
+            "query": "Does repeatedly contacting someone online despite their disinterest, monitoring their social media, and causing them fear, alarm, or distress, constitute cyberstalking under Section 24 of PECA 2016?",
+            "expected_answer": "yes",
+            "model_answer": "yes",
+            "predicted_label": "yes",
+            "generation_failed": false,
+            "is_correct": true,
+            "expected_sections": [
+                "24"
+            ],
+            "retrieved_sections": [
+                "24",
+                "2u",
+                "2u",
+                "112",
+                "36",
+                "90",
+                "505",
+                "24",
+                "440",
+                "38"
+            ],
+            "recall": 1.0
+        },
+        {
+            "query": "Can a public figure's video circulated on Twitter, making serious accusations against a Chief Minister and leading to an inquiry for a 'highly intimidating campaign against state functionaries and creating violence in public and society through information system', fall under Sections 2R(1)(b), (e), (h), 11, and 26A of PECA 2016-2025?",
+            "expected_answer": "yes",
+            "model_answer": "yes",
+            "predicted_label": "yes",
+            "generation_failed": false,
+            "is_correct": true,
+            "expected_sections": [
+                "2r",
+                "2r",
+                "2r",
+                "11",
+                "26a"
+            ],
+            "retrieved_sections": [
+                "2r",
+                "2r",
+                "11",
+                "11",
+                "5",
+                "224a",
+                "135",
+                "96",
+                "505",
+                "153-a"
+            ],
+            "recall": 0.8
+        },
+        {
+            "query": "Is a person legally obligated to attend an inquiry initiated by the NCCIA under PECA 2025, even if they feel the notice is unclear?",
+            "expected_answer": "yes",
+            "model_answer": "yes",
+            "predicted_label": "yes",
+            "generation_failed": false,
+            "is_correct": true,
+            "expected_sections": [
+                "2",
+                "29",
+                "30"
+            ],
+            "retrieved_sections": [
+                "176",
+                "174",
+                "94",
+                "172",
+                "173",
+                "43",
+                "508",
+                "134",
+                "52-a",
+                "154"
+            ],
+            "recall": 0.0
+        }
+    ]
+}

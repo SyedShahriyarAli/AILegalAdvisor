@@ -1,0 +1,986 @@
+[
+    {
+        "query": "Does disseminating blasphemous content on Facebook, targeting religious figures and hurting religious feelings, constitute hate speech under Section 11 of PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 11, PECA 2016-2025"
+        ],
+        "scenario_context": "I found extremely offensive images and text on Facebook, specifically on a profile named 'Salman Ahmad'. This content was blasphemous, targeting religious figures and sacred texts, and it deeply hurt my religious feelings. It was also shared in various Facebook groups. I reported it to the authorities. What can I do about this hateful content online?"
+    },
+    {
+        "query": "Do anti-state statements, false accusations against security agencies, and glorifying separatist groups on a YouTube channel, intended to incite hatred and create fear, fall under Section 10, Section 11, and Section 26A of PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 10, PECA 2016-2025",
+            "Section 11, PECA 2016-2025",
+            "Section 26A, PECA 2016-2025"
+        ],
+        "scenario_context": "I saw a video on a British Vlogger's YouTube channel where some people, including someone named Sajjad Amir, were giving interviews. They were spreading really offensive and misleading information, making anti-state statements, and falsely accusing our security agencies. They even glorified separatist groups and tried to incite hatred, saying our military is involved in terrorism. This kind of content is harmful to our country. What can be done about this?"
+    },
+    {
+        "query": "Does the illegal issuance of a SIM card using someone's CNIC without authorization, along with suspected phone tapping and hacking, constitute offenses under Section 16, Section 17, and Section 19 of PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 17, PECA 2016-2025",
+            "Section 16, PECA 2016-2025",
+            "Section 19, PECA 2016-2025"
+        ],
+        "scenario_context": "Someone illegally issued a SIM card using my CNIC number with Ufone, even though I never applied for it. I found out about it and reported it to PTA and FIA. I'm worried my identity information was misused. I also suspect my other mobile numbers are being tapped and my phone might be hacked, leading to suspicious activity in my contacts. What are my rights, and what can I do about this identity theft and potential hacking?"
+    },
+    {
+        "query": "Does posting false and humiliating information, including pictures with untrue captions, on social media to damage a person's reputation and cause distress, constitute an offense against the dignity of a natural person under Section 20 of PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 20, PECA 2016-2025"
+        ],
+        "scenario_context": "Someone has been posting false and humiliating information about me on social media, specifically on Facebook. They've shared pictures of me with untrue captions, damaging my reputation and causing me immense distress. I've asked them to stop, but they continue. I want to report this and get an FIR registered. What legal steps can I take to stop this online harassment and defamation?"
+    },
+    {
+        "query": "Does creating fake Facebook profiles using someone's name and photos, uploading vulgar content to defame and harass them, constitute unauthorized use of identity information, spoofing, and an offense against the dignity of a natural person under Sections 16, 20, and 26 of PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 16, PECA 2016-2025",
+            "Section 20, PECA 2016-2025",
+            "Section 26, PECA 2016-2025"
+        ],
+        "scenario_context": "Someone I know, Aamir Qayyum Janjua, created several fake Facebook profiles using my name and photos. He also uploaded vulgar comments and other inappropriate content on these profiles, all to defame and harass me and my family. This has caused me a lot of distress and damaged my reputation. I want to take legal action against him for misusing my identity and spreading harmful content online. What can I do?"
+    },
+    {
+        "query": "Does sharing content displaying sacred religious symbols on naked bodies with sacrilegious narration on social media constitute hate speech under Section 11 of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 11, PECA 2016"
+        ],
+        "scenario_context": "I am so distressed. I saw some absolutely horrifying content circulating on WhatsApp and Facebook. Someone took sacred names of Allah, the Holy Quran, and the Ahl-e-Bait, and displayed them on naked human bodies, with really offensive speech. It was deeply sacrilegious and spread so much hatred and disrespect for our religion. I feel my religious sentiments have been completely outraged. How can people share such hateful material online? What can be done about this?"
+    },
+    {
+        "query": "Can the National Cyber Crime Investigation Agency (NCCIA) freeze bank accounts during investigations into electronic fraud under Section 14 of PECA 2016 or unauthorized access under Section 3 of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 14, PECA 2016",
+            "Section 3, PECA 2016"
+        ],
+        "scenario_context": "My bank account, which holds my pension, has been frozen by the NCCIA, and I don't understand why. I'm a senior citizen, and this is causing me immense hardship. I was told it's related to some 'cyber investigation,' but I haven't done anything wrong. I can't access my money, and it's been a nightmare trying to get it unblocked. I need to know what kind of cybercrime could lead to my accounts being frozen and what I can do to get my money back if I'm innocent."
+    },
+    {
+        "query": "Does the alleged dissemination of blasphemous content using a linked Facebook ID and mobile number fall under Section 11 of PECA 2016 as hate speech?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 11, PECA 2016"
+        ],
+        "scenario_context": "I'm devastated. I found out that my Facebook ID and mobile number, or at least ones strongly linked to me, are being used to spread extremely offensive and blasphemous content. It's pictures and videos that insult our religion. I didn't create or share any of this, but I'm being accused. The FIA (now NCCIA) has even implicated me. It seems like the same fake content is being used in multiple cases, and I'm worried I'm being framed. How can I clear my name from this serious accusation?"
+    },
+    {
+        "query": "Do creating fake online documents using someone's name, spreading false damaging information, and constantly monitoring online activity with threatening messages constitute electronic forgery, offenses against dignity, and cyber stalking under Sections 13(1), 20(1), and 24(2) of PECA 2016, respectively?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 13(1), PECA 2016",
+            "Section 20(1), PECA 2016",
+            "Section 24(2), PECA 2016"
+        ],
+        "scenario_context": "I've been going through a horrible time. Someone has been creating fake documents online using my name and spreading false, damaging information about me. They've also been constantly monitoring my online activity, sending me threatening messages, and making me fear for my safety. It feels like I'm being stalked and defamed everywhere on the internet. My reputation is being ruined, and I'm terrified. What legal options do I have against this person?"
+    },
+    {
+        "query": "Does sharing private photos and videos publicly on Facebook to outrage modesty, combined with sending threatening and blackmailing messages on WhatsApp, constitute offenses against modesty under Section 21(1) and cyber stalking under Section 24(2) of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 21(1), PECA 2016",
+            "Section 24(2), PECA 2016"
+        ],
+        "scenario_context": "I am utterly mortified and terrified. Someone I knew has taken my private photos and videos and shared them publicly on Facebook, for everyone to see! My modesty has been outraged, and my reputation is ruined among my family and community. On top of that, he's been sending threatening and blackmailing messages to my husband and sons on WhatsApp, demanding things from us. I feel exposed, humiliated, and constantly in fear. What can I do to stop this and get justice?"
+    },
+    {
+        "query": "Does using someone's identity details to create fake online accounts and commit electronic fraud and forgery constitute offenses under Sections 13, 14, and 16(1) of PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 13, PECA 2016-2025",
+            "Section 14, PECA 2016-2025",
+            "Section 16(1), PECA 2016-2025"
+        ],
+        "scenario_context": "I'm in a terrible situation. Someone used my identity details, like my CNIC and other personal information, to create fake online accounts and then used those accounts to conduct some kind of electronic fraud. I just found out when the FIA Cyber Crime Wing contacted me about it. Now I'm scared I'll be held responsible for something I didn't do. I think they might have also forged some electronic documents in my name. What can I do, and what are the legal consequences for the person who did this?"
+    },
+    {
+        "query": "Does spreading provocative and misleading information online to incite public unrest and hatred against state institutions constitute a cybercrime under PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 9(1), PECA 2016-2025",
+            "Section 10, PECA 2016-2025",
+            "Section 20(1), PECA 2016-2025",
+            "Section 26A, PECA 2016-2025"
+        ],
+        "scenario_context": "I saw some really disturbing posts on 'X' (formerly Twitter) today. Someone was actively trying to get people to block major roads and disrupt electricity, all to create chaos and incite people against state institutions. It's really scary how easily this kind of propaganda can spread. Isn't there a law against spreading such hateful and provocative content online?"
+    },
+    {
+        "query": "Does the secret recording, manipulation, and public dissemination of a compromising video for blackmail and character assassination constitute cybercrimes under PECA 2016-2025, including electronic forgery and offenses against dignity?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 10, PECA 2016-2025",
+            "Section 13(1), PECA 2016-2025",
+            "Section 15, PECA 2016-2025",
+            "Section 20(1), PECA 2016-2025",
+            "Section 21(1), PECA 2016-2025",
+            "Section 24(1)(d), PECA 2016-2025"
+        ],
+        "scenario_context": "I'm a judge, and I've been a victim of a horrific smear campaign. Years ago, someone secretly recorded a compromising video of me, and now they've manipulated it and are using it to blackmail me. Recently, a political party even played parts of this manipulated video in a press conference to malign my character and the judiciary. My family's honor is at stake, and my career is in danger. This is an attack on my dignity and the institution I represent. What legal recourse do I have?"
+    },
+    {
+        "query": "Does an extortion attempt involving a physical raid followed by a demand for cryptocurrency via Telegram constitute electronic fraud under Section 14 of PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 14, PECA 2016-2025"
+        ],
+        "scenario_context": "My office was raided by a group of people pretending to be FIA Cyber Crime officials. They were armed, took our electronic devices, including laptops and mobile phones, and even took PKR 1.5 million in cash. Then, they contacted us via Telegram and demanded 150,000 USDT (cryptocurrency) to return our items. We were terrified! This is clearly extortion and impersonation, but since it involved online communication, is it a cybercrime?"
+    },
+    {
+        "query": "Is spreading false rumors online to damage a person's reputation considered an offense against dignity or false information under Sections 20(1) or 26A of PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 20(1), PECA 2016-2025",
+            "Section 26A, PECA 2016-2025"
+        ],
+        "scenario_context": "Someone is spreading completely false rumors about me online, saying things that are damaging my reputation in my community and even affecting my professional life. It's all over social media, and I don't know who started it, but it's clearly designed to harm me. I feel so violated and helpless. What can I do to stop this and hold them accountable?"
+    },
+    {
+        "query": "Does the allegation of 'financial fraud' against the call center employee, involving the use of an information system for dishonest gain, fall under Section 14 of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 14, PECA 2016"
+        ],
+        "scenario_context": "I'm just a low-paid call center employee, and suddenly, FIA Cybercrime sent me these vague notices about 'financial fraud' without any details. They didn't even tell me who complained or what exactly I did! I tried to cooperate, asked for details or a video link since I'm in Hyderabad and they're in Lahore, but they just ignored me. Now, my UBL and Easy Paisa accounts are frozen, and I can't even access my own money, all without any formal charges or a court order. This is causing me huge financial hardship and feels like harassment."
+    },
+    {
+        "query": "Do the actions of posting private and humiliating pictures on social media without consent, causing damage to reputation and modesty, constitute offenses under Sections 20, 21, and 24 of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 20, PECA 2016",
+            "Section 21, PECA 2016",
+            "Section 24, PECA 2016"
+        ],
+        "scenario_context": "Someone posted really disgusting and private pictures of me on social media. It was humiliating and has destroyed my reputation among my family and community. I found out that a person named Sanaullah was involved, at least he was with the main person who did this. I want to know what can be done to get these pictures removed and to punish those who shared them, especially since it's caused so much distress and damaged my honor."
+    },
+    {
+        "query": "Does the unauthorized taking and distribution of a person's photograph with false and defamatory comments on social media, causing harm to their reputation, constitute offenses under Sections 20 and 24 of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 20, PECA 2016",
+            "Section 24, PECA 2016"
+        ],
+        "scenario_context": "I was just trying to get a job, and during my interview at SPSC, someone secretly took my picture without my permission. The very same evening, that picture was all over social media with horrible, false, and defamatory comments about me and the exam process. It felt like a targeted attack to ruin my reputation and chances. I even went to FIA Cyber Crime, but they didn't do anything helpful. This has caused me so much distress and injustice."
+    },
+    {
+        "query": "Do Sections 29, 35, 41, and 43 of PECA 2016 define the powers of the National Cyber Crime Investigation Agency (NCCIA) during an inquiry and the rights of an individual, including confidentiality and limitations on arrest?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 29, PECA 2016",
+            "Section 35, PECA 2016",
+            "Section 41, PECA 2016",
+            "Section 43, PECA 2016"
+        ],
+        "scenario_context": "I've been called by the NCCIA (formerly FIA Cyber Crime) for an inquiry, but they are asking for so much information, and I'm scared about what might happen. I feel harassed and don't know if I should cooperate fully or what my rights are. I'm worried about being arrested or unfairly treated, and I just want them to act strictly according to the law and not cause me undue trouble."
+    },
+    {
+        "query": "If the National Cyber Crime Investigation Agency (NCCIA) concludes, after investigation, that no cybercrime offense under PECA 2016 was committed, as per Sections 29, 30, and 44, should the individual still remain in detention solely based on the initial referral?",
+        "answer": "No",
+        "gold_passages": [
+            "Section 29, PECA 2016",
+            "Section 30, PECA 2016",
+            "Section 44, PECA 2016"
+        ],
+        "scenario_context": "I was arrested and charged under serious anti-terrorism laws, but then the court said my case might involve cybercrime and sent it to the NCCIA. After a full investigation, the NCCIA found absolutely no evidence of any cybercrime against me and said my case doesn't fall under PECA. Despite this, I'm still in jail! I want to know why I'm still detained when the cybercrime agency cleared me and no other investigation or trial is pending."
+    },
+    {
+        "query": "Does creating and sharing blasphemous images and text about religious figures and holy books on WhatsApp, which causes distress and incites hatred, constitute hate speech under Section 11 of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 11, PECA 2016"
+        ],
+        "scenario_context": "I'm horrified. Someone created and shared extremely blasphemous images and text about Allah, our Holy Prophet (PBUH), and the Holy Quran on WhatsApp. They even put some of this sacrilegious content on naked human bodies. It's circulating and causing immense distress. I want to know what legal action can be taken under cybercrime law against the people spreading this hateful material."
+    },
+    {
+        "query": "Does secretly recording a person in a private situation on a mobile phone, with the potential intent to share it online or use it against them, constitute an offense against modesty under Section 21 of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 21, PECA 2016"
+        ],
+        "scenario_context": "My sister was found in a private situation, and someone was secretly recording it on a mobile phone. We are very worried that this video could be shared online or used against her. What are the cybercrime laws in Pakistan that protect her privacy and modesty, and what steps should we take to prevent this video from spreading?"
+    },
+    {
+        "query": "Does a beauty parlor owner secretly taking pictures of an undressed client and using them to blackmail her, threatening to make them viral, fall under Section 20 and Section 21 of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 20, PECA 2016",
+            "Section 21, PECA 2016"
+        ],
+        "scenario_context": "I'm terrified. I went to a beauty parlor, and the owner secretly took my pictures when I was undressed. She then showed them to me on her phone and tried to blackmail me into joining some 'porn racket,' threatening to make my private photos go viral if I didn't comply. I'm scared for my reputation and safety. What can I do legally under cybercrime law?"
+    },
+    {
+        "query": "Does the unauthorized use of a person's identity information, leading to their CNIC being blocked due to suspected fraudulent activities, constitute an offense under Section 16 of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 16, PECA 2016"
+        ],
+        "scenario_context": "My CNIC has been blocked, and I strongly suspect it's because someone might have stolen my identity information and used it illegally to create fake accounts or for other fraudulent activities. I'm worried about the implications of identity theft and need to know what legal actions I can take under cybercrime law to investigate this and clear my name."
+    },
+    {
+        "query": "Does the spread of blasphemous content on social media platforms like Facebook and WhatsApp that insults religion and incites hatred fall under Section 9 and Section 11 of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 9, PECA 2016",
+            "Section 11, PECA 2016"
+        ],
+        "scenario_context": "I'm deeply concerned about the spread of blasphemous content on social media platforms like Facebook and WhatsApp. I've seen posts and messages that insult our religion and could incite hatred. This is causing a lot of unrest, and I want to know what legal recourse is available under Pakistani cybercrime law to stop this and hold the perpetrators accountable."
+    },
+    {
+        "query": "Does illegally accessing a company's database, altering customer details, and creating fake credits for fraudulent cheques constitute offenses under Sections 3, 5, 13, and 14 of PECA 2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 3, PECA 2025",
+            "Section 5, PECA 2025",
+            "Section 13, PECA 2025",
+            "Section 14, PECA 2025"
+        ],
+        "scenario_context": "I just found out someone illegally accessed my company's entire database! They changed a lot of our customer details and even created fake credits for substantial amounts. It seems like they were preparing fraudulent bank cheques. This is a huge financial loss and a breach of trust. What can I do?"
+    },
+    {
+        "query": "Does being tricked into an online investment scheme resulting in a significant financial loss through online communication and transfers constitute electronic fraud under Section 14 of PECA 2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 14, PECA 2025"
+        ],
+        "scenario_context": "I was tricked into an online investment scheme. Someone convinced me to put in over 30 million PKR, promising huge returns. Now, they've vanished, and I've lost everything. It was all done through online communication and transfers. I feel completely cheated. What can I do?"
+    },
+    {
+        "query": "Does intentionally spreading false and harmful information about a person online, damaging their reputation, constitute an offense against the dignity of a natural person under Section 20 of PECA 2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 20, PECA 2025"
+        ],
+        "scenario_context": "Someone has been spreading false and harmful information about me online, damaging my reputation. It's affecting my business and personal life. I know it's a lie, and they're doing it intentionally. What legal steps can I take?"
+    },
+    {
+        "query": "Does using a fake online profile to spread extremely offensive and blasphemous images of religious figures and holy texts constitute hate speech under Section 11 of PECA 2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 11, PECA 2025"
+        ],
+        "scenario_context": "I'm horrified. Someone used a fake Facebook profile to spread extremely offensive and blasphemous images of religious figures and holy texts. This has caused a lot of anger and hurt in the community. What can be done about this kind of hate speech and blasphemy online?"
+    },
+    {
+        "query": "Does persistent unwanted online messaging, spying on social media activity, and sharing private photos without permission constitute cyberstalking and offenses against the modesty of a natural person under Sections 21 and 24 of PECA 2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 21, PECA 2025",
+            "Section 24, PECA 2025"
+        ],
+        "scenario_context": "I'm being harassed online. Someone is constantly messaging me, trying to contact me even after I've told them to stop. They've also been spying on my social media activity and sharing my private photos without my permission. I feel scared and violated. What can I do to stop this?"
+    },
+    {
+        "query": "Do the ex-partner's actions of sharing private nude videos, demanding money, and coercing for a physical relationship constitute offenses under Sections 20, 21, and 24 of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 20, PECA 2016",
+            "Section 21, PECA 2016",
+            "Section 24, PECA 2016"
+        ],
+        "scenario_context": "I am going through a nightmare. My ex-partner, Muhammad Yousif, is blackmailing me. He has my private nude videos and obscene photos, and he's been threatening to share them with everyone. He actually sent some of them to my family and relatives on Snapchat and WhatsApp! He's demanding money and is even trying to force me into a physical relationship. I've already given him some money out of fear, but it never stops. I feel so violated and terrified. What can I do?"
+    },
+    {
+        "query": "Do the actions of individuals impersonating FIA officials, seizing electronic devices and passports, and demanding ransom via Telegram, constitute offenses under Sections 3, 4, 14, 16, and 26 of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 3, PECA 2016",
+            "Section 4, PECA 2016",
+            "Section 14, PECA 2016",
+            "Section 16, PECA 2016",
+            "Section 26, PECA 2016"
+        ],
+        "scenario_context": "My office, a call center, was just raided by a group of people pretending to be FIA Cyber Crime officials. They were armed, took all our electronic devices, including computers and phones, employee passports, and even 1.5 million rupees in cash! Now, they're contacting us through Telegram, demanding 150,000 USDT to return our stuff. This is clearly a huge scam and a robbery. What kind of cybercrime is this, and what legal steps can we take?"
+    },
+    {
+        "query": "Does disseminating hateful messages and false information online to advance interfaith or sectarian hatred constitute an offense under Section 11 of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 11, PECA 2016"
+        ],
+        "scenario_context": "Someone has been spreading extremely hateful messages and false information online, targeting my religious community. These posts are designed to stir up anger and resentment between different groups, causing a lot of tension and fear in our society. It's on social media and widely shared. I'm worried it will lead to real-world violence. What can be done about this hate speech under Pakistani cybercrime law?"
+    },
+    {
+        "query": "Do the actions of impersonating FIA officials, seizing property, and demanding cryptocurrency via Telegram constitute electronic fraud under Section 14 of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 14, PECA 2016"
+        ],
+        "scenario_context": "We're running a legitimate call center, and a few weeks ago, armed individuals stormed in, claiming to be from FIA Cyber Crime. They took nearly all our equipment – laptops, phones, our DVR, even employee passports – and a significant amount of cash. Now they're demanding a huge sum in cryptocurrency via Telegram to return our property. It feels like a coordinated cyber-extortion scheme. How does PECA address this kind of electronic fraud and impersonation?"
+    },
+    {
+        "query": "Does Section 53 of PECA 2016 mandate the designated agency to submit half-yearly reports to both houses of Parliament regarding its cybercrime activities?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 53, PECA 2016"
+        ],
+        "scenario_context": "I'm a concerned citizen and I follow cybercrime issues closely. I've noticed that the FIA (now NCCIA) is legally required to submit half-yearly reports to Parliament detailing their cybercrime activities under Section 53 of PECA. However, it seems these reports aren't being consistently submitted or made public. What is the purpose of this reporting, and what are the implications if the agency responsible for fighting cybercrime isn't transparent about its operations to the Parliament?"
+    },
+    {
+        "query": "Do creating fake profiles, sharing private-explicit images, and cyber stalking constitute offenses against dignity, modesty, and cyber stalking under Sections 20, 21(1), and 24(1) of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 20, PECA 2016",
+            "Section 21(1), PECA 2016",
+            "Section 24(1), PECA 2016"
+        ],
+        "scenario_context": "Someone created fake profiles of me online and started sharing my private pictures, even edited some to make them look sexually explicit. They're also constantly messaging me, threatening to share more if I don't respond. I feel harassed and my reputation is ruined. What can I do?"
+    },
+    {
+        "query": "Does inducing someone to transfer money under false pretenses and using a fake identity for wrongful gain constitute electronic fraud under Section 14 and unauthorized use of identity information under Section 16(1) of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 14, PECA 2016",
+            "Section 16(1), PECA 2016"
+        ],
+        "scenario_context": "I was contacted on Instagram by someone claiming to be a diplomat, offering a great business opportunity. They asked me to pay 'tax and clearance fees' for a package. I transferred a large sum of money, but the package never arrived, and they've disappeared. I think I've been scammed."
+    },
+    {
+        "query": "Do unauthorized access to a phone, stealing personal data, and threatening to post it online for extortion fall under Sections 3, 4, and 20(1) of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 3, PECA 2016",
+            "Section 4, PECA 2016",
+            "Section 20(1), PECA 2016"
+        ],
+        "scenario_context": "Someone got into my phone and stole my personal photos and messages. Now they're threatening to post them online if I don't give them money. I'm terrified and don't know what to do."
+    },
+    {
+        "query": "Does spreading false and harmful information about a company online, damaging its reputation, constitute an offense under Section 26A of PECA 2016, and can it be removed under Sections 2C, 2R(1)(g) & (h), and 37(1) of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 26A, PECA 2016",
+            "Section 2C, PECA 2016",
+            "Section 2R(1)(g) & (h), PECA 2016",
+            "Section 37(1), PECA 2016"
+        ],
+        "scenario_context": "There's a website and social media accounts spreading totally false and harmful information about my company, claiming we're involved in illegal activities. It's damaging our reputation and causing a lot of panic among our customers. I need this content taken down urgently."
+    },
+    {
+        "query": "Does posting highly offensive and hateful content on social media targeting a religious community to incite violence constitute hate speech under Section 11 of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 11, PECA 2016"
+        ],
+        "scenario_context": "Someone has been posting highly offensive and hateful content on social media, specifically targeting a religious community and trying to incite violence. It's causing a lot of tension and fear. This needs to be stopped."
+    },
+    {
+        "query": "Does deceiving an InDrive driver into transferring PKR 18,000 to a JazzCash account by impersonating an Army officer for a fake 'consignment payment' constitute electronic fraud under Section 14 of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 14, PECA 2016"
+        ],
+        "scenario_context": "I'm an InDrive driver, and I got totally tricked! Someone on WhatsApp, pretending to be an Army officer, told me they had a parcel for me. They said I needed to transfer PKR 18,000 to a JazzCash account as a 'consignment payment' and they'd give it back when I delivered the parcel. I fell for it, sent the money, and now they've blocked me and disappeared. I lost my hard-earned money! This is so unfair, I trusted them."
+    },
+    {
+        "query": "Do creating and disseminating fake job advertisements online, impersonating a government agency like FIA, constitute electronic forgery under Section 13 and electronic fraud under Section 14 of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 13, PECA 2016",
+            "Section 14, PECA 2016"
+        ],
+        "scenario_context": "I saw an advertisement on Facebook for jobs in FIA, which seemed really promising. It had a WhatsApp number to contact. I was so excited, thinking it was a genuine opportunity. Later, I found out from the news that these were fake job ads, and someone was trying to trick people. I feel so betrayed that people would exploit others' hopes like this. What happens to people who create these fake job ads online?"
+    },
+    {
+        "query": "Does a family member sharing fabricated, sexually explicit pictures of individuals, including a minor, and sending abusive messages on WhatsApp and Facebook, constitute offenses against dignity, modesty, and cyber stalking under Sections 20, 21, and 24 of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 20, PECA 2016",
+            "Section 21, PECA 2016",
+            "Section 24, PECA 2016"
+        ],
+        "scenario_context": "This is a nightmare. Someone from my own family, due to an old dispute, has been sharing absolutely disgusting and fabricated pictures of me, my wife, and even my minor daughter on WhatsApp and Facebook. They've superimposed our faces onto sexually explicit images and sent abusive messages. Our reputation is ruined, and my family, especially my daughter, is terrified and deeply distressed. How can someone do this? What can be done to stop them and punish them?"
+    },
+    {
+        "query": "Is spreading online content that promotes interfaith, sectarian, or racial hatred considered hate speech under Section 11 of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 11, PECA 2016"
+        ],
+        "scenario_context": "I'm deeply concerned about some content I saw online. It was a post (or message) that was clearly promoting hatred between different religious groups in Pakistan. It used very inflammatory language and seemed designed to stir up trouble and animosity. I believe such content is dangerous and goes against our values. Is there a law against spreading this kind of hate online, and what can be done about it?"
+    },
+    {
+        "query": "Does an ex-brother-in-law sending obscene pictures of a person to their family member on WhatsApp constitute offenses against dignity, modesty, and cyber stalking under Sections 20, 21, and 24 of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 20, PECA 2016",
+            "Section 21, PECA 2016",
+            "Section 24, PECA 2016"
+        ],
+        "scenario_context": "My ex-brother-in-law is harassing me after he divorced my elder sister. He sent really obscene pictures of me to my own elder brother on WhatsApp! This is absolutely horrific, and it has devastated my family. My dignity and reputation are ruined, and it's caused so much distress. My family life is destroyed because of this. How can I get justice and stop him from doing this to anyone else?"
+    },
+    {
+        "query": "Does sharing a picture of a banker's cheque online, which is then used by fraudsters to tamper with another cheque and illegally cash over 7.6 million rupees, constitute electronic forgery and electronic fraud under PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 13, PECA 2016-2025",
+            "Section 14, PECA 2016-2025",
+            "Section 28, PECA 2016-2025"
+        ],
+        "scenario_context": "I was trying to buy a Toyota car I saw advertised on Pak Wheels. These guys, Ali Hamza and Tahir, contacted me pretending to be the real sellers. I got a banker's cheque for over 7.6 million rupees issued to 'Toyota Cantt Motors' and shared a picture of it on WhatsApp with them, but I never gave them the physical cheque. Later, I found out they somehow took my cheque details, tampered with another small cheque, and illegally cashed over 7.6 million rupees from the bank! My bank suffered a huge loss, and I feel completely cheated and betrayed. How could they do this using just a picture of a cheque online?"
+    },
+    {
+        "query": "Is an officer from the National Cyber Crime Investigation Agency (NCCIA) authorized under PECA 2016-2025 to seize a mobile phone without a proper warrant and engage in threats and harassment during an investigation?",
+        "answer": "No",
+        "gold_passages": [
+            "Section 29, PECA 2016-2025",
+            "Section 33, PECA 2016-2025",
+            "Section 35(2), PECA 2016-2025",
+            "Section 41, PECA 2016-2025"
+        ],
+        "scenario_context": "I'm in a long-standing land dispute with a relative, and now they've filed some kind of cybercrime complaint against me. An officer from the National Cyber Crime Investigation Agency (NCCIA) came and took my mobile phone without any proper procedure! They're threatening me with arrest and constantly harassing me and my family. I feel like my rights are being violated, and they're using this cybercrime angle just to pressure me over the land dispute."
+    },
+    {
+        "query": "Is the National Cyber Crime Investigation Agency (NCCIA) the sole authorized agency for the inquiry, investigation, and prosecution of offenses under PECA 2016-2025, replacing the FIA Cyber Crime Wing?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 29, PECA 2016-2025",
+            "Section 30, PECA 2016-2025"
+        ],
+        "scenario_context": "I heard about the new National Cyber Crime Investigation Agency (NCCIA) taking over from the FIA Cyber Crime Wing. If I ever become a victim of a cybercrime, who would I report it to? What powers does this new agency have to investigate cybercrimes in Pakistan?"
+    },
+    {
+        "query": "Does the unauthorized sharing of private, sexually explicit pictures on WhatsApp by an ex-partner for harassment and blackmail constitute an offense against the modesty of a natural person under Section 21(1) of PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 21(1), PECA 2016-2025",
+            "Section 20(1), PECA 2016-2025",
+            "Section 24(1), PECA 2016-2025",
+            "Section 28, PECA 2016-2025"
+        ],
+        "scenario_context": "I am utterly devastated and terrified. My ex-partner, Ishtiaq Ahmed, along with his friend, has shared my private, sexually explicit pictures on WhatsApp without my consent! They induced me to take these photos and now they're using them to harass and blackmail me. My reputation, honor, and modesty have been completely destroyed among my family and friends. I feel constantly scared and violated. What can I do to stop this and get justice?"
+    },
+    {
+        "query": "Does the unauthorized use of a person's identity details online to create fake documents or tamper with electronic records for the purpose of committing fraud and gaining money constitute electronic forgery, electronic fraud, and unauthorized use of identity information under PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 13, PECA 2016-2025",
+            "Section 14, PECA 2016-2025",
+            "Section 16, PECA 2016-2025",
+            "Section 28, PECA 2016-2025"
+        ],
+        "scenario_context": "I recently found out that someone used my identity details online to commit fraud and forgery. They created fake documents or tampered with electronic records to deceive people and gain money. I'm worried about the implications this could have for me. I heard the Cyber Crime Reporting Circle of FIA is investigating. What legal protections are there against such online fraud and forgery, and what happens to the people who commit these crimes?"
+    },
+    {
+        "query": "Does the act of a fake charity organization inducing someone to pay 'clearance fees' through WhatsApp and Facebook, resulting in financial loss, constitute electronic fraud and spoofing under PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 14, PECA 2016-2025",
+            "Section 26, PECA 2016-2025"
+        ],
+        "scenario_context": "I got these messages on WhatsApp and Facebook from someone claiming to be a charity organization. They said they wanted to donate a huge amount for a good cause, but first, I needed to pay some 'clearance fees' and 'taxes' to their bank account to release the funds. I really believed them, so I transferred a significant sum. Now I realize it was all a scam, and they've disappeared with my money. I feel so foolish and devastated. How could they trick me like this?"
+    },
+    {
+        "query": "Does the unauthorized issuance of a SIM card using a person's CNIC without their knowledge or consent constitute an offense under Section 17 and Section 16 of PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 17, PECA 2016-2025",
+            "Section 16, PECA 2016-2025"
+        ],
+        "scenario_context": "I just found out that a SIM card was illegally issued in my name, using my CNIC, without my knowledge or consent by Ufone! I'm so worried about what they might have used it for. What if someone committed a crime using my identity? I've complained to PTA and FIA, and they said it was a 'human error' and blocked it, but I'm still scared about my other numbers possibly being tapped and the misuse of my personal information. How can I protect myself and ensure this doesn't happen again?"
+    },
+    {
+        "query": "Do the actions of an ex-partner recording and distributing sexually explicit videos and pictures without consent on Instagram and WhatsApp constitute offenses against modesty, dignity, and cyber stalking under PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 21, PECA 2016-2025",
+            "Section 20, PECA 2016-2025",
+            "Section 24, PECA 2016-2025"
+        ],
+        "scenario_context": "My ex-partner recorded sexually explicit videos and pictures of me without my consent. Now, he's gone and uploaded them to Instagram and sent them to my ex-husband's WhatsApp, and apparently, to over thirty other people! My reputation is ruined, my privacy is completely violated, and I'm absolutely devastated. My family knows, and I feel so much shame. I can't believe he would do something so cruel. What can I do?"
+    },
+    {
+        "query": "Does unauthorized access to a personal computer and the alteration or deletion of files without permission constitute unauthorized access to an information system or data and interference with an information system or data under PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 3, PECA 2016-2025",
+            "Section 5, PECA 2016-2025"
+        ],
+        "scenario_context": "I discovered that someone accessed my personal computer without my permission. I noticed unusual activity on my accounts and some files were missing or altered. I don't know who did it or what they wanted, but I'm really worried about my personal data and privacy. Is this a crime, and what can I do about it?"
+    },
+    {
+        "query": "Can a person be held accountable under Section 26A of PECA 2016-2025 for intentionally spreading false information on Facebook about a 'drone attack' that causes public panic and fear?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 26A, PECA 2016-2025"
+        ],
+        "scenario_context": "I saw a Facebook post where someone claimed there was a 'drone attack' in Gaji Khuhawar. This information spread quickly and caused a lot of panic and fear in the community, especially with the current security situation. I know it wasn't true, and it really disrupted public peace. Can this person be held accountable for spreading such fake news online?"
+    },
+    {
+        "query": "Does relentlessly spreading false and hateful information online, including a person's picture and a private video without consent, using multiple fake social media accounts, and damaging their reputation, constitute offenses under Sections 20, 21, and 24(d) of PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 20, PECA 2016-2025",
+            "Section 21, PECA 2016-2025",
+            "Section 24(d), PECA 2016-2025"
+        ],
+        "scenario_context": "Someone is relentlessly spreading false and hateful information about me online, including my picture and a video from a private meeting, using multiple fake social media accounts. This started after I exposed their wrongdoings. It's severely damaging my reputation and causing immense distress. What can I do under Pakistani cybercrime law?"
+    },
+    {
+        "query": "Does fraudulently removing someone from their position as a director and CEO by gaining unauthorized access to their SECP portal login credentials and filing false official documents like Form 9, without their knowledge or consent, constitute cybercrimes under Sections 3, 13, and 14 of PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 3, PECA 2016-2025",
+            "Section 13, PECA 2016-2025",
+            "Section 14, PECA 2016-2025"
+        ],
+        "scenario_context": "I was fraudulently removed from my position as a director and CEO of a company. Someone gained unauthorized access to my login credentials for the Securities & Exchange Commission of Pakistan (SECP) portal and filed official documents like Form 9, falsely reporting my retirement. This was done without my knowledge or consent. What cybercrime laws have been violated, and what are the penalties?"
+    },
+    {
+        "query": "Can a public figure's video circulated on Twitter, making serious accusations against a Chief Minister and leading to an inquiry for a 'highly intimidating campaign against state functionaries and creating violence in public and society through information system', fall under Sections 2R(1)(b), (e), (h), 11, and 26A of PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 2R(1)(b), PECA 2016-2025",
+            "Section 2R(1)(e), PECA 2016-2025",
+            "Section 2R(1)(h), PECA 2016-2025",
+            "Section 11, PECA 2016-2025",
+            "Section 26A, PECA 2016-2025"
+        ],
+        "scenario_context": "As a public figure, I've received an official notice from the FIA Cyber Crime Wing in Lahore about an inquiry against me. They claim I'm involved in a 'highly intimidating campaign against state functionaries and creating violence in public and society through information system' because of a video circulated on my Twitter where I made serious accusations against a Chief Minister. This feels like political targeting, and the notice is vague. What are the legal implications and my rights?"
+    },
+    {
+        "query": "Do accusations of tampering with communication equipment, intimidating a natural person with sexual acts or sexually explicit images-videos, enticing a natural person to engage in a sexually explicit act, and producing-distributing-possessing child pornography, fall under Sections 18, 21(1)(c), 21(1)(d), and 22 of PECA 2016-2025, respectively?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 18, PECA 2016-2025",
+            "Section 21(1)(c), PECA 2016-2025",
+            "Section 21(1)(d), PECA 2016-2025",
+            "Section 22, PECA 2016-2025"
+        ],
+        "scenario_context": "I've been arrested and accused of very serious cybercrimes, specifically under PECA sections 18, 21(1)(c), 21(1)(d), and 22. I don't understand these charges fully and strongly deny them. What do these sections entail, what are the potential punishments, and what should I do next?"
+    },
+    {
+        "query": "Can being part of WhatsApp groups spreading blasphemous content, such as images and videos disrespecting religious figures and symbols, lead to charges under Sections 9, 10, and 11 of PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 9, PECA 2016-2025",
+            "Section 10, PECA 2016-2025",
+            "Section 11, PECA 2016-2025"
+        ],
+        "scenario_context": "I've been arrested because I was allegedly part of WhatsApp groups spreading blasphemous content, like images and videos disrespecting religious figures and symbols. My mobile phone and SIM were recovered by the authorities. I'm in jail and need to know what specific PECA sections apply, the potential penalties, and what my legal standing is."
+    },
+    {
+        "query": "Does the act of tricking a 13-year-old into sending sexually explicit pictures and then using those to harass and blackmail him constitute offenses under Sections 16, 21, 22, and 24 of PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 16, PECA 2016-2025",
+            "Section 21, PECA 2016-2025",
+            "Section 22, PECA 2016-2025",
+            "Section 24, PECA 2016-2025"
+        ],
+        "scenario_context": "My 13-year-old son recently became friends with someone on Snapchat. This person then tricked him into sending sexually explicit pictures and videos. Now, they're using those to harass and blackmail him, threatening to share them if he doesn't do what they say. My son is terrified and it's clear they're involved in child sexual exploitation. What can I do?"
+    },
+    {
+        "query": "Does constantly posting false and nasty things about a person on social media, including superimposing their photos onto sexually explicit images and sharing them publicly, constitute offenses against dignity and modesty under Sections 20 and 21 of PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 20, PECA 2016-2025",
+            "Section 21, PECA 2016-2025"
+        ],
+        "scenario_context": "Someone I know has been constantly posting false and really nasty things about me on various social media platforms. They've even used my photos and superimposed them onto sexually explicit images, sharing them publicly to humiliate me. My reputation is being completely destroyed, and I feel violated and unsafe. What legal recourse do I have in Pakistan?"
+    },
+    {
+        "query": "Does spreading completely false and damaging rumors about a person online, affecting their personal and professional life, constitute an offense against the dignity of a natural person under Section 20 of PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 20, PECA 2016-2025"
+        ],
+        "scenario_context": "I'm extremely worried because someone has been spreading completely false and damaging rumors about me online. They're posting on different social media sites, saying things that are not true and are making people turn against me. It's really affecting my personal and professional life. I want to know what legal steps I can take to stop this person and clear my name."
+    },
+    {
+        "query": "Does creating multiple fake social media accounts to post vulgar, obnoxious, and sexually explicit comments and send direct threats about a person and their family constitute offenses under Sections 20 and 24 of PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 20, PECA 2016-2025",
+            "Section 24, PECA 2016-2025"
+        ],
+        "scenario_context": "I'm being terrorized online! Someone has created multiple fake social media accounts, including on TikTok, and they're using them to post incredibly vulgar, obnoxious, and sexually explicit comments about me and my family. They're also sending us direct threats. This is causing immense distress and fear. How can I make them stop and seek justice?"
+    },
+    {
+        "query": "Does the fraudulent transfer of a large sum of money from a corporate bank account through unauthorized electronic transactions constitute electronic fraud under Section 14 of PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 14, PECA 2016-2025"
+        ],
+        "scenario_context": "Our company has been a victim of a sophisticated online scam. A large sum of money was fraudulently transferred from our corporate bank account through unauthorized electronic transactions. We suspect someone interfered with our payment systems or deceived us into approving these transfers. We need to recover our funds and bring the culprits to justice. What are our legal options?"
+    },
+    {
+        "query": "Does the act of impersonating politicians to defraud someone of money using SIMs registered to others constitute electronic fraud, electronic forgery, and unauthorized use of identity information under Sections 13, 14, and 16 of PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 13, PECA 2016-2025",
+            "Section 14, PECA 2016-2025",
+            "Section 16, PECA 2016-2025"
+        ],
+        "scenario_context": "I got these calls from people pretending to be important politicians, a Senator and an MPA. They convinced me to send money, Rs. 50,000 each, to two Easypaisa accounts. I sent a total of Rs. 100,000. Later, I found out it was all a trick, and the people who took my money were using SIMs registered to other people. I feel so cheated and violated. Can anything be done about this cyber fraud?"
+    },
+    {
+        "query": "If the serious cybercrime mentioned in the scenario involved defaming the person online, would Section 20 of PECA 2016-2025 be an applicable section?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 20, PECA 2016-2025"
+        ],
+        "scenario_context": "I've been trying for ages to get the authorities to register an FIR against someone who committed a serious cybercrime against me. I filed a complaint with the FIA Cyber Crime Wing back in 2023, and even got a court order directing them to investigate and register an FIR if a cognizable offense was found. But it's 2025 now, and they still haven't properly recorded my statement or taken action. I submitted another application last year, but nothing. I feel completely ignored and helpless. What should I do to make sure my case is properly investigated and an FIR is finally registered under cybercrime laws?"
+    },
+    {
+        "query": "Do the acts of sending disturbing messages and images online, threatening sexual acts, tampering with communication devices, and potential involvement in child pornography, constitute offenses under Sections 18, 21(1)(c), 21(1)(d), and 22 of PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 18, PECA 2016-2025",
+            "Section 21(1)(c), PECA 2016-2025",
+            "Section 21(1)(d), PECA 2016-2025",
+            "Section 22, PECA 2016-2025"
+        ],
+        "scenario_context": "I am terrified. Someone has been sending me really disturbing messages and images online, threatening me with sexual acts and trying to pressure me into doing things I don't want to do. They even seem to have tampered with some of my communication devices. I suspect they might be involved in child pornography too. I feel completely unsafe and violated. What legal recourse do I have under Pakistani cybercrime law for these horrific acts?"
+    },
+    {
+        "query": "Does the online dissemination of clips and discussions from a political speech to spread interfaith, sectarian, or racial hatred, leading to hate messages and threats, fall under Section 11 (Hate speech) and Section 2R(1)(e) (Unlawful or offensive online content) of PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 11, PECA 2016-2025",
+            "Section 2R(1)(e), PECA 2016-2025"
+        ],
+        "scenario_context": "My family and I have been receiving a lot of hate messages and threats online after a political speech was aired that some people found offensive. The speech itself was on TV, but now clips and discussions are all over social media, and people are using it to spread hatred and division. I'm worried about the safety of my family and the general atmosphere of hostility. Can anything be done under cybercrime laws to stop the spread of this hate speech online and hold those responsible accountable?"
+    },
+    {
+        "query": "Do the acts of illegally obtaining and uploading personal pictures with vulgar captions to a WhatsApp group, and sending disgusting text messages, voice messages, and GIF images, constitute offenses against dignity, modesty, and cyber stalking under Sections 20, 21(1)(b), and 24(1)(d) of PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 20, PECA 2016-2025",
+            "Section 21(1)(b), PECA 2016-2025",
+            "Section 24(1)(d), PECA 2016-2025"
+        ],
+        "scenario_context": "My husband, who I'm having a matrimonial dispute with, along with his friends, illegally got hold of my personal pictures and those of my mother. They then uploaded them to a WhatsApp group called 'Irum Kajri' with extremely vulgar and sexually explicit captions. They've also been sending me and my family disgusting text messages, voice messages, and GIF images. This is causing us immense distress and is a complete violation of our privacy and dignity. I feel harassed and humiliated. What can I do to stop this and get justice under cybercrime law?"
+    },
+    {
+        "query": "Does sharing blasphemous content on Facebook under a fake name, insulting religious figures and causing distress, constitute hate speech under Section 11 of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 11, PECA 2016"
+        ],
+        "scenario_context": "I just saw some absolutely disgusting and blasphemous images and text being shared on Facebook. Someone created a profile under a fake name, 'Salman Ahmad', and is posting content that insults our Holy Prophet (PBUH), the Quran, and other sacred religious figures. It's causing so much distress and hurt to religious feelings. What can I do about this online hate speech?"
+    },
+    {
+        "query": "Do unauthorized access to personal information and bank details, followed by electronic fraud and potential money transfer, fall under Sections 3, 4, 13, 14, and 16 of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 3, PECA 2016",
+            "Section 4, PECA 2016",
+            "Section 13, PECA 2016",
+            "Section 14, PECA 2016",
+            "Section 16, PECA 2016"
+        ],
+        "scenario_context": "I think I've been a victim of a sophisticated online scam. Someone got access to my personal information and bank details, and I suspect they've used it to carry out electronic fraud. My money might have been transferred without my knowledge. I need to know what laws protect me and what I can do."
+    },
+    {
+        "query": "Does illegally accessing a bank account, transferring a significant amount of money, and withdrawing it from an ATM constitute offenses under Sections 3, 5, and 14 of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 3, PECA 2016",
+            "Section 5, PECA 2016",
+            "Section 14, PECA 2016"
+        ],
+        "scenario_context": "Someone illegally accessed my bank account and transferred a significant amount of money without my permission. They even withdrew a portion of it from an ATM. I don't know how they got my information, but this is clearly a case of online fraud and theft. What steps should I take and what laws are applicable?"
+    },
+    {
+        "query": "Is the online dissemination of offensive and hateful content that promotes disrespect towards religious beliefs and causes social tension considered hate speech under Section 11 of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 11, PECA 2016"
+        ],
+        "scenario_context": "I'm very concerned about some offensive and hateful content being spread online. It's not just regular criticism, it's actively promoting hatred and disrespect towards religious beliefs. This is causing a lot of tension in society. What can be done under cybercrime laws to stop this kind of hate speech?"
+    },
+    {
+        "query": "Do creating a fake online profile, uploading and sharing intimate pictures without consent, and causing reputational damage and distress constitute offenses under Sections 20, 21, and 24 of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 20, PECA 2016",
+            "Section 21, PECA 2016",
+            "Section 24, PECA 2016"
+        ],
+        "scenario_context": "My ex-fiancé created a fake Facebook profile using my name and uploaded my personal and intimate pictures without my consent. He also sent these pictures to my husband, which led to my marriage breaking down. My reputation is ruined, and I feel completely violated and stalked. What legal recourse do I have under cybercrime laws?"
+    },
+    {
+        "query": "Does the act of a scammer posing as a bank agent to induce someone to transfer funds for 'processing fees' through electronic means, resulting in financial loss, constitute electronic fraud under Section 14 of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 14, PECA 2016"
+        ],
+        "scenario_context": "I was completely fooled! This person, calling himself 'Khadim' and claiming to be from a London bank, promised me a huge sum for social welfare. He said I just needed to deposit some 'processing fees'. I ended up sending over 2.6 million rupees through various bank accounts and even Western Union. He even came to meet me, looking all official. Now I find out he's a Nigerian scammer with a fake passport! I've lost everything and feel utterly betrayed."
+    },
+    {
+        "query": "Can a private company's failure to deliver a complete software system for an IT project, after receiving substantial public funds, be construed as electronic fraud under Section 14 of PECA 2016 if driven by a dishonest intention for wrongful gain?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 14, PECA 2016"
+        ],
+        "scenario_context": "Our government started this big 'E-Services at CDA' project, supposed to modernize things, and we paid a private company over 43 million rupees to develop the software. It's been ten years, and they still haven't delivered a complete, working system. We've lost millions of public funds, and the citizens aren't getting the services they were promised. It feels like a massive fraud where they took our money and just didn't deliver what was agreed upon for an IT project."
+    },
+    {
+        "query": "Does posting extremely offensive and hateful comments about religious figures on a public platform like Facebook, with the potential to incite sectarian hatred, fall under 'Hate Speech' (Section 11) or 'Cyber Terrorism' (Section 10) under PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 10, PECA 2016",
+            "Section 11, PECA 2016"
+        ],
+        "scenario_context": "I saw this person, Shaukat Ali, posting extremely offensive and hateful comments about the Holy companions on his Facebook profile. It was deeply disturbing and caused a lot of anger and distress among me and other people of faith. This isn't just criticism; it's hate speech designed to incite sectarian hatred and disrespect our religious figures online. It really shook our community."
+    },
+    {
+        "query": "Can the use of mobile phones and digital communication to conduct illegal foreign exchange and Hawala-Hundi operations for wrongful gain, bypassing legal channels and harming the national economy, be considered 'electronic fraud' under Section 14 of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 14, PECA 2016"
+        ],
+        "scenario_context": "I'm concerned about people running illegal foreign exchange and Hawala-Hundi operations. They're using mobile phones and digital communication to bypass legal channels, moving huge amounts of foreign currency like USD and Saudi Riyals. This is harming our economy and destabilizing our currency. It feels like they're defrauding the system and the country for their own wrongful gain, and I want to know what can be done about it under cybercrime laws, since they're using digital tools."
+    },
+    {
+        "query": "Do actions of a person relentlessly defaming and harassing family members and their business online by spreading false rumors and baseless allegations through WhatsApp and multiple Facebook IDs constitute 'Offences against dignity of a natural person' (Section 20), 'Cyber stalking' (Section 24), or 'Punishment for false and fake information' (Section 26A) under PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 20, PECA 2016",
+            "Section 24, PECA 2016",
+            "Section 26A, PECA 2016"
+        ],
+        "scenario_context": "My own son has been relentlessly defaming and harassing me and our family business online! He's using WhatsApp and multiple Facebook IDs to spread false rumors, calling us 'scammers' on our business page, and making all sorts of baseless allegations. This has caused immense mental distress and seriously damaged our reputation. It's a clear case of cyber-stalking and defamation, and I need help to stop this online abuse."
+    },
+    {
+        "query": "Does secretly recording and uploading private pictures and videos, sending them via WhatsApp, and transmitting vulgar messages about a person, constitute offenses under Sections 20, 21, and 24 of PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 20, PECA 2016-2025",
+            "Section 21, PECA 2016-2025",
+            "Section 24, PECA 2016-2025"
+        ],
+        "scenario_context": "I'm so distraught. My ex, Amir, secretly recorded my personal pictures and videos without my permission. Now he's gone and uploaded them, even sent them from my sister's and friend's WhatsApp to other people. He's also sending really vulgar and abusive messages about me. My reputation is ruined, and I feel so exposed and humiliated among my family and friends. This is destroying my life."
+    },
+    {
+        "query": "Does posting hateful, offensive, and blasphemous content against Allah, the Holy Qur'an, and the Holy Prophet (PBUH) on Instagram, which causes distress and could incite religious hatred, constitute offenses under Sections 10, 11, and 26A of PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 10, PECA 2016-2025",
+            "Section 11, PECA 2016-2025",
+            "Section 26A, PECA 2016-2025"
+        ],
+        "scenario_context": "Someone I know has been posting incredibly hateful and offensive messages on Instagram. They're sharing derogatory remarks and blasphemous content against Allah, the Holy Qur'an, and our Holy Prophet (PBUH). This is causing so much distress and anger in our community. I'm afraid this could incite serious religious hatred. What can be done?"
+    },
+    {
+        "query": "Does actively spreading blasphemous content in WhatsApp groups and Facebook pages, including sharing images of oneself with blasphemous writings, constitute offenses under Sections 10, 11, and 26A of PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 10, PECA 2016-2025",
+            "Section 11, PECA 2016-2025",
+            "Section 26A, PECA 2016-2025"
+        ],
+        "scenario_context": "I'm horrified. I've found out that someone I know, Syed Abdul Aziz, has been part of WhatsApp groups and Facebook pages where they're actively spreading blasphemous content. I heard from the authorities that they even found his phone with really offensive images, some showing him with blasphemous writings on his body, and that he shared them. This is deeply disturbing and offensive to our religious sentiments. What can I do to ensure this kind of hate speech is stopped and he's held accountable?"
+    },
+    {
+        "query": "Can a mobile phone's data be considered 'expired' in a forensic context, preventing recovery, under the principles outlined in Sections 31, 35, and 40 of PECA 2016-2025?",
+        "answer": "No",
+        "gold_passages": [
+            "Section 31, PECA 2016-2025",
+            "Section 35, PECA 2016-2025",
+            "Section 40, PECA 2016-2025"
+        ],
+        "scenario_context": "I'm involved in a rent dispute, and my landlord's mobile phone was supposed to be forensically analyzed to prove some crucial facts. But the police's forensic division just gave a report saying the phone 'expired' in 2017 and couldn't be extracted! This sounds ridiculous. I asked the court to send it to the Cyber Crime Wing, but they refused. What does 'expired' even mean for a phone, and can the cybercrime authorities really not recover data from an old phone?"
+    },
+    {
+        "query": "Does circulating highly offensive and blasphemous material on Instagram, where the individual is linked via IP address and phone recovery, constitute offenses under Sections 10, 11, and 26A of PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 10, PECA 2016-2025",
+            "Section 11, PECA 2016-2025",
+            "Section 26A, PECA 2016-2025"
+        ],
+        "scenario_context": "I'm extremely concerned because I've learned that a close acquaintance, Muhammad Bilal, has been actively involved in circulating highly offensive and blasphemous material on Instagram. He's posting derogatory remarks against religious figures and sacred texts, and it's causing immense anger and potential for unrest. The authorities mentioned recovering his phone and linking him via IP address. What exactly can be done to hold him accountable and stop the spread of this harmful content?"
+    },
+    {
+        "query": "Does the act of impersonating a bank's helpline to obtain a customer's ATM PIN and OTP, leading to an unauthorized transaction of Rs. 150,000, constitute electronic fraud, unauthorized use of identity information, and spoofing under PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 14, PECA 2016",
+            "Section 16(1), PECA 2016",
+            "Section 26(1), PECA 2016"
+        ],
+        "scenario_context": "I got a call from a number that looked exactly like my bank's helpline, 111-111-425. The person on the other end said they were from the bank and needed to verify my account details for 'security purposes.' They asked for my ATM PIN and a one-time password (OTP), which I gave them because I thought it was legitimate. Shortly after, Rs. 150,000 was taken from my account in an unauthorized transaction. I'm so stressed, what can I do?"
+    },
+    {
+        "query": "Does creating websites to illegally sell sensitive personal data of Pakistani citizens, including CNIC numbers and call detail records sourced from NADRA, for financial gain through Google AdSense, fall under unauthorized access-transmission of critical infrastructure data, electronic fraud, and potentially cyber terrorism under PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 6, PECA 2016",
+            "Section 7, PECA 2016",
+            "Section 10, PECA 2016",
+            "Section 14, PECA 2016"
+        ],
+        "scenario_context": "I discovered that someone has created multiple websites, like 'simownerdata.xyz.online' and 'pakdb.Prov', which are illegally selling sensitive personal data of Pakistani citizens. This includes CNIC numbers, addresses, mobile numbers, and even call detail records, all sourced from NADRA records. They're making money off this by using Google AdSense. This is a huge breach of privacy and national security. What kind of crime is this under Pakistani law?"
+    },
+    {
+        "query": "Does posting inflammatory online content that promotes hatred between different religious groups and incites violence against certain communities constitute hate speech or glorification of an offence under PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 11, PECA 2016",
+            "Section 9(1), PECA 2016"
+        ],
+        "scenario_context": "Someone I know has been posting really inflammatory content online. They're sharing messages that clearly promote hatred between different religious groups and even inciting violence against certain communities. It's causing a lot of tension and fear. I'm worried about the legal implications of such actions in Pakistan."
+    },
+    {
+        "query": "Could an old FIR from 2013 related to telecommunication fraud, which resulted in a blocked CNIC and blacklisted passport, be considered under PECA 2016 as offenses like unauthorized issuance of SIM cards or tampering with communication equipment?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 17, PECA 2016",
+            "Section 18, PECA 2016"
+        ],
+        "scenario_context": "I was recently informed that my CNIC was blocked, and my passport was blacklisted due to an old FIR from 2013. Apparently, it was related to some telecommunication fraud. I don't even know the specifics, but I'm trying to figure out what kind of cybercrime could have caused this and what the current laws say about it."
+    },
+    {
+        "query": "Does selling a car advertised online with a completely fake and forged invoice from a company like Indus Motors Company constitute electronic fraud and electronic forgery under PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 13(1), PECA 2016",
+            "Section 14, PECA 2016",
+            "Section 16(1), PECA 2016"
+        ],
+        "scenario_context": "I bought a car advertised online through OLX. Everything seemed fine, but when I later checked the vehicle, I found out the invoice from Indus Motors Company was completely fake and forged. This means I paid for a car based on fraudulent documents. What are my legal options under cybercrime law in Pakistan?"
+    },
+    {
+        "query": "Does online harassment of a minor, including intimidation and false FIRs, constitute cyber stalking under Section 24 of PECA 2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 16, PECA 2025",
+            "Section 20, PECA 2025",
+            "Section 24, PECA 2025"
+        ],
+        "scenario_context": "My daughter, she's just a young girl, and this Kashif Shaikh has been harassing her online using his mobile. It's not just her, our whole family is suffering. They even filed a false FIR against us to make us drop the case! I'm scared, they're constantly pressuring us, even having 'hot words' with my husband. We just want justice and for this harassment to stop, especially since my daughter is so young."
+    },
+    {
+        "query": "Is a person legally obligated to attend an inquiry initiated by the NCCIA under PECA 2025, even if they feel the notice is unclear?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 2(vib), PECA 2025",
+            "Section 29, PECA 2025",
+            "Section 30, PECA 2025"
+        ],
+        "scenario_context": "I just got this notice from the NCCIA, telling me to show up for an inquiry. I don't even know what it's fully about, but I feel like it's unfair and maybe even illegal. Do I really have to go? What are my rights here? I'm worried about what this means for me and if they can just call me in without clear reasons."
+    },
+    {
+        "query": "Can the FIA Cyber Crime Wing (now NCCIA) legally re-open an inquiry into a cybercrime offense under PECA, even if the individual was previously cleared?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 29, PECA 2016-2025",
+            "Section 30, PECA 2016-2025",
+            "Section 50A, PECA 2025"
+        ],
+        "scenario_context": "I'm a bank manager, and someone keeps making complaints against me about embezzlement and other things. The FIA Cyber Crime Wing already investigated this and cleared my name! Now, after all that, they want to re-open the inquiry? This is so unfair, it feels like endless harassment, and it's ruining my reputation and career. Can they even do this after I've been cleared once?"
+    },
+    {
+        "query": "Does disseminating information online that advances interfaith, sectarian, or racial hatred constitute hate speech under Section 11 of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 11, PECA 2016"
+        ],
+        "scenario_context": "Someone has been spreading really hateful and offensive content online, targeting different religions and communities. It's causing so much tension and fear among people. This kind of speech needs to be stopped, it's against our values and our laws. What can be done about people who use the internet to spread such dangerous messages?"
+    },
+    {
+        "query": "Does online fraud involving the use of forged documents and manipulated information to cause financial loss fall under Section 13 (Electronic forgery) and Section 14 (Electronic fraud) of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 13, PECA 2016",
+            "Section 14, PECA 2016"
+        ],
+        "scenario_context": "I was defrauded online, and forged documents were used to cheat me out of a significant amount of money. The criminals created fake identities and manipulated information to make it look legitimate. It was a complete scam, and I lost everything. I need to know if there's a way to get justice for this kind of elaborate online fraud."
+    },
+    {
+        "query": "Does an online investment scam, where individuals are deceived into transferring money for wrongful gain, constitute electronic fraud under Section 14 of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 14, PECA 2016",
+            "Section 3, PECA 2016",
+            "Section 4, PECA 2016"
+        ],
+        "scenario_context": "I'm a retired doctor and I lost a huge amount of my savings to an online investment scam. These people contacted me online, promised high returns, and convinced me to transfer money into a bank account. Now it turns out the person whose account was used claims they're innocent and their details were just used by others. I feel so cheated and helpless. Can anything be done under cybercrime law?"
+    },
+    {
+        "query": "Could an initial cybercrime accusation related to banking transactions, involving allegations of using digital means to deceive individuals for financial benefit, have been filed under Section 14 of PECA 2016 for electronic fraud?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 14, PECA 2016"
+        ],
+        "scenario_context": "I was accused of a cybercrime related to banking transactions a few years ago. The FIA registered a case against me under PECA and PPC, but I was fully acquitted by the Special Court. Now, despite my acquittal, I can't renew my passport and I'm on some travel ban list. This is ruining my career and my life! How can this happen after I've been cleared? What can I do to get my name off these lists and get my passport back?"
+    },
+    {
+        "query": "Does spreading false and defamatory information about a person online with the intent to harm their reputation fall under Section 20 of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 20, PECA 2016"
+        ],
+        "scenario_context": "I filed a complaint with the FIA Cyber Crime Wing months ago about someone spreading false and defamatory information about me online, completely ruining my reputation. The court even ordered the DG FIA to decide on my application within 15 days, but it's been so long, and I haven't heard anything concrete. It feels like my complaint is just stuck in the system. What usually happens after I file a complaint, and how can I get the authorities to take action?"
+    },
+    {
+        "query": "Does repeatedly contacting someone online despite their disinterest, monitoring their social media, and causing them fear, alarm, or distress, constitute cyberstalking under Section 24 of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 24, PECA 2016"
+        ],
+        "scenario_context": "I'm being cyberstalked by someone online. They keep following me, trying to contact me even after I've made it clear I'm not interested, and even monitoring my social media. It's making me feel so unsafe and anxious. I've already filed a complaint with the FIA Cyber Crime, but I want to understand what exactly the law says about this and what kind of protection I can expect. This is a very personal and sensitive crime, and I need help."
+    },
+    {
+        "query": "Do online harassment and blackmail involving threats and demands for money through messages and social media fall under Section 14 (Electronic fraud) and Section 24 (Cyber stalking) of PECA 2016?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 14, PECA 2016",
+            "Section 24, PECA 2016"
+        ],
+        "scenario_context": "I'm being harassed and blackmailed online by someone who keeps threatening me if I don't pay them money. They're using messages and social media to make me feel scared and pressured. I've heard about cybercrime laws, but I'm not sure which specific sections apply to blackmail and online threats. What can I do to stop this and bring them to justice?"
+    },
+    {
+        "query": "Does constantly harassing and defaming someone online by spreading false rumors on Facebook, causing stress and affecting reputation, constitute offenses under Section 20 and Section 24 of PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 20, PECA 2016-2025",
+            "Section 24, PECA 2016-2025"
+        ],
+        "scenario_context": "I'm being constantly harassed and defamed online by a group on Facebook. They're spreading false rumors about me, making hateful comments, and generally trying to ruin my reputation. It's causing me immense stress and affecting my personal and professional life. I've asked them to stop, but they just keep going. What can I do?"
+    },
+    {
+        "query": "Does sending a private picture to someone's father via WhatsApp and threatening to share it on Facebook to blackmail them constitute offenses under Section 21 and Section 24 of PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 21, PECA 2016-2025",
+            "Section 24, PECA 2016-2025"
+        ],
+        "scenario_context": "Someone I know, Naveed, just sent a really embarrassing and private picture of me to my own father via WhatsApp! He's also threatening to share it on Facebook and make it go viral if my family doesn't drop a separate legal case. I'm terrified and humiliated. What can I do to stop him and get justice?"
+    },
+    {
+        "query": "Can an 'online investment dispute' complaint, if it involves dishonest intention and deceit causing harm, potentially fall under Section 14 (Electronic Fraud) of PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 14, PECA 2016-2025"
+        ],
+        "scenario_context": "I run an IT services company, and we recently completed a project for a client. They paid us, we delivered the services, and everything seemed fine. Now, out of nowhere, I'm getting vague notices on WhatsApp from NCCIA, saying there's an 'online investment dispute' complaint against me. They're not giving me clear details, and it feels like harassment. I'm worried about my business and reputation. What should I do if I'm being falsely accused of cybercrime?"
+    },
+    {
+        "query": "Do the illegal recording and use of private photos and videos without consent, coupled with threats to upload them online for blackmail, constitute offenses under Section 20, Section 21, and Section 24 of PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 20, PECA 2016-2025",
+            "Section 21, PECA 2016-2025",
+            "Section 24, PECA 2016-2025"
+        ],
+        "scenario_context": "My private photos and videos, which were taken without my consent, have been illegally recorded and are now being used against me. Someone is threatening to upload them online and share them widely if I don't comply with their demands. This is destroying my reputation and causing severe emotional distress. I feel completely violated and scared. What legal steps can I take?"
+    },
+    {
+        "query": "Does unlawfully changing, altering, tampering with, or reprogramming a unique device identifier (IMEI) of communication equipment fall under Section 18 of PECA 2016-2025?",
+        "answer": "Yes",
+        "gold_passages": [
+            "Section 3, PECA 2016-2025",
+            "Section 13, PECA 2016-2025",
+            "Section 18, PECA 2016-2025",
+            "Section 19, PECA 2016-2025"
+        ],
+        "scenario_context": "I recently bought a second-hand mobile phone, and now I'm hearing rumors that it might have a tampered or cloned IMEI. I'm worried about the legality of possessing such a device and if it could have been used for illegal activities. What does Pakistani cybercrime law say about IMEI tampering and what are the consequences for someone involved in such activities?"
+    }
+]

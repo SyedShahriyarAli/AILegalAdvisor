@@ -1,0 +1,4 @@
+# Bakes Caddyfile into the image so the container user (caddy) can always read it.
+# Bind-mounting from the host often fails with: permission denied (root-owned :ro files).
+FROM docker.io/library/caddy:2-alpine
+COPY Caddyfile.internal /etc/caddy/Caddyfile

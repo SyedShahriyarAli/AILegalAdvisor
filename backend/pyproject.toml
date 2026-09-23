@@ -1,0 +1,32 @@
+[project]
+name = "ai-legal-advisor-backend"
+version = "0.1.0"
+description = "Backend API and legal RAG pipelines for AI Legal Advisor."
+requires-python = ">=3.12"
+keywords = ["legal-ai", "rag", "flask", "neo4j", "pakistan-law"]
+dependencies = [
+    "beautifulsoup4>=4.14.2",
+    "flask>=3.1.2",
+    "flask-cors>=6.0.1",
+    "neo4j>=6.2.0",
+    "numpy<2.0",
+    "pdfplumber>=0.11.7",
+    "selenium>=4.38.0",
+    "sentence-transformers>=5.1.1",
+    "webdriver-manager>=4.0.2",
+    "spacy>=3.7.0",
+    "requests>=2.31.0",
+    "python-dotenv>=1.1.1",
+    "google-generativeai>=0.8.0",
+    "json-repair>=0.30.0",
+    "en-core-web-sm",
+    "langgraph>=1.0.7",
+    "pymongo>=4.15.1",
+    "pillow>=11.3.0",
+    "pytesseract>=0.3.13",
+    "easyocr>=1.7.0",
+    "neo4j-rust-ext>=6.2.0.0",
+]
+
+[tool.uv.sources]
+en-core-web-sm = { url = "https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl" }

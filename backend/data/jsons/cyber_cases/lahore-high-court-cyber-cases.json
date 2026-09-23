@@ -1,0 +1,144 @@
+{
+  "metadata": {
+    "source": "https://data.lhc.gov.pk/reported_judgments/judgments_approved_for_reporting",
+    "scraped_at": "2026-05-02T05:34:01.979007",
+    "total_count": 6,
+    "scrape_mode": "cyber",
+    "domain_filter": "cyber_law",
+    "filter_profile": "cyber_law_v1",
+    "counts": {
+      "raw_listings_seen": 4551,
+      "kept_after_filter": 6
+    }
+  },
+  "judgments": [
+    {
+      "sr_no": "456",
+      "case_title": "Abdullah Zulfiqar Vs Director General FIA etc",
+      "writ_petition": "Criminal Proceedings\n46365/24",
+      "date_of_judgment": "29-04-2025",
+      "hon_judge": "Mr. Justice Tariq Saleem Sheikh",
+      "lhc_citation": "2025 LHC 8155",
+      "pdf_link": "https://sys.lhc.gov.pk/appjudgments/2025LHC8155.pdf",
+      "scraped_at": "2026-05-02T05:20:47.399159",
+      "cyber_law_reason": "Listing text contains token \"fia\" as a whole word (word-boundary match; profile cyber_law_v1).",
+      "cyber_law_match": {
+        "filter_profile": "cyber_law_v1",
+        "triggers": [
+          {
+            "kind": "word_token",
+            "matched": "fia"
+          }
+        ]
+      }
+    },
+    {
+      "sr_no": "15",
+      "case_title": "SADIQ HUSSAIN ETC VS\nDEPUTY DIRECTOR FIA ETC",
+      "writ_petition": "Writ Petition-Criminal Proceedings-Quashing of F.I.R.\n12935-24",
+      "date_of_judgment": "17-12-2024",
+      "hon_judge": "Mr. Justice Tariq Saleem Sheikh",
+      "lhc_citation": "2024 LHC 6351",
+      "pdf_link": "https://sys.lhc.gov.pk/appjudgments/2024LHC6351.pdf",
+      "scraped_at": "2026-05-02T05:21:44.140325",
+      "cyber_law_reason": "Listing text contains token \"fia\" as a whole word (word-boundary match; profile cyber_law_v1).",
+      "cyber_law_match": {
+        "filter_profile": "cyber_law_v1",
+        "triggers": [
+          {
+            "kind": "word_token",
+            "matched": "fia"
+          }
+        ]
+      }
+    },
+    {
+      "sr_no": "133",
+      "case_title": "ALI MURAD SIDDIQUI VS\nSUMMIT BANK LTD ETC",
+      "writ_petition": "Writ Petition-Criminal Proceedings-Federal Investigation Agency (FIA)\n15816-23",
+      "date_of_judgment": "15-10-2024",
+      "hon_judge": "Mr. Justice Tariq Saleem Sheikh",
+      "lhc_citation": "2024 LHC 6699",
+      "pdf_link": "https://sys.lhc.gov.pk/appjudgments/2024LHC6699.pdf",
+      "scraped_at": "2026-05-02T05:21:52.850429",
+      "cyber_law_reason": "Listing text contains token \"fia\" as a whole word (word-boundary match; profile cyber_law_v1).",
+      "cyber_law_match": {
+        "filter_profile": "cyber_law_v1",
+        "triggers": [
+          {
+            "kind": "word_token",
+            "matched": "fia"
+          }
+        ]
+      }
+    },
+    {
+      "sr_no": "361",
+      "case_title": "Muhammad Bilal Vs D.G FIA etc.",
+      "writ_petition": "Criminal Proceedings\n75231/23",
+      "date_of_judgment": "04-04-2024",
+      "hon_judge": "Mr. Justice Tariq Saleem Sheikh",
+      "lhc_citation": "2024 LHC 3288",
+      "pdf_link": "https://sys.lhc.gov.pk/appjudgments/2024LHC3288.pdf",
+      "scraped_at": "2026-05-02T05:22:09.423922",
+      "cyber_law_reason": "Listing text contains token \"fia\" as a whole word (word-boundary match; profile cyber_law_v1).",
+      "cyber_law_match": {
+        "filter_profile": "cyber_law_v1",
+        "triggers": [
+          {
+            "kind": "word_token",
+            "matched": "fia"
+          }
+        ]
+      }
+    },
+    {
+      "sr_no": "383",
+      "case_title": "Munir Ahmad Bhatti Vs The Director FIA Cyber Crime Wing etc",
+      "writ_petition": "Criminal Proceedings\n65490/21",
+      "date_of_judgment": "15-03-2022",
+      "hon_judge": "Mr. Justice Tariq Saleem Sheikh",
+      "lhc_citation": "2022 LHC 2222",
+      "pdf_link": "https://sys.lhc.gov.pk/appjudgments/2022LHC2222.pdf",
+      "scraped_at": "2026-05-02T05:24:26.140801",
+      "cyber_law_reason": "Listing text contains phrase \"cyber crime\" (substring match in combined fields; profile cyber_law_v1). Additional triggers: phrase:'cyber crime wing', word_token:'fia'.",
+      "cyber_law_match": {
+        "filter_profile": "cyber_law_v1",
+        "triggers": [
+          {
+            "kind": "phrase",
+            "matched": "cyber crime"
+          },
+          {
+            "kind": "phrase",
+            "matched": "cyber crime wing"
+          },
+          {
+            "kind": "word_token",
+            "matched": "fia"
+          }
+        ]
+      }
+    },
+    {
+      "sr_no": "56",
+      "case_title": "Al-Arabia Sugar Mills Limited etc Vs FIA etc",
+      "writ_petition": "Criminal Proceedings\n40585/20",
+      "date_of_judgment": "03-11-2020",
+      "hon_judge": "Mr. Justice Shahid Karim",
+      "lhc_citation": "2020 LHC 2619",
+      "pdf_link": "https://sys.lhc.gov.pk/appjudgments/2020LHC2619.pdf",
+      "scraped_at": "2026-05-02T05:26:26.841381",
+      "cyber_law_reason": "Listing text contains token \"fia\" as a whole word (word-boundary match; profile cyber_law_v1).",
+      "cyber_law_match": {
+        "filter_profile": "cyber_law_v1",
+        "triggers": [
+          {
+            "kind": "word_token",
+            "matched": "fia"
+          }
+        ]
+      }
+    }
+  ]
+}

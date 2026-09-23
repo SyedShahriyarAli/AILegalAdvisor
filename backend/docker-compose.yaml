@@ -1,0 +1,21 @@
+services:
+  neo4j:
+    image: neo4j:latest
+
+    container_name: neo4j-graph-db
+
+    environment:
+      - NEO4J_ACCEPT_LICENSE_AGREEMENT=yes
+      - NEO4J_AUTH=neo4j/abcd1234$
+      # - NEO4J_dbms_memory_heap_max__size=2G 
+
+    ports:
+      - 7474:7474
+      - 7687:7687
+
+    volumes:
+      - ./neo4j/data:/neo4j/data
+      - ./neo4j/logs:/neo4j/logs
+      - ./neo4j/import:/var/lib/neo4j/import
+
+    restart: unless-stopped
